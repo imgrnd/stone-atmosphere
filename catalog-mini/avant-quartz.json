@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "name": "Калакатта Амели - Тадж Махал",
+      "code": "5700",
+      "image": "imgs/stones/avant-quartz/digital-print/5700.jpg",
+      "href": "palette.html#avant-quartz-digital-print",
+      "new": false
+    },
+    {
+      "name": "Калакатта Эно",
+      "code": "7000",
+      "image": "imgs/stones/avant-quartz/kollekciya-elit/7000.jpg",
+      "href": "palette.html#avant-quartz-kollekciya-elit",
+      "new": false
+    },
+    {
+      "name": "Нант",
+      "code": "8011",
+      "image": "imgs/stones/avant-quartz/kollekciya-oksid/8011.jpg",
+      "href": "palette.html#avant-quartz-kollekciya-oksid",
+      "new": false
+    },
+    {
+      "name": "Грей Тур",
+      "code": "2060",
+      "image": "imgs/stones/avant-quartz/premialnaya-mramornaya-kollekciya/2060.jpg",
+      "href": "palette.html#avant-quartz-premialnaya-mramornaya-kollekciya",
+      "new": false
+    },
+    {
+      "name": "Аваллон / 1111 Аваллон (М)",
+      "code": "1111",
+      "image": "imgs/stones/avant-quartz/granitnaya-kollekciya/1111.jpg",
+      "href": "palette.html#avant-quartz-granitnaya-kollekciya",
+      "new": false
+    },
+    {
+      "name": "Калакатта Шери",
+      "code": "5750",
+      "image": "imgs/stones/avant-quartz/digital-print/5750.jpg",
+      "href": "palette.html#avant-quartz-digital-print",
+      "new": false
+    },
+    {
+      "name": "Калакатта Шенонсо",
+      "code": "7030",
+      "image": "imgs/stones/avant-quartz/kollekciya-elit/7030.jpg",
+      "href": "palette.html#avant-quartz-kollekciya-elit",
+      "new": false
+    },
+    {
+      "name": "Каркассон",
+      "code": "8033",
+      "image": "imgs/stones/avant-quartz/kollekciya-oksid/8033.jpg",
+      "href": "palette.html#avant-quartz-kollekciya-oksid",
+      "new": false
+    },
+    {
+      "name": "Бурбонне",
+      "code": "9005",
+      "image": "imgs/stones/avant-quartz/premialnaya-mramornaya-kollekciya/9005.jpg",
+      "href": "palette.html#avant-quartz-premialnaya-mramornaya-kollekciya",
+      "new": false
+    },
+    {
+      "name": "Клермон",
+      "code": "1220",
+      "image": "imgs/stones/avant-quartz/granitnaya-kollekciya/1220.jpg",
+      "href": "palette.html#avant-quartz-granitnaya-kollekciya",
+      "new": false
+    },
+    {
+      "name": "Калакатта Бессон",
+      "code": "5751",
+      "image": "imgs/stones/avant-quartz/digital-print/5751.jpg",
+      "href": "palette.html#avant-quartz-digital-print",
+      "new": false
+    },
+    {
+      "name": "Калакатта Бомениль",
+      "code": "7040",
+      "image": "imgs/stones/avant-quartz/kollekciya-elit/7040.jpg",
+      "href": "palette.html#avant-quartz-kollekciya-elit",
+      "new": false
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "name": "Белый нефрит / Jade White",
+      "code": "Q117",
+      "image": "imgs/stones/noblle/basic/Q117.jpg",
+      "href": "palette.html#noblle-basic",
+      "new": false
+    },
+    {
+      "name": "Белая волшебная калакатта / Calacatta Magic White",
+      "code": "Q796",
+      "image": "imgs/stones/noblle/unique/Q796.jpg",
+      "href": "palette.html#noblle-unique",
+      "new": false
+    },
+    {
+      "name": "Калакатта Борджини / Calacatta Borghini",
+      "code": "Q703",
+      "image": "imgs/stones/noblle/kalakatta/Q703.jpg",
+      "href": "palette.html#noblle-kalakatta",
+      "new": false
+    },
+    {
+      "name": "Марквина Бетон / Beton Marquina",
+      "code": "Q801",
+      "image": "imgs/stones/noblle/kollekciya-oksid/Q801.jpg",
+      "href": "palette.html#noblle-kollekciya-oksid",
+      "new": true
+    },
+    {
+      "name": "Carrara",
+      "code": "Q715",
+      "image": "imgs/stones/noblle/premialnaya-mramornaya-kollekciya/Q715.jpg",
+      "href": "palette.html#noblle-premialnaya-mramornaya-kollekciya",
+      "new": false
+    },
+    {
+      "name": "Черный песок / Black Sand",
+      "code": "Q131",
+      "image": "imgs/stones/noblle/basic/Q131.jpg",
+      "href": "palette.html#noblle-basic",
+      "new": false
+    },
+    {
+      "name": "Калакатта истинный свет / Calacatta True Light",
+      "code": "Q797",
+      "image": "imgs/stones/noblle/unique/Q797.jpg",
+      "href": "palette.html#noblle-unique",
+      "new": false
+    },
+    {
+      "name": "Черная Сахара / Sahara Noir",
+      "code": "Q707",
+      "image": "imgs/stones/noblle/kalakatta/Q707.jpg",
+      "href": "palette.html#noblle-kalakatta",
+      "new": false
+    },
+    {
+      "name": "Серое свечение / Gray Glow",
+      "code": "Q810",
+      "image": "imgs/stones/noblle/kollekciya-oksid/Q810.jpg",
+      "href": "palette.html#noblle-kollekciya-oksid",
+      "new": false
+    },
+    {
+      "name": "Солнечная Каррара / Carrara Sun",
+      "code": "Q716",
+      "image": "imgs/stones/noblle/premialnaya-mramornaya-kollekciya/Q716.jpg",
+      "href": "palette.html#noblle-premialnaya-mramornaya-kollekciya",
+      "new": false
+    },
+    {
+      "name": "Элегантная калакатта / Calacatta Elegant",
+      "code": "Q798",
+      "image": "imgs/stones/noblle/unique/Q798.jpg",
+      "href": "palette.html#noblle-unique",
+      "new": false
+    },
+    {
+      "name": "Калакатта Венато / Calacatta Venato",
+      "code": "Q740",
+      "image": "imgs/stones/noblle/kalakatta/Q740.jpg",
+      "href": "palette.html#noblle-kalakatta",
+      "new": false
+    }
+  ]
+}

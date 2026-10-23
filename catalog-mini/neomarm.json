@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "name": "Ветер Пустыни / Desert blow",
+      "code": "NM 102",
+      "image": "imgs/stones/neomarm/mramornaya-nm/NM-102.jpg",
+      "href": "palette.html#neomarm-mramornaya-nm",
+      "new": false
+    },
+    {
+      "name": "Белый / White",
+      "code": "N 010",
+      "image": "imgs/stones/neomarm/granitnaya-n/N-010.jpg",
+      "href": "palette.html#neomarm-granitnaya-n",
+      "new": false
+    },
+    {
+      "name": "Каменный Цветок / Petro bloom",
+      "code": "NM 108",
+      "image": "imgs/stones/neomarm/mramornaya-nm/NM-108.jpg",
+      "href": "palette.html#neomarm-mramornaya-nm",
+      "new": false
+    },
+    {
+      "name": "Кристальный Беж / Crystal Beige",
+      "code": "N 101",
+      "image": "imgs/stones/neomarm/granitnaya-n/N-101.jpg",
+      "href": "palette.html#neomarm-granitnaya-n",
+      "new": false
+    },
+    {
+      "name": "Белая Стихия / Magic dust",
+      "code": "NM 109",
+      "image": "imgs/stones/neomarm/mramornaya-nm/NM-109.jpg",
+      "href": "palette.html#neomarm-mramornaya-nm",
+      "new": false
+    },
+    {
+      "name": "Серый Оникс / Gray Onix",
+      "code": "N 103",
+      "image": "imgs/stones/neomarm/granitnaya-n/N-103.jpg",
+      "href": "palette.html#neomarm-granitnaya-n",
+      "new": false
+    },
+    {
+      "name": "Мираж / Foggy shell",
+      "code": "NM 110",
+      "image": "imgs/stones/neomarm/mramornaya-nm/NM-110.jpg",
+      "href": "palette.html#neomarm-mramornaya-nm",
+      "new": false
+    },
+    {
+      "name": "Кремовый Бархат / Sanded Cream",
+      "code": "N 421",
+      "image": "imgs/stones/neomarm/granitnaya-n/N-421.jpg",
+      "href": "palette.html#neomarm-granitnaya-n",
+      "new": false
+    },
+    {
+      "name": "Цветочный Сад / Flower cloud",
+      "code": "NM 111",
+      "image": "imgs/stones/neomarm/mramornaya-nm/NM-111.jpg",
+      "href": "palette.html#neomarm-mramornaya-nm",
+      "new": false
+    },
+    {
+      "name": "Темный Песок / Sanded Night",
+      "code": "N 423",
+      "image": "imgs/stones/neomarm/granitnaya-n/N-423.jpg",
+      "href": "palette.html#neomarm-granitnaya-n",
+      "new": false
+    },
+    {
+      "name": "Природная Эссенция / Natural Essence",
+      "code": "NM 120",
+      "image": "imgs/stones/neomarm/mramornaya-nm/NM-120.jpg",
+      "href": "palette.html#neomarm-mramornaya-nm",
+      "new": true
+    },
+    {
+      "name": "Знойный Песок / Sahara",
+      "code": "N 440",
+      "image": "imgs/stones/neomarm/granitnaya-n/N-440.jpg",
+      "href": "palette.html#neomarm-granitnaya-n",
+      "new": false
+    }
+  ]
+}

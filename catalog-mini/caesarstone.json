@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "name": "Бетонный Ливень / Cloudburst Concrete",
+      "code": "4011",
+      "image": "imgs/stones/caesarstone/metropolitan/4011.jpg",
+      "href": "palette.html#caesarstone-metropolitan",
+      "new": false
+    },
+    {
+      "name": "Серый Камень / Piatra Grey",
+      "code": "5003",
+      "image": "imgs/stones/caesarstone/supernatural/5003.jpg",
+      "href": "palette.html#caesarstone-supernatural",
+      "new": false
+    },
+    {
+      "name": "Чистый Белый / Pure White",
+      "code": "1141",
+      "image": "imgs/stones/caesarstone/classico/1141.jpg",
+      "href": "palette.html#caesarstone-classico",
+      "new": false
+    },
+    {
+      "name": "Бетонный Континент / Topus Concrete",
+      "code": "4023",
+      "image": "imgs/stones/caesarstone/metropolitan/4023.jpg",
+      "href": "palette.html#caesarstone-metropolitan",
+      "new": false
+    },
+    {
+      "name": "Montblanc",
+      "code": "5043",
+      "image": "imgs/stones/caesarstone/supernatural/5043.jpg",
+      "href": "palette.html#caesarstone-supernatural",
+      "new": false
+    },
+    {
+      "name": "Ультра Черный / Jet Black",
+      "code": "3100",
+      "image": "imgs/stones/caesarstone/classico/3100.jpg",
+      "href": "palette.html#caesarstone-classico",
+      "new": false
+    },
+    {
+      "name": "Прочный Бетон / Rugged Concrete",
+      "code": "4033",
+      "image": "imgs/stones/caesarstone/metropolitan/4033.jpg",
+      "href": "palette.html#caesarstone-metropolitan",
+      "new": false
+    },
+    {
+      "name": "Черная Ваниль / Vanilla Noir",
+      "code": "5100",
+      "image": "imgs/stones/caesarstone/supernatural/5100.jpg",
+      "href": "palette.html#caesarstone-supernatural",
+      "new": false
+    },
+    {
+      "name": "Ракушечник / Clamshell",
+      "code": "4130",
+      "image": "imgs/stones/caesarstone/classico/4130.jpg",
+      "href": "palette.html#caesarstone-classico",
+      "new": false
+    },
+    {
+      "name": "Воздушный Бетон / Airy Concrete",
+      "code": "4044",
+      "image": "imgs/stones/caesarstone/metropolitan/4044.jpg",
+      "href": "palette.html#caesarstone-metropolitan",
+      "new": false
+    },
+    {
+      "name": "Альпийский-Туман / Alpine Mist",
+      "code": "5110",
+      "image": "imgs/stones/caesarstone/supernatural/5110.jpg",
+      "href": "palette.html#caesarstone-supernatural",
+      "new": false
+    },
+    {
+      "name": "Шитаке / Shitake",
+      "code": "4230",
+      "image": "imgs/stones/caesarstone/classico/4230.jpg",
+      "href": "palette.html#caesarstone-classico",
+      "new": false
+    }
+  ]
+}

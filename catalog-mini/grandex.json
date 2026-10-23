@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "name": "Ареццо / Arezzo",
+      "code": "C 801",
+      "image": "imgs/stones/grandex/crevice/C-801.jpg",
+      "href": "palette.html#grandex-crevice",
+      "new": false
+    },
+    {
+      "name": "Ночной Океан / Notte Bianca",
+      "code": "M 605",
+      "image": "imgs/stones/grandex/marble-ocean-m/M-605.jpg",
+      "href": "palette.html#grandex-marble-ocean-m",
+      "new": true
+    },
+    {
+      "name": "Снежный Кварц / Snowy Moscow",
+      "code": "E 603",
+      "image": "imgs/stones/grandex/explorer-e/E-603.jpg",
+      "href": "palette.html#grandex-explorer-e",
+      "new": false
+    },
+    {
+      "name": "Сияние Бриллианта / Cut Diamond",
+      "code": "J 504",
+      "image": "imgs/stones/grandex/jewel-j/J-504.jpg",
+      "href": "palette.html#grandex-jewel-j",
+      "new": false
+    },
+    {
+      "name": "Облачный Пик / Cloudy Mount",
+      "code": "A 401",
+      "image": "imgs/stones/grandex/adventure-a/A-401.jpg",
+      "href": "palette.html#grandex-adventure-a",
+      "new": false
+    },
+    {
+      "name": "Маковый Рулет / Poppy Seed",
+      "code": "D 301",
+      "image": "imgs/stones/grandex/delicious-edition-d/D-301.jpg",
+      "href": "palette.html#grandex-delicious-edition-d",
+      "new": false
+    },
+    {
+      "name": "Морской Песок / Dirty Sand",
+      "code": "S 201",
+      "image": "imgs/stones/grandex/sand-and-sky-s/S-201.jpg",
+      "href": "palette.html#grandex-sand-and-sky-s",
+      "new": false
+    },
+    {
+      "name": "Ванильный / Pure Vanilla",
+      "code": "P 101",
+      "image": "imgs/stones/grandex/pure-color-p/P-101.jpg",
+      "href": "palette.html#grandex-pure-color-p",
+      "new": false
+    },
+    {
+      "name": "Пьяченца / Piacenza",
+      "code": "C 802",
+      "image": "imgs/stones/grandex/crevice/C-802.jpg",
+      "href": "palette.html#grandex-crevice",
+      "new": false
+    },
+    {
+      "name": "Серый Шторм / Grigio Bianca",
+      "code": "M 606",
+      "image": "imgs/stones/grandex/marble-ocean-m/M-606.jpg",
+      "href": "palette.html#grandex-marble-ocean-m",
+      "new": true
+    },
+    {
+      "name": "Индийская Гранат / Indian Mantra",
+      "code": "E 605",
+      "image": "imgs/stones/grandex/explorer-e/E-605.jpg",
+      "href": "palette.html#grandex-explorer-e",
+      "new": false
+    },
+    {
+      "name": "Жемчужный Опал / Pearl Necklace",
+      "code": "J 505",
+      "image": "imgs/stones/grandex/jewel-j/J-505.jpg",
+      "href": "palette.html#grandex-jewel-j",
+      "new": false
+    }
+  ]
+}

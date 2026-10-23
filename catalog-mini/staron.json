@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "name": "Breeze",
+      "code": "VB325",
+      "image": "imgs/stones/staron/aria/VB325.jpg",
+      "href": "palette.html#staron-aria",
+      "new": false
+    },
+    {
+      "name": "Venezia",
+      "code": "NT150",
+      "image": "imgs/stones/staron/terrazzo/NT150.jpg",
+      "href": "palette.html#staron-terrazzo",
+      "new": false
+    },
+    {
+      "name": "PREMIERE Gravita",
+      "code": "VG392",
+      "image": "imgs/stones/staron/premiere/VG392.jpg",
+      "href": "palette.html#staron-premiere",
+      "new": false
+    },
+    {
+      "name": "Arctic White",
+      "code": "VA311",
+      "image": "imgs/stones/staron/supreme/VA311.png",
+      "href": "palette.html#staron-supreme",
+      "new": false
+    },
+    {
+      "name": "Coffee Bean",
+      "code": "FC158",
+      "image": "imgs/stones/staron/tempest/FC158.jpg",
+      "href": "palette.html#staron-tempest",
+      "new": false
+    },
+    {
+      "name": "Brown",
+      "code": "AB632",
+      "image": "imgs/stones/staron/aspen/AB632.png",
+      "href": "palette.html#staron-aspen",
+      "new": false
+    },
+    {
+      "name": "Galaxy",
+      "code": "EG595",
+      "image": "imgs/stones/staron/metallic/EG595.jpg",
+      "href": "palette.html#staron-metallic",
+      "new": false
+    },
+    {
+      "name": "Dalmatian",
+      "code": "QD212",
+      "image": "imgs/stones/staron/mosaic/QD212.jpg",
+      "href": "palette.html#staron-mosaic",
+      "new": false
+    },
+    {
+      "name": "Aqua",
+      "code": "PA860",
+      "image": "imgs/stones/staron/pebble/PA860.png",
+      "href": "palette.html#staron-pebble",
+      "new": false
+    },
+    {
+      "name": "Starred",
+      "code": "QS288",
+      "image": "imgs/stones/staron/quarry/QS288.jpg",
+      "href": "palette.html#staron-quarry",
+      "new": false
+    },
+    {
+      "name": "Dark Nebula",
+      "code": "DN421",
+      "image": "imgs/stones/staron/sanded/DN421.png",
+      "href": "palette.html#staron-sanded",
+      "new": false
+    },
+    {
+      "name": "Onyx",
+      "code": "ON095",
+      "image": "imgs/stones/staron/solid/ON095.png",
+      "href": "palette.html#staron-solid",
+      "new": false
+    }
+  ]
+}

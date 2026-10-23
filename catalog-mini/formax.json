@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "name": "Молочный Флёр / Milky Haze",
+      "code": "J-1102",
+      "image": "imgs/stones/formax/clear-collection/J-1102.jpg",
+      "href": "palette.html#formax-clear-collection",
+      "new": false
+    },
+    {
+      "name": "Золотая Равнина / Golden Plain",
+      "code": "F-2109",
+      "image": "imgs/stones/formax/granite-collection/F-2109.jpg",
+      "href": "palette.html#formax-granite-collection",
+      "new": false
+    },
+    {
+      "name": "Янтарный Свет / Ivory Glow",
+      "code": "V-8008",
+      "image": "imgs/stones/formax/natural-collection/V-8008.jpg",
+      "href": "palette.html#formax-natural-collection",
+      "new": false
+    },
+    {
+      "name": "Морозное Сияние / Frost Light",
+      "code": "K-110",
+      "image": "imgs/stones/formax/aesthetic-collection/K-110.jpg",
+      "href": "palette.html#formax-aesthetic-collection",
+      "new": false
+    },
+    {
+      "name": "Белый / White",
+      "code": "J-1104",
+      "image": "imgs/stones/formax/clear-collection/J-1104.jpg",
+      "href": "palette.html#formax-clear-collection",
+      "new": false
+    },
+    {
+      "name": "Облачная Корона / Cloud Crown",
+      "code": "F-2110",
+      "image": "imgs/stones/formax/granite-collection/F-2110.jpg",
+      "href": "palette.html#formax-granite-collection",
+      "new": false
+    },
+    {
+      "name": "Молочная Река / White Stream",
+      "code": "V-8016",
+      "image": "imgs/stones/formax/natural-collection/V-8016.jpg",
+      "href": "palette.html#formax-natural-collection",
+      "new": false
+    },
+    {
+      "name": "Дыхание Ветра / Eternal Breath",
+      "code": "K-172",
+      "image": "imgs/stones/formax/aesthetic-collection/K-172.jpg",
+      "href": "palette.html#formax-aesthetic-collection",
+      "new": false
+    },
+    {
+      "name": "Черный / Black",
+      "code": "J-1105",
+      "image": "imgs/stones/formax/clear-collection/J-1105.jpg",
+      "href": "palette.html#formax-clear-collection",
+      "new": false
+    },
+    {
+      "name": "Сладкий Мокко / Soft Mocha",
+      "code": "F-2111",
+      "image": "imgs/stones/formax/granite-collection/F-2111.jpg",
+      "href": "palette.html#formax-granite-collection",
+      "new": false
+    },
+    {
+      "name": "Первые Лучи / Morning Dust",
+      "code": "V-8021",
+      "image": "imgs/stones/formax/natural-collection/V-8021.jpg",
+      "href": "palette.html#formax-natural-collection",
+      "new": false
+    },
+    {
+      "name": "Ночная Молния / Night Lightning",
+      "code": "K-527",
+      "image": "imgs/stones/formax/aesthetic-collection/K-527.jpg",
+      "href": "palette.html#formax-aesthetic-collection",
+      "new": false
+    }
+  ]
+}

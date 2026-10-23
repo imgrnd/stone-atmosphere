@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "name": "Белая Тайга",
+      "code": "R104 / RM104",
+      "image": "imgs/stones/avarus-nash-kvarc/monokolor/R104-RM104.jpg",
+      "href": "palette.html#avarus-nash-kvarc-monokolor",
+      "new": false
+    },
+    {
+      "name": "Соль Каспия",
+      "code": "R112",
+      "image": "imgs/stones/avarus-nash-kvarc/granitnaya/R112.jpg",
+      "href": "palette.html#avarus-nash-kvarc-granitnaya",
+      "new": false
+    },
+    {
+      "name": "Белое Море",
+      "code": "R711 / RM711",
+      "image": "imgs/stones/avarus-nash-kvarc/kalakatta/R711-RM711.jpg",
+      "href": "palette.html#avarus-nash-kvarc-kalakatta",
+      "new": true
+    },
+    {
+      "name": "Скалы Карелии",
+      "code": "R403 / RM403",
+      "image": "imgs/stones/avarus-nash-kvarc/mramornaya-kollekciya/R403-RM403.jpg",
+      "href": "palette.html#avarus-nash-kvarc-mramornaya-kollekciya",
+      "new": false
+    },
+    {
+      "name": "Алмазы Якутии",
+      "code": "R122",
+      "image": "imgs/stones/avarus-nash-kvarc/granitnaya/R122.jpg",
+      "href": "palette.html#avarus-nash-kvarc-granitnaya",
+      "new": false
+    },
+    {
+      "name": "Жемчужина Казани",
+      "code": "R716",
+      "image": "imgs/stones/avarus-nash-kvarc/kalakatta/R716.jpg",
+      "href": "palette.html#avarus-nash-kvarc-kalakatta",
+      "new": true
+    },
+    {
+      "name": "Ай-Петри",
+      "code": "R444 / RM444",
+      "image": "imgs/stones/avarus-nash-kvarc/mramornaya-kollekciya/R444-RM444.jpg",
+      "href": "palette.html#avarus-nash-kvarc-mramornaya-kollekciya",
+      "new": false
+    },
+    {
+      "name": "Солнечный Сочи",
+      "code": "R723",
+      "image": "imgs/stones/avarus-nash-kvarc/kalakatta/R723.jpg",
+      "href": "palette.html#avarus-nash-kvarc-kalakatta",
+      "new": true
+    },
+    {
+      "name": "Жемчуг Приморья",
+      "code": "R500",
+      "image": "imgs/stones/avarus-nash-kvarc/mramornaya-kollekciya/R500.jpg",
+      "href": "palette.html#avarus-nash-kvarc-mramornaya-kollekciya",
+      "new": false
+    },
+    {
+      "name": "Амурские волны",
+      "code": "R727 / RM727",
+      "image": "imgs/stones/avarus-nash-kvarc/kalakatta/R727-RM727.jpg",
+      "href": "palette.html#avarus-nash-kvarc-kalakatta",
+      "new": true
+    },
+    {
+      "name": "Уральские горы",
+      "code": "R503",
+      "image": "imgs/stones/avarus-nash-kvarc/mramornaya-kollekciya/R503.jpg",
+      "href": "palette.html#avarus-nash-kvarc-mramornaya-kollekciya",
+      "new": false
+    },
+    {
+      "name": "Крымские грозы",
+      "code": "R760 / RM760",
+      "image": "imgs/stones/avarus-nash-kvarc/kalakatta/R760-RM760.jpg",
+      "href": "palette.html#avarus-nash-kvarc-kalakatta",
+      "new": true
+    }
+  ]
+}

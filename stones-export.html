@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Экспорт коллекций — служебная</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Onest:wght@300;500&display=swap">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="catalog-admin-page">
+  <main class="stones-export stones-export--tool">
+    <header class="stones-export__head">
+      <p class="stones-export__eyebrow"><a href="admin.html">Админка</a> / Экспорт партнёров</p>
+      <h1 class="stones-export__title">Экспорт коллекций с сайтов партнёров</h1>
+      <p class="stones-export__lead">Данные собираются в формат <code>stones.json</code>, затем картинки и HTML обновляются скриптом <code>scripts/fetch-stones.py</code>.</p>
+    </header>
+
+    <section class="stones-export__panel stones-export__panel--card" aria-labelledby="stones-export-sources">
+      <h2 class="stones-export__section-title" id="stones-export-sources">Источники</h2>
+      <p class="stones-export__panel-hint">Откуда подтягиваются образцы и превью</p>
+      <dl class="stones-export__sources">
+        <div>
+          <dt>Interstone</dt>
+          <dd>Кварц и акрил (кроме Staron): API <code>/api/front/stones/</code>, превью 540px в <code>media/images/540/stones/</code>.</dd>
+        </div>
+        <div>
+          <dt>Staron</dt>
+          <dd>Акрил Staron: HTML-карточки <code>prodcard</code> на <code>staron.ru/catalog/{коллекция}/</code>.</dd>
+        </div>
+        <div>
+          <dt>HI-MACS</dt>
+          <dd>Акрил HI-MACS: одна страница <code>hi-macs.ru/colors</code>, кадры <code>/img/colors/…/full_*</code>.</dd>
+        </div>
+      </dl>
+      <p class="stones-export__note stones-export__alert" id="stones-export-server" hidden></p>
+    </section>
+
+    <form class="stones-export__form stones-export__panel stones-export__panel--card" id="stones-export-form">
+      <fieldset class="stones-export__fieldset">
+        <legend class="stones-export__legend">Параметры выгрузки</legend>
+        <p class="stones-export__panel-hint">Выберите источник, бренд и при необходимости одну коллекцию</p>
+
+        <div class="stones-export__field">
+          <span class="stones-export__field-label">Источник</span>
+          <div class="stones-export__choices" role="group" aria-label="Источник">
+            <label class="stones-export__choice">
+              <input type="radio" name="source" value="interstone" checked>
+              Interstone
+            </label>
+            <label class="stones-export__choice">
+              <input type="radio" name="source" value="staron">
+              Staron
+            </label>
+            <label class="stones-export__choice">
+              <input type="radio" name="source" value="himacs">
+              HI-MACS
+            </label>
+          </div>
+        </div>
+
+        <div class="stones-export__row">
+          <div class="stones-export__field" id="stones-export-brand-field">
+            <label class="stones-export__field-label" for="stones-export-brand">Бренд в stones.json</label>
+            <select class="stones-export__control" id="stones-export-brand" name="brandId"></select>
+          </div>
+          <div class="stones-export__field">
+            <label class="stones-export__field-label" for="stones-export-collection">Коллекция</label>
+            <select class="stones-export__control" id="stones-export-collection" name="collectionId">
+              <option value="">Все коллекции бренда</option>
+            </select>
+          </div>
+        </div>
+
+        <p class="stones-export__hint" id="stones-export-hint"></p>
+
+        <div class="stones-export__actions">
+          <button class="stones-export__submit" type="submit">Загрузить с сайта партнёра</button>
+          <button class="stones-export__secondary" type="button" id="stones-export-download" disabled>Скачать фрагмент JSON</button>
+        </div>
+      </fieldset>
+    </form>
+
+    <section class="stones-export__panel stones-export__panel--card" id="stones-export-result" hidden>
+      <h2 class="stones-export__section-title">Результат</h2>
+      <p class="stones-export__stats" id="stones-export-stats"></p>
+      <ul class="stones-export__preview" id="stones-export-preview"></ul>
+      <label class="stones-export__field stones-export__json-field">
+        <span class="stones-export__field-label">Фрагмент для stones.json (поле <code>shades</code>)</span>
+        <textarea class="stones-export__control stones-export__area stones-export__json" id="stones-export-json" readonly rows="12" spellcheck="false"></textarea>
+      </label>
+    </section>
+  </main>
+  <script src="stones-export.js" defer></script>
+</body>
+</html>

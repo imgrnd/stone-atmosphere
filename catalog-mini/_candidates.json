@@ -1,0 +1,4373 @@
+{
+  "brands": [
+    {
+      "id": "avarus-nash-kvarc",
+      "name": "АВАРУС",
+      "type": "Кварцевый агломерат",
+      "href": "palette.html#avarus-nash-kvarc",
+      "candidateCount": 29,
+      "items": [
+        {
+          "name": "Белая Тайга",
+          "code": "R104 / RM104",
+          "image": "imgs/stones/avarus-nash-kvarc/monokolor/R104-RM104.jpg",
+          "href": "palette.html#avarus-nash-kvarc-monokolor",
+          "new": false
+        },
+        {
+          "name": "Соль Каспия",
+          "code": "R112",
+          "image": "imgs/stones/avarus-nash-kvarc/granitnaya/R112.jpg",
+          "href": "palette.html#avarus-nash-kvarc-granitnaya",
+          "new": false
+        },
+        {
+          "name": "Алмазы Якутии",
+          "code": "R122",
+          "image": "imgs/stones/avarus-nash-kvarc/granitnaya/R122.jpg",
+          "href": "palette.html#avarus-nash-kvarc-granitnaya",
+          "new": false
+        },
+        {
+          "name": "Белое Море",
+          "code": "R711 / RM711",
+          "image": "imgs/stones/avarus-nash-kvarc/kalakatta/R711-RM711.jpg",
+          "href": "palette.html#avarus-nash-kvarc-kalakatta",
+          "new": true
+        },
+        {
+          "name": "Жемчужина Казани",
+          "code": "R716",
+          "image": "imgs/stones/avarus-nash-kvarc/kalakatta/R716.jpg",
+          "href": "palette.html#avarus-nash-kvarc-kalakatta",
+          "new": true
+        },
+        {
+          "name": "Солнечный Сочи",
+          "code": "R723",
+          "image": "imgs/stones/avarus-nash-kvarc/kalakatta/R723.jpg",
+          "href": "palette.html#avarus-nash-kvarc-kalakatta",
+          "new": true
+        },
+        {
+          "name": "Амурские волны",
+          "code": "R727 / RM727",
+          "image": "imgs/stones/avarus-nash-kvarc/kalakatta/R727-RM727.jpg",
+          "href": "palette.html#avarus-nash-kvarc-kalakatta",
+          "new": true
+        },
+        {
+          "name": "Крымские грозы",
+          "code": "R760 / RM760",
+          "image": "imgs/stones/avarus-nash-kvarc/kalakatta/R760-RM760.jpg",
+          "href": "palette.html#avarus-nash-kvarc-kalakatta",
+          "new": true
+        },
+        {
+          "name": "Москва Белокаменная",
+          "code": "R777",
+          "image": "imgs/stones/avarus-nash-kvarc/kalakatta/R777.jpg",
+          "href": "palette.html#avarus-nash-kvarc-kalakatta",
+          "new": true
+        },
+        {
+          "name": "Янтарный пляж",
+          "code": "R797 / RM797",
+          "image": "imgs/stones/avarus-nash-kvarc/kalakatta/R797-RM797.jpg",
+          "href": "palette.html#avarus-nash-kvarc-kalakatta",
+          "new": true
+        },
+        {
+          "name": "Скалы Карелии",
+          "code": "R403 / RM403",
+          "image": "imgs/stones/avarus-nash-kvarc/mramornaya-kollekciya/R403-RM403.jpg",
+          "href": "palette.html#avarus-nash-kvarc-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "Ай-Петри",
+          "code": "R444 / RM444",
+          "image": "imgs/stones/avarus-nash-kvarc/mramornaya-kollekciya/R444-RM444.jpg",
+          "href": "palette.html#avarus-nash-kvarc-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "Жемчуг Приморья",
+          "code": "R500",
+          "image": "imgs/stones/avarus-nash-kvarc/mramornaya-kollekciya/R500.jpg",
+          "href": "palette.html#avarus-nash-kvarc-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "Уральские горы",
+          "code": "R503",
+          "image": "imgs/stones/avarus-nash-kvarc/mramornaya-kollekciya/R503.jpg",
+          "href": "palette.html#avarus-nash-kvarc-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "Черное Море",
+          "code": "R510 / RM510",
+          "image": "imgs/stones/avarus-nash-kvarc/mramornaya-kollekciya/R510-RM510.jpg",
+          "href": "palette.html#avarus-nash-kvarc-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "Лед Байкала",
+          "code": "R511 / RM511",
+          "image": "imgs/stones/avarus-nash-kvarc/mramornaya-kollekciya/R511-RM511.jpg",
+          "href": "palette.html#avarus-nash-kvarc-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "Вулканы Камчатки",
+          "code": "R515",
+          "image": "imgs/stones/avarus-nash-kvarc/mramornaya-kollekciya/R515.jpg",
+          "href": "palette.html#avarus-nash-kvarc-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "Астраханские пески",
+          "code": "R520 / RM520",
+          "image": "imgs/stones/avarus-nash-kvarc/mramornaya-kollekciya/R520-RM520.jpg",
+          "href": "palette.html#avarus-nash-kvarc-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "Золотое Кольцо",
+          "code": "R522",
+          "image": "imgs/stones/avarus-nash-kvarc/mramornaya-kollekciya/R522.jpg",
+          "href": "palette.html#avarus-nash-kvarc-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "Донская Степь",
+          "code": "R531",
+          "image": "imgs/stones/avarus-nash-kvarc/mramornaya-kollekciya/R531.jpg",
+          "href": "palette.html#avarus-nash-kvarc-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "Горы Кавказа",
+          "code": "R538",
+          "image": "imgs/stones/avarus-nash-kvarc/mramornaya-kollekciya/R538.jpg",
+          "href": "palette.html#avarus-nash-kvarc-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "Снега Сибири",
+          "code": "R541",
+          "image": "imgs/stones/avarus-nash-kvarc/mramornaya-kollekciya/R541.jpg",
+          "href": "palette.html#avarus-nash-kvarc-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "Пик Эльбруса",
+          "code": "R543 / RM543",
+          "image": "imgs/stones/avarus-nash-kvarc/mramornaya-kollekciya/R543-RM543.jpg",
+          "href": "palette.html#avarus-nash-kvarc-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "Балтийский берег",
+          "code": "R555",
+          "image": "imgs/stones/avarus-nash-kvarc/mramornaya-kollekciya/R555.jpg",
+          "href": "palette.html#avarus-nash-kvarc-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "Красная Поляна",
+          "code": "R575",
+          "image": "imgs/stones/avarus-nash-kvarc/mramornaya-kollekciya/R575.jpg",
+          "href": "palette.html#avarus-nash-kvarc-mramornaya-kollekciya",
+          "new": true
+        },
+        {
+          "name": "Северное сияние",
+          "code": "R590",
+          "image": "imgs/stones/avarus-nash-kvarc/mramornaya-kollekciya/R590.jpg",
+          "href": "palette.html#avarus-nash-kvarc-mramornaya-kollekciya",
+          "new": true
+        },
+        {
+          "name": "Московская ночь",
+          "code": "R677",
+          "image": "imgs/stones/avarus-nash-kvarc/mramornaya-kollekciya/R677.jpg",
+          "href": "palette.html#avarus-nash-kvarc-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "Просторы Поволжья",
+          "code": "R 558",
+          "image": "imgs/stones/avarus-nash-kvarc/mramornaya-kollekciya/R-558.jpg",
+          "href": "palette.html#avarus-nash-kvarc-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "Золотые ворота",
+          "code": "RM560",
+          "image": "imgs/stones/avarus-nash-kvarc/mramornaya-kollekciya/RM560.jpg",
+          "href": "palette.html#avarus-nash-kvarc-mramornaya-kollekciya",
+          "new": true
+        }
+      ]
+    },
+    {
+      "id": "avant-quartz",
+      "name": "Avant Quartz",
+      "type": "Кварцевый агломерат",
+      "href": "palette.html#avant-quartz",
+      "candidateCount": 59,
+      "items": [
+        {
+          "name": "Калакатта Амели - Тадж Махал",
+          "code": "5700",
+          "image": "imgs/stones/avant-quartz/digital-print/5700.jpg",
+          "href": "palette.html#avant-quartz-digital-print",
+          "new": false
+        },
+        {
+          "name": "Калакатта Шери",
+          "code": "5750",
+          "image": "imgs/stones/avant-quartz/digital-print/5750.jpg",
+          "href": "palette.html#avant-quartz-digital-print",
+          "new": false
+        },
+        {
+          "name": "Калакатта Бессон",
+          "code": "5751",
+          "image": "imgs/stones/avant-quartz/digital-print/5751.jpg",
+          "href": "palette.html#avant-quartz-digital-print",
+          "new": false
+        },
+        {
+          "name": "Калакатта Креспен",
+          "code": "5752",
+          "image": "imgs/stones/avant-quartz/digital-print/5752.jpg",
+          "href": "palette.html#avant-quartz-digital-print",
+          "new": false
+        },
+        {
+          "name": "Калакатта Аверон",
+          "code": "5753",
+          "image": "imgs/stones/avant-quartz/digital-print/5753.jpg",
+          "href": "palette.html#avant-quartz-digital-print",
+          "new": false
+        },
+        {
+          "name": "Калакатта Вивье",
+          "code": "5754",
+          "image": "imgs/stones/avant-quartz/digital-print/5754.jpg",
+          "href": "palette.html#avant-quartz-digital-print",
+          "new": false
+        },
+        {
+          "name": "Калакатта Виола",
+          "code": "5755",
+          "image": "imgs/stones/avant-quartz/digital-print/5755.jpg",
+          "href": "palette.html#avant-quartz-digital-print",
+          "new": true
+        },
+        {
+          "name": "Травертин Супп",
+          "code": "5800",
+          "image": "imgs/stones/avant-quartz/digital-print/5800.jpg",
+          "href": "palette.html#avant-quartz-digital-print",
+          "new": false
+        },
+        {
+          "name": "Патагония Брив",
+          "code": "5900",
+          "image": "imgs/stones/avant-quartz/digital-print/5900.jpg",
+          "href": "palette.html#avant-quartz-digital-print",
+          "new": true
+        },
+        {
+          "name": "Калакатта Эно",
+          "code": "7000",
+          "image": "imgs/stones/avant-quartz/kollekciya-elit/7000.jpg",
+          "href": "palette.html#avant-quartz-kollekciya-elit",
+          "new": false
+        },
+        {
+          "name": "Калакатта Шенонсо",
+          "code": "7030",
+          "image": "imgs/stones/avant-quartz/kollekciya-elit/7030.jpg",
+          "href": "palette.html#avant-quartz-kollekciya-elit",
+          "new": false
+        },
+        {
+          "name": "Калакатта Бомениль",
+          "code": "7040",
+          "image": "imgs/stones/avant-quartz/kollekciya-elit/7040.jpg",
+          "href": "palette.html#avant-quartz-kollekciya-elit",
+          "new": false
+        },
+        {
+          "name": "Калакатта Мон Сен-Мишель",
+          "code": "7060",
+          "image": "imgs/stones/avant-quartz/kollekciya-elit/7060.jpg",
+          "href": "palette.html#avant-quartz-kollekciya-elit",
+          "new": false
+        },
+        {
+          "name": "Калакатта Версаль",
+          "code": "7070",
+          "image": "imgs/stones/avant-quartz/kollekciya-elit/7070.jpg",
+          "href": "palette.html#avant-quartz-kollekciya-elit",
+          "new": false
+        },
+        {
+          "name": "Калакатта Пьерфон",
+          "code": "7080",
+          "image": "imgs/stones/avant-quartz/kollekciya-elit/7080.jpg",
+          "href": "palette.html#avant-quartz-kollekciya-elit",
+          "new": false
+        },
+        {
+          "name": "Калакатта Рона-Альпы",
+          "code": "7090",
+          "image": "imgs/stones/avant-quartz/kollekciya-elit/7090.jpg",
+          "href": "palette.html#avant-quartz-kollekciya-elit",
+          "new": false
+        },
+        {
+          "name": "Статуарио Лилль",
+          "code": "7100",
+          "image": "imgs/stones/avant-quartz/kollekciya-elit/7100.jpg",
+          "href": "palette.html#avant-quartz-kollekciya-elit",
+          "new": false
+        },
+        {
+          "name": "Аквитания Бланка",
+          "code": "7200",
+          "image": "imgs/stones/avant-quartz/kollekciya-elit/7200.jpg",
+          "href": "palette.html#avant-quartz-kollekciya-elit",
+          "new": false
+        },
+        {
+          "name": "Калакатта Дофине",
+          "code": "7400",
+          "image": "imgs/stones/avant-quartz/kollekciya-elit/7400.jpg",
+          "href": "palette.html#avant-quartz-kollekciya-elit",
+          "new": false
+        },
+        {
+          "name": "Калакатта Берн",
+          "code": "7470",
+          "image": "imgs/stones/avant-quartz/kollekciya-elit/7470.jpg",
+          "href": "palette.html#avant-quartz-kollekciya-elit",
+          "new": false
+        },
+        {
+          "name": "Калакатта Аррас",
+          "code": "7500",
+          "image": "imgs/stones/avant-quartz/kollekciya-elit/7500.jpg",
+          "href": "palette.html#avant-quartz-kollekciya-elit",
+          "new": false
+        },
+        {
+          "name": "Калакатта Канны Голд",
+          "code": "7550",
+          "image": "imgs/stones/avant-quartz/kollekciya-elit/7550.jpg",
+          "href": "palette.html#avant-quartz-kollekciya-elit",
+          "new": false
+        },
+        {
+          "name": "Калакатта Альби",
+          "code": "7560",
+          "image": "imgs/stones/avant-quartz/kollekciya-elit/7560.jpg",
+          "href": "palette.html#avant-quartz-kollekciya-elit",
+          "new": false
+        },
+        {
+          "name": "Калакатта Таланс",
+          "code": "7570",
+          "image": "imgs/stones/avant-quartz/kollekciya-elit/7570.jpg",
+          "href": "palette.html#avant-quartz-kollekciya-elit",
+          "new": false
+        },
+        {
+          "name": "Калакатта Венсен",
+          "code": "7630",
+          "image": "imgs/stones/avant-quartz/kollekciya-elit/7630.jpg",
+          "href": "palette.html#avant-quartz-kollekciya-elit",
+          "new": false
+        },
+        {
+          "name": "Калакатта Кассель",
+          "code": "7670",
+          "image": "imgs/stones/avant-quartz/kollekciya-elit/7670.jpg",
+          "href": "palette.html#avant-quartz-kollekciya-elit",
+          "new": false
+        },
+        {
+          "name": "Калакатта Марсель",
+          "code": "7700",
+          "image": "imgs/stones/avant-quartz/kollekciya-elit/7700.jpg",
+          "href": "palette.html#avant-quartz-kollekciya-elit",
+          "new": false
+        },
+        {
+          "name": "Калакатта Модан",
+          "code": "7810",
+          "image": "imgs/stones/avant-quartz/kollekciya-elit/7810.jpg",
+          "href": "palette.html#avant-quartz-kollekciya-elit",
+          "new": false
+        },
+        {
+          "name": "Калакатта Шарите",
+          "code": "7830",
+          "image": "imgs/stones/avant-quartz/kollekciya-elit/7830.jpg",
+          "href": "palette.html#avant-quartz-kollekciya-elit",
+          "new": true
+        },
+        {
+          "name": "Калакатта Лаура",
+          "code": "7840",
+          "image": "imgs/stones/avant-quartz/kollekciya-elit/7840.jpg",
+          "href": "palette.html#avant-quartz-kollekciya-elit",
+          "new": true
+        },
+        {
+          "name": "Калакатта Динан",
+          "code": "7888",
+          "image": "imgs/stones/avant-quartz/kollekciya-elit/7888.jpg",
+          "href": "palette.html#avant-quartz-kollekciya-elit",
+          "new": false
+        },
+        {
+          "name": "Калакатта Труа",
+          "code": "7970",
+          "image": "imgs/stones/avant-quartz/kollekciya-elit/7970.jpg",
+          "href": "palette.html#avant-quartz-kollekciya-elit",
+          "new": false
+        },
+        {
+          "name": "Ницца Бланк",
+          "code": "7980",
+          "image": "imgs/stones/avant-quartz/kollekciya-elit/7980.jpg",
+          "href": "palette.html#avant-quartz-kollekciya-elit",
+          "new": false
+        },
+        {
+          "name": "Ницца Ноир",
+          "code": "7985",
+          "image": "imgs/stones/avant-quartz/kollekciya-elit/7985.jpg",
+          "href": "palette.html#avant-quartz-kollekciya-elit",
+          "new": false
+        },
+        {
+          "name": "Нант",
+          "code": "8011",
+          "image": "imgs/stones/avant-quartz/kollekciya-oksid/8011.jpg",
+          "href": "palette.html#avant-quartz-kollekciya-oksid",
+          "new": false
+        },
+        {
+          "name": "Каркассон",
+          "code": "8033",
+          "image": "imgs/stones/avant-quartz/kollekciya-oksid/8033.jpg",
+          "href": "palette.html#avant-quartz-kollekciya-oksid",
+          "new": false
+        },
+        {
+          "name": "Эври",
+          "code": "8044",
+          "image": "imgs/stones/avant-quartz/kollekciya-oksid/8044.jpg",
+          "href": "palette.html#avant-quartz-kollekciya-oksid",
+          "new": false
+        },
+        {
+          "name": "Эсон (М)",
+          "code": "8046",
+          "image": "imgs/stones/avant-quartz/kollekciya-oksid/8046.jpg",
+          "href": "palette.html#avant-quartz-kollekciya-oksid",
+          "new": false
+        },
+        {
+          "name": "Лаваль",
+          "code": "8059",
+          "image": "imgs/stones/avant-quartz/kollekciya-oksid/8059.jpg",
+          "href": "palette.html#avant-quartz-kollekciya-oksid",
+          "new": false
+        },
+        {
+          "name": "Мулен",
+          "code": "8100",
+          "image": "imgs/stones/avant-quartz/kollekciya-oksid/8100.jpg",
+          "href": "palette.html#avant-quartz-kollekciya-oksid",
+          "new": false
+        },
+        {
+          "name": "Тарн",
+          "code": "8580",
+          "image": "imgs/stones/avant-quartz/kollekciya-oksid/8580.jpg",
+          "href": "palette.html#avant-quartz-kollekciya-oksid",
+          "new": false
+        },
+        {
+          "name": "Эльзас",
+          "code": "8585",
+          "image": "imgs/stones/avant-quartz/kollekciya-oksid/8585.jpg",
+          "href": "palette.html#avant-quartz-kollekciya-oksid",
+          "new": true
+        },
+        {
+          "name": "Кассис",
+          "code": "8800",
+          "image": "imgs/stones/avant-quartz/kollekciya-oksid/8800.jpg",
+          "href": "palette.html#avant-quartz-kollekciya-oksid",
+          "new": false
+        },
+        {
+          "name": "Ренн Тэмпл",
+          "code": "8810",
+          "image": "imgs/stones/avant-quartz/kollekciya-oksid/8810.jpg",
+          "href": "palette.html#avant-quartz-kollekciya-oksid",
+          "new": false
+        },
+        {
+          "name": "Резе (М)",
+          "code": "8811",
+          "image": "imgs/stones/avant-quartz/kollekciya-oksid/8811.jpg",
+          "href": "palette.html#avant-quartz-kollekciya-oksid",
+          "new": false
+        },
+        {
+          "name": "Грей Тур",
+          "code": "2060",
+          "image": "imgs/stones/avant-quartz/premialnaya-mramornaya-kollekciya/2060.jpg",
+          "href": "palette.html#avant-quartz-premialnaya-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "Бурбонне",
+          "code": "9005",
+          "image": "imgs/stones/avant-quartz/premialnaya-mramornaya-kollekciya/9005.jpg",
+          "href": "palette.html#avant-quartz-premialnaya-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "Лимузен",
+          "code": "9006",
+          "image": "imgs/stones/avant-quartz/premialnaya-mramornaya-kollekciya/9006.jpg",
+          "href": "palette.html#avant-quartz-premialnaya-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "Корсика",
+          "code": "9010",
+          "image": "imgs/stones/avant-quartz/premialnaya-mramornaya-kollekciya/9010.jpg",
+          "href": "palette.html#avant-quartz-premialnaya-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "Лотарингия",
+          "code": "9023",
+          "image": "imgs/stones/avant-quartz/premialnaya-mramornaya-kollekciya/9023.jpg",
+          "href": "palette.html#avant-quartz-premialnaya-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "Грис Фонсе",
+          "code": "9050",
+          "image": "imgs/stones/avant-quartz/premialnaya-mramornaya-kollekciya/9050.jpg",
+          "href": "palette.html#avant-quartz-premialnaya-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "Авиньон Грис",
+          "code": "9133",
+          "image": "imgs/stones/avant-quartz/premialnaya-mramornaya-kollekciya/9133.jpg",
+          "href": "palette.html#avant-quartz-premialnaya-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "Блаве",
+          "code": "9172",
+          "image": "imgs/stones/avant-quartz/premialnaya-mramornaya-kollekciya/9172.jpg",
+          "href": "palette.html#avant-quartz-premialnaya-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "Вилен",
+          "code": "9173",
+          "image": "imgs/stones/avant-quartz/premialnaya-mramornaya-kollekciya/9173.jpg",
+          "href": "palette.html#avant-quartz-premialnaya-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "Сен-Тропе",
+          "code": "9212",
+          "image": "imgs/stones/avant-quartz/premialnaya-mramornaya-kollekciya/9212.jpg",
+          "href": "palette.html#avant-quartz-premialnaya-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "Сен-Мало",
+          "code": "9603",
+          "image": "imgs/stones/avant-quartz/premialnaya-mramornaya-kollekciya/9603.jpg",
+          "href": "palette.html#avant-quartz-premialnaya-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "Patagonia Martinica",
+          "code": "Avant 9060",
+          "image": "imgs/stones/avant-quartz/premialnaya-mramornaya-kollekciya/Avant-9060.jpg",
+          "href": "palette.html#avant-quartz-premialnaya-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "Аваллон / 1111 Аваллон (М)",
+          "code": "1111",
+          "image": "imgs/stones/avant-quartz/granitnaya-kollekciya/1111.jpg",
+          "href": "palette.html#avant-quartz-granitnaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "Клермон",
+          "code": "1220",
+          "image": "imgs/stones/avant-quartz/granitnaya-kollekciya/1220.jpg",
+          "href": "palette.html#avant-quartz-granitnaya-kollekciya",
+          "new": false
+        }
+      ]
+    },
+    {
+      "id": "noblle",
+      "name": "Noblle Quartz",
+      "type": "Кварцевый агломерат",
+      "href": "palette.html#noblle",
+      "candidateCount": 40,
+      "items": [
+        {
+          "name": "Белый нефрит / Jade White",
+          "code": "Q117",
+          "image": "imgs/stones/noblle/basic/Q117.jpg",
+          "href": "palette.html#noblle-basic",
+          "new": false
+        },
+        {
+          "name": "Черный песок / Black Sand",
+          "code": "Q131",
+          "image": "imgs/stones/noblle/basic/Q131.jpg",
+          "href": "palette.html#noblle-basic",
+          "new": false
+        },
+        {
+          "name": "Белая волшебная калакатта / Calacatta Magic White",
+          "code": "Q796",
+          "image": "imgs/stones/noblle/unique/Q796.jpg",
+          "href": "palette.html#noblle-unique",
+          "new": false
+        },
+        {
+          "name": "Калакатта истинный свет / Calacatta True Light",
+          "code": "Q797",
+          "image": "imgs/stones/noblle/unique/Q797.jpg",
+          "href": "palette.html#noblle-unique",
+          "new": false
+        },
+        {
+          "name": "Элегантная калакатта / Calacatta Elegant",
+          "code": "Q798",
+          "image": "imgs/stones/noblle/unique/Q798.jpg",
+          "href": "palette.html#noblle-unique",
+          "new": false
+        },
+        {
+          "name": "Теплая Калакатта / Сalacatta Warm",
+          "code": "Q799",
+          "image": "imgs/stones/noblle/unique/Q799.jpg",
+          "href": "palette.html#noblle-unique",
+          "new": true
+        },
+        {
+          "name": "Золотая патагония / Patagonia Gold",
+          "code": "Q901",
+          "image": "imgs/stones/noblle/unique/Q901.jpg",
+          "href": "palette.html#noblle-unique",
+          "new": false
+        },
+        {
+          "name": "Платиновая Патагония / Patagonia Platinum",
+          "code": "Q902",
+          "image": "imgs/stones/noblle/unique/Q902.jpg",
+          "href": "palette.html#noblle-unique",
+          "new": false
+        },
+        {
+          "name": "Белая луна / Moon White",
+          "code": "Q913",
+          "image": "imgs/stones/noblle/unique/Q913.jpg",
+          "href": "palette.html#noblle-unique",
+          "new": true
+        },
+        {
+          "name": "Черная Арабескато / Arabescato Black",
+          "code": "Q921",
+          "image": "imgs/stones/noblle/unique/Q921.jpg",
+          "href": "palette.html#noblle-unique",
+          "new": true
+        },
+        {
+          "name": "Белая Арабескато / Arabescato White",
+          "code": "Q922",
+          "image": "imgs/stones/noblle/unique/Q922.jpg",
+          "href": "palette.html#noblle-unique",
+          "new": true
+        },
+        {
+          "name": "Арабескато Корхия / Arabescato Corchia",
+          "code": "Q923",
+          "image": "imgs/stones/noblle/unique/Q923.jpg",
+          "href": "palette.html#noblle-unique",
+          "new": false
+        },
+        {
+          "name": "Королевский бежевый / Royal Beige",
+          "code": "Q930",
+          "image": "imgs/stones/noblle/unique/Q930.jpg",
+          "href": "palette.html#noblle-unique",
+          "new": true
+        },
+        {
+          "name": "Ореховый / Hazel",
+          "code": "Q931",
+          "image": "imgs/stones/noblle/unique/Q931.jpg",
+          "href": "palette.html#noblle-unique",
+          "new": true
+        },
+        {
+          "name": "Ледяной Океан / Ice Ocean",
+          "code": "Q950",
+          "image": "imgs/stones/noblle/unique/Q950.jpg",
+          "href": "palette.html#noblle-unique",
+          "new": true
+        },
+        {
+          "name": "Морская Лазурь",
+          "code": "Q951",
+          "image": "imgs/stones/noblle/unique/Q951.jpg",
+          "href": "palette.html#noblle-unique",
+          "new": true
+        },
+        {
+          "name": "Калакатта Борджини / Calacatta Borghini",
+          "code": "Q703",
+          "image": "imgs/stones/noblle/kalakatta/Q703.jpg",
+          "href": "palette.html#noblle-kalakatta",
+          "new": false
+        },
+        {
+          "name": "Черная Сахара / Sahara Noir",
+          "code": "Q707",
+          "image": "imgs/stones/noblle/kalakatta/Q707.jpg",
+          "href": "palette.html#noblle-kalakatta",
+          "new": false
+        },
+        {
+          "name": "Калакатта Венато / Calacatta Venato",
+          "code": "Q740",
+          "image": "imgs/stones/noblle/kalakatta/Q740.jpg",
+          "href": "palette.html#noblle-kalakatta",
+          "new": false
+        },
+        {
+          "name": "Калакатта Белая / Calacatta Bianco",
+          "code": "Q744",
+          "image": "imgs/stones/noblle/kalakatta/Q744.jpg",
+          "href": "palette.html#noblle-kalakatta",
+          "new": false
+        },
+        {
+          "name": "Калакатта Золото / Calacatta Aurum",
+          "code": "Q757",
+          "image": "imgs/stones/noblle/kalakatta/Q757.jpg",
+          "href": "palette.html#noblle-kalakatta",
+          "new": false
+        },
+        {
+          "name": "Марквина Черная / Nero Marquina",
+          "code": "Q765",
+          "image": "imgs/stones/noblle/kalakatta/Q765.jpg",
+          "href": "palette.html#noblle-kalakatta",
+          "new": false
+        },
+        {
+          "name": "Калакатта Золотая / Calacatta Gold",
+          "code": "Q785",
+          "image": "imgs/stones/noblle/kalakatta/Q785.jpg",
+          "href": "palette.html#noblle-kalakatta",
+          "new": false
+        },
+        {
+          "name": "Темная волшебная калакатта / Calacatta Magic Dark",
+          "code": "Q795",
+          "image": "imgs/stones/noblle/kalakatta/Q795.jpg",
+          "href": "palette.html#noblle-kalakatta",
+          "new": false
+        },
+        {
+          "name": "Белая Джойя / Bianco Giogia",
+          "code": "Q 717",
+          "image": "imgs/stones/noblle/kalakatta/Q-717.jpg",
+          "href": "palette.html#noblle-kalakatta",
+          "new": false
+        },
+        {
+          "name": "Марквина Бетон / Beton Marquina",
+          "code": "Q801",
+          "image": "imgs/stones/noblle/kollekciya-oksid/Q801.jpg",
+          "href": "palette.html#noblle-kollekciya-oksid",
+          "new": true
+        },
+        {
+          "name": "Серое свечение / Gray Glow",
+          "code": "Q810",
+          "image": "imgs/stones/noblle/kollekciya-oksid/Q810.jpg",
+          "href": "palette.html#noblle-kollekciya-oksid",
+          "new": false
+        },
+        {
+          "name": "Белый бетон / Beton White",
+          "code": "Q811",
+          "image": "imgs/stones/noblle/kollekciya-oksid/Q811.jpg",
+          "href": "palette.html#noblle-kollekciya-oksid",
+          "new": false
+        },
+        {
+          "name": "Бронзовый бетон / Beton Brass",
+          "code": "Q859",
+          "image": "imgs/stones/noblle/kollekciya-oksid/Q859.jpg",
+          "href": "palette.html#noblle-kollekciya-oksid",
+          "new": false
+        },
+        {
+          "name": "Серый бетон / Beton Grey",
+          "code": "Q880",
+          "image": "imgs/stones/noblle/kollekciya-oksid/Q880.jpg",
+          "href": "palette.html#noblle-kollekciya-oksid",
+          "new": false
+        },
+        {
+          "name": "Carrara",
+          "code": "Q715",
+          "image": "imgs/stones/noblle/premialnaya-mramornaya-kollekciya/Q715.jpg",
+          "href": "palette.html#noblle-premialnaya-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "Солнечная Каррара / Carrara Sun",
+          "code": "Q716",
+          "image": "imgs/stones/noblle/premialnaya-mramornaya-kollekciya/Q716.jpg",
+          "href": "palette.html#noblle-premialnaya-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "Лунная Каррара / Carrara Moon",
+          "code": "Q718",
+          "image": "imgs/stones/noblle/premialnaya-mramornaya-kollekciya/Q718.jpg",
+          "href": "palette.html#noblle-premialnaya-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "Черная Каррара / Carrara Black",
+          "code": "Q719",
+          "image": "imgs/stones/noblle/premialnaya-mramornaya-kollekciya/Q719.jpg",
+          "href": "palette.html#noblle-premialnaya-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "White Quartz",
+          "code": "Q104",
+          "image": "imgs/stones/noblle/Q104.jpg",
+          "href": "palette.html#noblle-premialnaya-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "White Salt",
+          "code": "Q122",
+          "image": "imgs/stones/noblle/Q122.jpg",
+          "href": "palette.html#noblle-premialnaya-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "Белый Венато / Bianco Venato",
+          "code": "Q735",
+          "image": "imgs/stones/noblle/Q735.jpg",
+          "href": "palette.html#noblle-premialnaya-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "Venato Royal",
+          "code": "Q790",
+          "image": "imgs/stones/noblle/Q790.jpg",
+          "href": "palette.html#noblle-premialnaya-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "Белая Тайна / White Misterio",
+          "code": "Q840",
+          "image": "imgs/stones/noblle/Q840.jpg",
+          "href": "palette.html#noblle-premialnaya-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "Городской Серый / Urban Grigio",
+          "code": "Q850",
+          "image": "imgs/stones/noblle/Q850.jpg",
+          "href": "palette.html#noblle-premialnaya-mramornaya-kollekciya",
+          "new": false
+        }
+      ]
+    },
+    {
+      "id": "caesarstone",
+      "name": "Caesarstone",
+      "type": "Кварцевый агломерат",
+      "href": "palette.html#caesarstone",
+      "candidateCount": 22,
+      "items": [
+        {
+          "name": "Бетонный Ливень / Cloudburst Concrete",
+          "code": "4011",
+          "image": "imgs/stones/caesarstone/metropolitan/4011.jpg",
+          "href": "palette.html#caesarstone-metropolitan",
+          "new": false
+        },
+        {
+          "name": "Бетонный Континент / Topus Concrete",
+          "code": "4023",
+          "image": "imgs/stones/caesarstone/metropolitan/4023.jpg",
+          "href": "palette.html#caesarstone-metropolitan",
+          "new": false
+        },
+        {
+          "name": "Прочный Бетон / Rugged Concrete",
+          "code": "4033",
+          "image": "imgs/stones/caesarstone/metropolitan/4033.jpg",
+          "href": "palette.html#caesarstone-metropolitan",
+          "new": false
+        },
+        {
+          "name": "Воздушный Бетон / Airy Concrete",
+          "code": "4044",
+          "image": "imgs/stones/caesarstone/metropolitan/4044.jpg",
+          "href": "palette.html#caesarstone-metropolitan",
+          "new": false
+        },
+        {
+          "name": "Черный Храм / Black Tempal",
+          "code": "5810",
+          "image": "imgs/stones/caesarstone/metropolitan/5810.jpg",
+          "href": "palette.html#caesarstone-metropolitan",
+          "new": false
+        },
+        {
+          "name": "Серый Камень / Piatra Grey",
+          "code": "5003",
+          "image": "imgs/stones/caesarstone/supernatural/5003.jpg",
+          "href": "palette.html#caesarstone-supernatural",
+          "new": false
+        },
+        {
+          "name": "Montblanc",
+          "code": "5043",
+          "image": "imgs/stones/caesarstone/supernatural/5043.jpg",
+          "href": "palette.html#caesarstone-supernatural",
+          "new": false
+        },
+        {
+          "name": "Черная Ваниль / Vanilla Noir",
+          "code": "5100",
+          "image": "imgs/stones/caesarstone/supernatural/5100.jpg",
+          "href": "palette.html#caesarstone-supernatural",
+          "new": false
+        },
+        {
+          "name": "Альпийский-Туман / Alpine Mist",
+          "code": "5110",
+          "image": "imgs/stones/caesarstone/supernatural/5110.jpg",
+          "href": "palette.html#caesarstone-supernatural",
+          "new": false
+        },
+        {
+          "name": "Серая Симфония / Symphony Grey",
+          "code": "5133",
+          "image": "imgs/stones/caesarstone/supernatural/5133.jpg",
+          "href": "palette.html#caesarstone-supernatural",
+          "new": false
+        },
+        {
+          "name": "Морозная Каррина / Frosty Carrina",
+          "code": "5141",
+          "image": "imgs/stones/caesarstone/supernatural/5141.jpg",
+          "href": "palette.html#caesarstone-supernatural",
+          "new": false
+        },
+        {
+          "name": "Белая Аттика / White Attica",
+          "code": "5143",
+          "image": "imgs/stones/caesarstone/supernatural/5143.jpg",
+          "href": "palette.html#caesarstone-supernatural",
+          "new": false
+        },
+        {
+          "name": "Тот Рояль / Taj Royale",
+          "code": "5212",
+          "image": "imgs/stones/caesarstone/supernatural/5212.jpg",
+          "href": "palette.html#caesarstone-supernatural",
+          "new": false
+        },
+        {
+          "name": "Прибрежный Серый / Coastal Grey",
+          "code": "6003",
+          "image": "imgs/stones/caesarstone/supernatural/6003.jpg",
+          "href": "palette.html#caesarstone-supernatural",
+          "new": false
+        },
+        {
+          "name": "Туманная Пустошь / Moorland Fog",
+          "code": "6046",
+          "image": "imgs/stones/caesarstone/supernatural/6046.jpg",
+          "href": "palette.html#caesarstone-supernatural",
+          "new": false
+        },
+        {
+          "name": "Белый Дрифт / Bianco Drift",
+          "code": "6131",
+          "image": "imgs/stones/caesarstone/supernatural/6131.jpg",
+          "href": "palette.html#caesarstone-supernatural",
+          "new": false
+        },
+        {
+          "name": "Лесные Массивы / Woodlands",
+          "code": "6338",
+          "image": "imgs/stones/caesarstone/supernatural/6338.jpg",
+          "href": "palette.html#caesarstone-supernatural",
+          "new": false
+        },
+        {
+          "name": "Чистый Белый / Pure White",
+          "code": "1141",
+          "image": "imgs/stones/caesarstone/classico/1141.jpg",
+          "href": "palette.html#caesarstone-classico",
+          "new": false
+        },
+        {
+          "name": "Ультра Черный / Jet Black",
+          "code": "3100",
+          "image": "imgs/stones/caesarstone/classico/3100.jpg",
+          "href": "palette.html#caesarstone-classico",
+          "new": false
+        },
+        {
+          "name": "Ракушечник / Clamshell",
+          "code": "4130",
+          "image": "imgs/stones/caesarstone/classico/4130.jpg",
+          "href": "palette.html#caesarstone-classico",
+          "new": false
+        },
+        {
+          "name": "Шитаке / Shitake",
+          "code": "4230",
+          "image": "imgs/stones/caesarstone/classico/4230.jpg",
+          "href": "palette.html#caesarstone-classico",
+          "new": false
+        },
+        {
+          "name": "Nougat",
+          "code": "6600",
+          "image": "imgs/stones/caesarstone/classico/6600.jpg",
+          "href": "palette.html#caesarstone-classico",
+          "new": false
+        }
+      ]
+    },
+    {
+      "id": "grandex",
+      "name": "GRANDEX",
+      "type": "Акриловый камень",
+      "href": "palette.html#grandex",
+      "candidateCount": 109,
+      "items": [
+        {
+          "name": "Ареццо / Arezzo",
+          "code": "C 801",
+          "image": "imgs/stones/grandex/crevice/C-801.jpg",
+          "href": "palette.html#grandex-crevice",
+          "new": false
+        },
+        {
+          "name": "Пьяченца / Piacenza",
+          "code": "C 802",
+          "image": "imgs/stones/grandex/crevice/C-802.jpg",
+          "href": "palette.html#grandex-crevice",
+          "new": false
+        },
+        {
+          "name": "Россано / Rossano",
+          "code": "C 808",
+          "image": "imgs/stones/grandex/crevice/C-808.jpg",
+          "href": "palette.html#grandex-crevice",
+          "new": true
+        },
+        {
+          "name": "Анджари / Angiari",
+          "code": "C 809",
+          "image": "imgs/stones/grandex/crevice/C-809.jpg",
+          "href": "palette.html#grandex-crevice",
+          "new": true
+        },
+        {
+          "name": "Ночной Океан / Notte Bianca",
+          "code": "M 605",
+          "image": "imgs/stones/grandex/marble-ocean-m/M-605.jpg",
+          "href": "palette.html#grandex-marble-ocean-m",
+          "new": true
+        },
+        {
+          "name": "Серый Шторм / Grigio Bianca",
+          "code": "M 606",
+          "image": "imgs/stones/grandex/marble-ocean-m/M-606.jpg",
+          "href": "palette.html#grandex-marble-ocean-m",
+          "new": true
+        },
+        {
+          "name": "Морская Пена / Neve Bianca",
+          "code": "M 607",
+          "image": "imgs/stones/grandex/marble-ocean-m/M-607.jpg",
+          "href": "palette.html#grandex-marble-ocean-m",
+          "new": true
+        },
+        {
+          "name": "Душа Океана / Amiata Bianca",
+          "code": "M 610",
+          "image": "imgs/stones/grandex/marble-ocean-m/M-610.jpg",
+          "href": "palette.html#grandex-marble-ocean-m",
+          "new": true
+        },
+        {
+          "name": "А Морской Бриз / Hazel Flow",
+          "code": "M 701",
+          "image": "imgs/stones/grandex/marble-ocean-m/M-701.jpg",
+          "href": "palette.html#grandex-marble-ocean-m",
+          "new": false
+        },
+        {
+          "name": "A Дыхание Океана / Water Weed",
+          "code": "M 703",
+          "image": "imgs/stones/grandex/marble-ocean-m/M-703.jpg",
+          "href": "palette.html#grandex-marble-ocean-m",
+          "new": false
+        },
+        {
+          "name": "A Тихая Заводь / Lake Coast",
+          "code": "M 705",
+          "image": "imgs/stones/grandex/marble-ocean-m/M-705.jpg",
+          "href": "palette.html#grandex-marble-ocean-m",
+          "new": false
+        },
+        {
+          "name": "А Перламутр / Noble Pearl",
+          "code": "M 707",
+          "image": "imgs/stones/grandex/marble-ocean-m/M-707.jpg",
+          "href": "palette.html#grandex-marble-ocean-m",
+          "new": false
+        },
+        {
+          "name": "A Морской Разлом / Deep Water",
+          "code": "M 708",
+          "image": "imgs/stones/grandex/marble-ocean-m/M-708.jpg",
+          "href": "palette.html#grandex-marble-ocean-m",
+          "new": false
+        },
+        {
+          "name": "A Побережье Грез / Float Rock",
+          "code": "M 710",
+          "image": "imgs/stones/grandex/marble-ocean-m/M-710.jpg",
+          "href": "palette.html#grandex-marble-ocean-m",
+          "new": false
+        },
+        {
+          "name": "A Солнечный Блик / Sparkling Wave",
+          "code": "M 711",
+          "image": "imgs/stones/grandex/marble-ocean-m/M-711.jpg",
+          "href": "palette.html#grandex-marble-ocean-m",
+          "new": false
+        },
+        {
+          "name": "A Лунная Гладь / Stylish Moon",
+          "code": "M 712",
+          "image": "imgs/stones/grandex/marble-ocean-m/M-712.jpg",
+          "href": "palette.html#grandex-marble-ocean-m",
+          "new": false
+        },
+        {
+          "name": "A Белоснежный Пляж / Whitesand Beach",
+          "code": "M 713",
+          "image": "imgs/stones/grandex/marble-ocean-m/M-713.jpg",
+          "href": "palette.html#grandex-marble-ocean-m",
+          "new": false
+        },
+        {
+          "name": "A Живой Коралл / Shrimp Crust",
+          "code": "M 717",
+          "image": "imgs/stones/grandex/marble-ocean-m/M-717.jpg",
+          "href": "palette.html#grandex-marble-ocean-m",
+          "new": false
+        },
+        {
+          "name": "А Трезубец Нептуна / Neptun Trident",
+          "code": "M 718",
+          "image": "imgs/stones/grandex/marble-ocean-m/M-718.jpg",
+          "href": "palette.html#grandex-marble-ocean-m",
+          "new": false
+        },
+        {
+          "name": "A Лунная Каррара / Carrara Lunar",
+          "code": "M 720",
+          "image": "imgs/stones/grandex/marble-ocean-m/M-720.jpg",
+          "href": "palette.html#grandex-marble-ocean-m",
+          "new": false
+        },
+        {
+          "name": "A Воды Венеции / Venice",
+          "code": "M 727",
+          "image": "imgs/stones/grandex/marble-ocean-m/M-727.jpg",
+          "href": "palette.html#grandex-marble-ocean-m",
+          "new": false
+        },
+        {
+          "name": "Лунный Берег / Moon Coast",
+          "code": "M 731",
+          "image": "imgs/stones/grandex/marble-ocean-m/M-731.jpg",
+          "href": "palette.html#grandex-marble-ocean-m",
+          "new": true
+        },
+        {
+          "name": "Мраморный Мираж / Marble Mirage",
+          "code": "M 732",
+          "image": "imgs/stones/grandex/marble-ocean-m/M-732.jpg",
+          "href": "palette.html#grandex-marble-ocean-m",
+          "new": true
+        },
+        {
+          "name": "Темная Материя / Stellar Depth",
+          "code": "M 733",
+          "image": "imgs/stones/grandex/marble-ocean-m/M-733.jpg",
+          "href": "palette.html#grandex-marble-ocean-m",
+          "new": true
+        },
+        {
+          "name": "Черная Жемчужина / Black Pearl",
+          "code": "M 798",
+          "image": "imgs/stones/grandex/marble-ocean-m/M-798.jpg",
+          "href": "palette.html#grandex-marble-ocean-m",
+          "new": true
+        },
+        {
+          "name": "Грозовое Облако / Cloud Concrete",
+          "code": "М 724",
+          "image": "imgs/stones/grandex/marble-ocean-m/М-724.jpg",
+          "href": "palette.html#grandex-marble-ocean-m",
+          "new": true
+        },
+        {
+          "name": "Эфирный Туман / Ether Mist",
+          "code": "М 726",
+          "image": "imgs/stones/grandex/marble-ocean-m/М-726.jpg",
+          "href": "palette.html#grandex-marble-ocean-m",
+          "new": true
+        },
+        {
+          "name": "Темный Омут / Obsidian Soil",
+          "code": "М 728",
+          "image": "imgs/stones/grandex/marble-ocean-m/М-728.jpg",
+          "href": "palette.html#grandex-marble-ocean-m",
+          "new": true
+        },
+        {
+          "name": "Снежный Кварц / Snowy Moscow",
+          "code": "E 603",
+          "image": "imgs/stones/grandex/explorer-e/E-603.jpg",
+          "href": "palette.html#grandex-explorer-e",
+          "new": false
+        },
+        {
+          "name": "Индийская Гранат / Indian Mantra",
+          "code": "E 605",
+          "image": "imgs/stones/grandex/explorer-e/E-605.jpg",
+          "href": "palette.html#grandex-explorer-e",
+          "new": false
+        },
+        {
+          "name": "Японский Агат / Business Tokio",
+          "code": "E 609",
+          "image": "imgs/stones/grandex/explorer-e/E-609.jpg",
+          "href": "palette.html#grandex-explorer-e",
+          "new": false
+        },
+        {
+          "name": "Медный Янтарь / English Tea",
+          "code": "E 613",
+          "image": "imgs/stones/grandex/explorer-e/E-613.jpg",
+          "href": "palette.html#grandex-explorer-e",
+          "new": false
+        },
+        {
+          "name": "Звездный Сапфир / Saturn Ring",
+          "code": "E 618",
+          "image": "imgs/stones/grandex/explorer-e/E-618.jpg",
+          "href": "palette.html#grandex-explorer-e",
+          "new": false
+        },
+        {
+          "name": "Сияние Бриллианта / Cut Diamond",
+          "code": "J 504",
+          "image": "imgs/stones/grandex/jewel-j/J-504.jpg",
+          "href": "palette.html#grandex-jewel-j",
+          "new": false
+        },
+        {
+          "name": "Жемчужный Опал / Pearl Necklace",
+          "code": "J 505",
+          "image": "imgs/stones/grandex/jewel-j/J-505.jpg",
+          "href": "palette.html#grandex-jewel-j",
+          "new": false
+        },
+        {
+          "name": "Обсидиан / American Obsidian",
+          "code": "J 509",
+          "image": "imgs/stones/grandex/jewel-j/J-509.jpg",
+          "href": "palette.html#grandex-jewel-j",
+          "new": false
+        },
+        {
+          "name": "Терраццо / Terazzo Bianco",
+          "code": "J 510",
+          "image": "imgs/stones/grandex/jewel-j/J-510.jpg",
+          "href": "palette.html#grandex-jewel-j",
+          "new": false
+        },
+        {
+          "name": "Облачный Пик / Cloudy Mount",
+          "code": "A 401",
+          "image": "imgs/stones/grandex/adventure-a/A-401.jpg",
+          "href": "palette.html#grandex-adventure-a",
+          "new": false
+        },
+        {
+          "name": "Каменный Пляж / Asphalt Material",
+          "code": "A 403",
+          "image": "imgs/stones/grandex/adventure-a/A-403.jpg",
+          "href": "palette.html#grandex-adventure-a",
+          "new": false
+        },
+        {
+          "name": "Персиковый Сад / Peach Fruit",
+          "code": "A 405",
+          "image": "imgs/stones/grandex/adventure-a/A-405.jpg",
+          "href": "palette.html#grandex-adventure-a",
+          "new": false
+        },
+        {
+          "name": "Космос / Space Galaxy",
+          "code": "A 406",
+          "image": "imgs/stones/grandex/adventure-a/A-406.jpg",
+          "href": "palette.html#grandex-adventure-a",
+          "new": false
+        },
+        {
+          "name": "Южный Берег / South Coast",
+          "code": "A 409",
+          "image": "imgs/stones/grandex/adventure-a/A-409.jpg",
+          "href": "palette.html#grandex-adventure-a",
+          "new": false
+        },
+        {
+          "name": "Хлопковые Облака / Cotton Wool",
+          "code": "A 410",
+          "image": "imgs/stones/grandex/adventure-a/A-410.jpg",
+          "href": "palette.html#grandex-adventure-a",
+          "new": false
+        },
+        {
+          "name": "Солнечный Янтарь / Precious Stone",
+          "code": "A 411",
+          "image": "imgs/stones/grandex/adventure-a/A-411.jpg",
+          "href": "palette.html#grandex-adventure-a",
+          "new": false
+        },
+        {
+          "name": "Дикая Саванна / Citron Blossom",
+          "code": "A 412",
+          "image": "imgs/stones/grandex/adventure-a/A-412.jpg",
+          "href": "palette.html#grandex-adventure-a",
+          "new": false
+        },
+        {
+          "name": "Затерянный Город / Historical Spot",
+          "code": "A 414",
+          "image": "imgs/stones/grandex/adventure-a/A-414.jpg",
+          "href": "palette.html#grandex-adventure-a",
+          "new": false
+        },
+        {
+          "name": "Горный Хребет / Endless Desert",
+          "code": "A 415",
+          "image": "imgs/stones/grandex/adventure-a/A-415.jpg",
+          "href": "palette.html#grandex-adventure-a",
+          "new": false
+        },
+        {
+          "name": "Кремовый Залив / Visible Horizon",
+          "code": "A 416",
+          "image": "imgs/stones/grandex/adventure-a/A-416.jpg",
+          "href": "palette.html#grandex-adventure-a",
+          "new": false
+        },
+        {
+          "name": "Морской Круиз / Global Cruise",
+          "code": "A 417",
+          "image": "imgs/stones/grandex/adventure-a/A-417.jpg",
+          "href": "palette.html#grandex-adventure-a",
+          "new": false
+        },
+        {
+          "name": "Английский Парк / Oak Wood",
+          "code": "A 418",
+          "image": "imgs/stones/grandex/adventure-a/A-418.jpg",
+          "href": "palette.html#grandex-adventure-a",
+          "new": false
+        },
+        {
+          "name": "Тропический Шторм / Cromium Atom",
+          "code": "A 419",
+          "image": "imgs/stones/grandex/adventure-a/A-419.jpg",
+          "href": "palette.html#grandex-adventure-a",
+          "new": false
+        },
+        {
+          "name": "Каменный Уголь / Coal Mine",
+          "code": "A 421",
+          "image": "imgs/stones/grandex/adventure-a/A-421.jpg",
+          "href": "palette.html#grandex-adventure-a",
+          "new": false
+        },
+        {
+          "name": "Снежный Склон / Snow Pile",
+          "code": "A 422",
+          "image": "imgs/stones/grandex/adventure-a/A-422.jpg",
+          "href": "palette.html#grandex-adventure-a",
+          "new": false
+        },
+        {
+          "name": "Вулканический Пепел / Industrial Draft",
+          "code": "A 423",
+          "image": "imgs/stones/grandex/adventure-a/A-423.jpg",
+          "href": "palette.html#grandex-adventure-a",
+          "new": false
+        },
+        {
+          "name": "Серый Гранит / Loft Design",
+          "code": "A 424",
+          "image": "imgs/stones/grandex/adventure-a/A-424.jpg",
+          "href": "palette.html#grandex-adventure-a",
+          "new": false
+        },
+        {
+          "name": "Огни Города / Urban Project",
+          "code": "A 425",
+          "image": "imgs/stones/grandex/adventure-a/A-425.jpg",
+          "href": "palette.html#grandex-adventure-a",
+          "new": false
+        },
+        {
+          "name": "Базальт / Onyx",
+          "code": "A 426",
+          "image": "imgs/stones/grandex/adventure-a/A-426.jpg",
+          "href": "palette.html#grandex-adventure-a",
+          "new": false
+        },
+        {
+          "name": "Примо / Primo",
+          "code": "A 427",
+          "image": "imgs/stones/grandex/adventure-a/A-427.jpg",
+          "href": "palette.html#grandex-adventure-a",
+          "new": false
+        },
+        {
+          "name": "Кварцевый Срез / Conrete Quartz",
+          "code": "A 429",
+          "image": "imgs/stones/grandex/adventure-a/A-429.jpg",
+          "href": "palette.html#grandex-adventure-a",
+          "new": false
+        },
+        {
+          "name": "Райский Пляж / Milkshake",
+          "code": "A 495",
+          "image": "imgs/stones/grandex/adventure-a/A-495.jpg",
+          "href": "palette.html#grandex-adventure-a",
+          "new": false
+        },
+        {
+          "name": "Маковый Рулет / Poppy Seed",
+          "code": "D 301",
+          "image": "imgs/stones/grandex/delicious-edition-d/D-301.jpg",
+          "href": "palette.html#grandex-delicious-edition-d",
+          "new": false
+        },
+        {
+          "name": "Утренний Кофе / Morning Coffee",
+          "code": "D 302",
+          "image": "imgs/stones/grandex/delicious-edition-d/D-302.jpg",
+          "href": "palette.html#grandex-delicious-edition-d",
+          "new": false
+        },
+        {
+          "name": "Сладкий Щербет / Raisined Chocolate",
+          "code": "D 303",
+          "image": "imgs/stones/grandex/delicious-edition-d/D-303.jpg",
+          "href": "palette.html#grandex-delicious-edition-d",
+          "new": false
+        },
+        {
+          "name": "Пломбир / Ice-Cream",
+          "code": "D 304",
+          "image": "imgs/stones/grandex/delicious-edition-d/D-304.jpg",
+          "href": "palette.html#grandex-delicious-edition-d",
+          "new": false
+        },
+        {
+          "name": "Сливочный Ирис / Melted Butter",
+          "code": "D 305",
+          "image": "imgs/stones/grandex/delicious-edition-d/D-305.jpg",
+          "href": "palette.html#grandex-delicious-edition-d",
+          "new": false
+        },
+        {
+          "name": "Миндальный Пирог / Aspen Pie",
+          "code": "D 307",
+          "image": "imgs/stones/grandex/delicious-edition-d/D-307.jpg",
+          "href": "palette.html#grandex-delicious-edition-d",
+          "new": false
+        },
+        {
+          "name": "Мятный Сорбет / Cubic Mint",
+          "code": "D 308",
+          "image": "imgs/stones/grandex/delicious-edition-d/D-308.jpg",
+          "href": "palette.html#grandex-delicious-edition-d",
+          "new": false
+        },
+        {
+          "name": "Грибной Суп / Mushroom Soup",
+          "code": "D 309",
+          "image": "imgs/stones/grandex/delicious-edition-d/D-309.jpg",
+          "href": "palette.html#grandex-delicious-edition-d",
+          "new": false
+        },
+        {
+          "name": "Травяной Чай / Herbal Ash",
+          "code": "D 310",
+          "image": "imgs/stones/grandex/delicious-edition-d/D-310.jpg",
+          "href": "palette.html#grandex-delicious-edition-d",
+          "new": false
+        },
+        {
+          "name": "Грильяж / Pietra Absorb",
+          "code": "D 312",
+          "image": "imgs/stones/grandex/delicious-edition-d/D-312.jpg",
+          "href": "palette.html#grandex-delicious-edition-d",
+          "new": false
+        },
+        {
+          "name": "Сливочный Мусс / Milky Way",
+          "code": "D 313",
+          "image": "imgs/stones/grandex/delicious-edition-d/D-313.jpg",
+          "href": "palette.html#grandex-delicious-edition-d",
+          "new": false
+        },
+        {
+          "name": "Сахарный Лед / Arctic Ice",
+          "code": "D 314",
+          "image": "imgs/stones/grandex/delicious-edition-d/D-314.jpg",
+          "href": "palette.html#grandex-delicious-edition-d",
+          "new": false
+        },
+        {
+          "name": "Космический Джем / Spacemen Food",
+          "code": "D 315",
+          "image": "imgs/stones/grandex/delicious-edition-d/D-315.jpg",
+          "href": "palette.html#grandex-delicious-edition-d",
+          "new": false
+        },
+        {
+          "name": "Шоколадный Мусс / Velvet Bean",
+          "code": "D 318",
+          "image": "imgs/stones/grandex/delicious-edition-d/D-318.jpg",
+          "href": "palette.html#grandex-delicious-edition-d",
+          "new": false
+        },
+        {
+          "name": "Трюфель / Soil",
+          "code": "D 320",
+          "image": "imgs/stones/grandex/delicious-edition-d/D-320.jpg",
+          "href": "palette.html#grandex-delicious-edition-d",
+          "new": false
+        },
+        {
+          "name": "Морской Песок / Dirty Sand",
+          "code": "S 201",
+          "image": "imgs/stones/grandex/sand-and-sky-s/S-201.jpg",
+          "href": "palette.html#grandex-sand-and-sky-s",
+          "new": false
+        },
+        {
+          "name": "Звездное Небо / Peaceful Night",
+          "code": "S 202",
+          "image": "imgs/stones/grandex/sand-and-sky-s/S-202.jpg",
+          "href": "palette.html#grandex-sand-and-sky-s",
+          "new": false
+        },
+        {
+          "name": "Мерцающий Песок / Sparkling Sand",
+          "code": "S 203",
+          "image": "imgs/stones/grandex/sand-and-sky-s/S-203.jpg",
+          "href": "palette.html#grandex-sand-and-sky-s",
+          "new": false
+        },
+        {
+          "name": "Кварцевый Песок / Creamy Sand",
+          "code": "S 204",
+          "image": "imgs/stones/grandex/sand-and-sky-s/S-204.jpg",
+          "href": "palette.html#grandex-sand-and-sky-s",
+          "new": false
+        },
+        {
+          "name": "Небесная Дымка / Fair Sky",
+          "code": "S 205",
+          "image": "imgs/stones/grandex/sand-and-sky-s/S-205.jpg",
+          "href": "palette.html#grandex-sand-and-sky-s",
+          "new": false
+        },
+        {
+          "name": "Мокрый Песок / Wet Sand",
+          "code": "S 206",
+          "image": "imgs/stones/grandex/sand-and-sky-s/S-206.jpg",
+          "href": "palette.html#grandex-sand-and-sky-s",
+          "new": false
+        },
+        {
+          "name": "Чистое Небо / Clear Sky",
+          "code": "S 207",
+          "image": "imgs/stones/grandex/sand-and-sky-s/S-207.jpg",
+          "href": "palette.html#grandex-sand-and-sky-s",
+          "new": false
+        },
+        {
+          "name": "Дикий Пляж / Natural Sand",
+          "code": "S 208",
+          "image": "imgs/stones/grandex/sand-and-sky-s/S-208.jpg",
+          "href": "palette.html#grandex-sand-and-sky-s",
+          "new": false
+        },
+        {
+          "name": "Лунный Кратер / Light Sand",
+          "code": "S 209",
+          "image": "imgs/stones/grandex/sand-and-sky-s/S-209.jpg",
+          "href": "palette.html#grandex-sand-and-sky-s",
+          "new": false
+        },
+        {
+          "name": "Горячий Песок / Hot Sand",
+          "code": "S 210",
+          "image": "imgs/stones/grandex/sand-and-sky-s/S-210.jpg",
+          "href": "palette.html#grandex-sand-and-sky-s",
+          "new": false
+        },
+        {
+          "name": "Романтическая Ночь / Romantic Night",
+          "code": "S 211",
+          "image": "imgs/stones/grandex/sand-and-sky-s/S-211.jpg",
+          "href": "palette.html#grandex-sand-and-sky-s",
+          "new": false
+        },
+        {
+          "name": "Грозовое Небо / Thunder Sky",
+          "code": "S 212",
+          "image": "imgs/stones/grandex/sand-and-sky-s/S-212.jpg",
+          "href": "palette.html#grandex-sand-and-sky-s",
+          "new": false
+        },
+        {
+          "name": "Горячий Капучино / Sanded Brown",
+          "code": "S 214",
+          "image": "imgs/stones/grandex/sand-and-sky-s/S-214.jpg",
+          "href": "palette.html#grandex-sand-and-sky-s",
+          "new": false
+        },
+        {
+          "name": "Горная Крошка / Sanded Alps",
+          "code": "S 215",
+          "image": "imgs/stones/grandex/sand-and-sky-s/S-215.jpg",
+          "href": "palette.html#grandex-sand-and-sky-s",
+          "new": false
+        },
+        {
+          "name": "Полночное Небо / Midnight Sky",
+          "code": "S 217",
+          "image": "imgs/stones/grandex/sand-and-sky-s/S-217.jpg",
+          "href": "palette.html#grandex-sand-and-sky-s",
+          "new": false
+        },
+        {
+          "name": "Льняной Беж / Crispy Beige",
+          "code": "S 218",
+          "image": "imgs/stones/grandex/sand-and-sky-s/S-218.jpg",
+          "href": "palette.html#grandex-sand-and-sky-s",
+          "new": false
+        },
+        {
+          "name": "Хрустальный Снег / Crystal snowflake",
+          "code": "S 220",
+          "image": "imgs/stones/grandex/sand-and-sky-s/S-220.jpg",
+          "href": "palette.html#grandex-sand-and-sky-s",
+          "new": false
+        },
+        {
+          "name": "Серебристый Жемчуг / Silver Pearl",
+          "code": "S 223",
+          "image": "imgs/stones/grandex/sand-and-sky-s/S-223.jpg",
+          "href": "palette.html#grandex-sand-and-sky-s",
+          "new": false
+        },
+        {
+          "name": "Пепельный Шторм / Tempest Grey",
+          "code": "S 229",
+          "image": "imgs/stones/grandex/sand-and-sky-s/S-229.jpg",
+          "href": "palette.html#grandex-sand-and-sky-s",
+          "new": false
+        },
+        {
+          "name": "Ванильный / Pure Vanilla",
+          "code": "P 101",
+          "image": "imgs/stones/grandex/pure-color-p/P-101.jpg",
+          "href": "palette.html#grandex-pure-color-p",
+          "new": false
+        },
+        {
+          "name": "Бежевый / Pure Beige",
+          "code": "P 102",
+          "image": "imgs/stones/grandex/pure-color-p/P-102.jpg",
+          "href": "palette.html#grandex-pure-color-p",
+          "new": false
+        },
+        {
+          "name": "Опал / Pure Translucent",
+          "code": "P 103",
+          "image": "imgs/stones/grandex/pure-color-p/P-103.jpg",
+          "href": "palette.html#grandex-pure-color-p",
+          "new": false
+        },
+        {
+          "name": "Белый / Pure White",
+          "code": "P 104",
+          "image": "imgs/stones/grandex/pure-color-p/P-104.jpg",
+          "href": "palette.html#grandex-pure-color-p",
+          "new": false
+        },
+        {
+          "name": "Антрацит / Pure Black",
+          "code": "P 105",
+          "image": "imgs/stones/grandex/pure-color-p/P-105.jpg",
+          "href": "palette.html#grandex-pure-color-p",
+          "new": false
+        },
+        {
+          "name": "Красный / Pure Red",
+          "code": "P 107",
+          "image": "imgs/stones/grandex/pure-color-p/P-107.jpg",
+          "href": "palette.html#grandex-pure-color-p",
+          "new": false
+        },
+        {
+          "name": "Серый / Pure Grey",
+          "code": "P 108",
+          "image": "imgs/stones/grandex/pure-color-p/P-108.jpg",
+          "href": "palette.html#grandex-pure-color-p",
+          "new": false
+        },
+        {
+          "name": "Жемчужный / Light Grey",
+          "code": "P 109",
+          "image": "imgs/stones/grandex/pure-color-p/P-109.jpg",
+          "href": "palette.html#grandex-pure-color-p",
+          "new": false
+        },
+        {
+          "name": "Стальной / Iron",
+          "code": "P 110",
+          "image": "imgs/stones/grandex/pure-color-p/P-110.jpg",
+          "href": "palette.html#grandex-pure-color-p",
+          "new": false
+        },
+        {
+          "name": "Хлопок / Natural White",
+          "code": "P 118",
+          "image": "imgs/stones/grandex/pure-color-p/P-118.jpg",
+          "href": "palette.html#grandex-pure-color-p",
+          "new": false
+        },
+        {
+          "name": "Дыхание Севера / Whale White",
+          "code": "P 119",
+          "image": "imgs/stones/grandex/pure-color-p/P-119.jpg",
+          "href": "palette.html#grandex-pure-color-p",
+          "new": false
+        },
+        {
+          "name": "Морская Бездна / Deep Sea",
+          "code": "P 197",
+          "image": "imgs/stones/grandex/pure-color-p/P-197.jpg",
+          "href": "palette.html#grandex-pure-color-p",
+          "new": false
+        },
+        {
+          "name": "Спелый Манго / Mango",
+          "code": "P 198",
+          "image": "imgs/stones/grandex/pure-color-p/P-198.jpg",
+          "href": "palette.html#grandex-pure-color-p",
+          "new": false
+        },
+        {
+          "name": "Мандарин / Pure Orange",
+          "code": "P 199",
+          "image": "imgs/stones/grandex/pure-color-p/P-199.jpg",
+          "href": "palette.html#grandex-pure-color-p",
+          "new": false
+        },
+        {
+          "name": "Дикий Лайм / Green Lime",
+          "code": "P 427",
+          "image": "imgs/stones/grandex/pure-color-p/P-427.jpg",
+          "href": "palette.html#grandex-pure-color-p",
+          "new": false
+        }
+      ]
+    },
+    {
+      "id": "neomarm",
+      "name": "NEOMARM",
+      "type": "Акриловый камень",
+      "href": "palette.html#neomarm",
+      "candidateCount": 32,
+      "items": [
+        {
+          "name": "Ветер Пустыни / Desert blow",
+          "code": "NM 102",
+          "image": "imgs/stones/neomarm/mramornaya-nm/NM-102.jpg",
+          "href": "palette.html#neomarm-mramornaya-nm",
+          "new": false
+        },
+        {
+          "name": "Каменный Цветок / Petro bloom",
+          "code": "NM 108",
+          "image": "imgs/stones/neomarm/mramornaya-nm/NM-108.jpg",
+          "href": "palette.html#neomarm-mramornaya-nm",
+          "new": false
+        },
+        {
+          "name": "Белая Стихия / Magic dust",
+          "code": "NM 109",
+          "image": "imgs/stones/neomarm/mramornaya-nm/NM-109.jpg",
+          "href": "palette.html#neomarm-mramornaya-nm",
+          "new": false
+        },
+        {
+          "name": "Мираж / Foggy shell",
+          "code": "NM 110",
+          "image": "imgs/stones/neomarm/mramornaya-nm/NM-110.jpg",
+          "href": "palette.html#neomarm-mramornaya-nm",
+          "new": false
+        },
+        {
+          "name": "Цветочный Сад / Flower cloud",
+          "code": "NM 111",
+          "image": "imgs/stones/neomarm/mramornaya-nm/NM-111.jpg",
+          "href": "palette.html#neomarm-mramornaya-nm",
+          "new": false
+        },
+        {
+          "name": "Природная Эссенция / Natural Essence",
+          "code": "NM 120",
+          "image": "imgs/stones/neomarm/mramornaya-nm/NM-120.jpg",
+          "href": "palette.html#neomarm-mramornaya-nm",
+          "new": true
+        },
+        {
+          "name": "Арктический Поток / Arctic Flow",
+          "code": "NM 121",
+          "image": "imgs/stones/neomarm/mramornaya-nm/NM-121.jpg",
+          "href": "palette.html#neomarm-mramornaya-nm",
+          "new": true
+        },
+        {
+          "name": "Калакатта Бьянко / Calacatta Bianco",
+          "code": "NM 201",
+          "image": "imgs/stones/neomarm/mramornaya-nm/NM-201.jpg",
+          "href": "palette.html#neomarm-mramornaya-nm",
+          "new": false
+        },
+        {
+          "name": "Калакатта Кассель / Calacatta Kassel",
+          "code": "NM 206",
+          "image": "imgs/stones/neomarm/mramornaya-nm/NM-206.jpg",
+          "href": "palette.html#neomarm-mramornaya-nm",
+          "new": false
+        },
+        {
+          "name": "Статуарио Лилль / Statuario Lille",
+          "code": "NM 207",
+          "image": "imgs/stones/neomarm/mramornaya-nm/NM-207.jpg",
+          "href": "palette.html#neomarm-mramornaya-nm",
+          "new": false
+        },
+        {
+          "name": "Белая Калакатта / Calacatta Blanca",
+          "code": "NM 208",
+          "image": "imgs/stones/neomarm/mramornaya-nm/NM-208.jpg",
+          "href": "palette.html#neomarm-mramornaya-nm",
+          "new": false
+        },
+        {
+          "name": "Лунный Камень / Marmo Lunar",
+          "code": "NM 210",
+          "image": "imgs/stones/neomarm/mramornaya-nm/NM-210.jpg",
+          "href": "palette.html#neomarm-mramornaya-nm",
+          "new": false
+        },
+        {
+          "name": "Облачный Сон / White Mist",
+          "code": "NM 220",
+          "image": "imgs/stones/neomarm/mramornaya-nm/NM-220.jpg",
+          "href": "palette.html#neomarm-mramornaya-nm",
+          "new": false
+        },
+        {
+          "name": "Легкая Дымка / Optical Haze",
+          "code": "NM 221",
+          "image": "imgs/stones/neomarm/mramornaya-nm/NM-221.jpg",
+          "href": "palette.html#neomarm-mramornaya-nm",
+          "new": false
+        },
+        {
+          "name": "Туман Олимпа / Olympos Mist",
+          "code": "NM 222",
+          "image": "imgs/stones/neomarm/mramornaya-nm/NM-222.jpg",
+          "href": "palette.html#neomarm-mramornaya-nm",
+          "new": false
+        },
+        {
+          "name": "Утренний Свет / Pietra Alba",
+          "code": "NM 223",
+          "image": "imgs/stones/neomarm/mramornaya-nm/NM-223.jpg",
+          "href": "palette.html#neomarm-mramornaya-nm",
+          "new": true
+        },
+        {
+          "name": "Серый Жемчуг / Pietra Nebbia",
+          "code": "NM 224",
+          "image": "imgs/stones/neomarm/mramornaya-nm/NM-224.jpg",
+          "href": "palette.html#neomarm-mramornaya-nm",
+          "new": true
+        },
+        {
+          "name": "Северный Ветер / Linea Argento",
+          "code": "NM 225",
+          "image": "imgs/stones/neomarm/mramornaya-nm/NM-225.jpg",
+          "href": "palette.html#neomarm-mramornaya-nm",
+          "new": true
+        },
+        {
+          "name": "Кремовый Шелк / Vento Calmo",
+          "code": "NM 226",
+          "image": "imgs/stones/neomarm/mramornaya-nm/NM-226.jpg",
+          "href": "palette.html#neomarm-mramornaya-nm",
+          "new": true
+        },
+        {
+          "name": "Белый / White",
+          "code": "N 010",
+          "image": "imgs/stones/neomarm/granitnaya-n/N-010.jpg",
+          "href": "palette.html#neomarm-granitnaya-n",
+          "new": false
+        },
+        {
+          "name": "Кристальный Беж / Crystal Beige",
+          "code": "N 101",
+          "image": "imgs/stones/neomarm/granitnaya-n/N-101.jpg",
+          "href": "palette.html#neomarm-granitnaya-n",
+          "new": false
+        },
+        {
+          "name": "Серый Оникс / Gray Onix",
+          "code": "N 103",
+          "image": "imgs/stones/neomarm/granitnaya-n/N-103.jpg",
+          "href": "palette.html#neomarm-granitnaya-n",
+          "new": false
+        },
+        {
+          "name": "Кремовый Бархат / Sanded Cream",
+          "code": "N 421",
+          "image": "imgs/stones/neomarm/granitnaya-n/N-421.jpg",
+          "href": "palette.html#neomarm-granitnaya-n",
+          "new": false
+        },
+        {
+          "name": "Темный Песок / Sanded Night",
+          "code": "N 423",
+          "image": "imgs/stones/neomarm/granitnaya-n/N-423.jpg",
+          "href": "palette.html#neomarm-granitnaya-n",
+          "new": false
+        },
+        {
+          "name": "Знойный Песок / Sahara",
+          "code": "N 440",
+          "image": "imgs/stones/neomarm/granitnaya-n/N-440.jpg",
+          "href": "palette.html#neomarm-granitnaya-n",
+          "new": false
+        },
+        {
+          "name": "Белый Металлик / Mettalic White",
+          "code": "N 510",
+          "image": "imgs/stones/neomarm/granitnaya-n/N-510.jpg",
+          "href": "palette.html#neomarm-granitnaya-n",
+          "new": false
+        },
+        {
+          "name": "Эрл Грей / Earl Grey",
+          "code": "N 539",
+          "image": "imgs/stones/neomarm/granitnaya-n/N-539.jpg",
+          "href": "palette.html#neomarm-granitnaya-n",
+          "new": false
+        },
+        {
+          "name": "Терраццо Белый / Abstraction",
+          "code": "N 593",
+          "image": "imgs/stones/neomarm/granitnaya-n/N-593.jpg",
+          "href": "palette.html#neomarm-granitnaya-n",
+          "new": false
+        },
+        {
+          "name": "Молочный Снег / Milk Snow",
+          "code": "N 610",
+          "image": "imgs/stones/neomarm/granitnaya-n/N-610.jpg",
+          "href": "palette.html#neomarm-granitnaya-n",
+          "new": false
+        },
+        {
+          "name": "Белый Ледник / White Glacier",
+          "code": "N 612",
+          "image": "imgs/stones/neomarm/granitnaya-n/N-612.jpg",
+          "href": "palette.html#neomarm-granitnaya-n",
+          "new": false
+        },
+        {
+          "name": "Ледяной Берег / Cobble Ice",
+          "code": "N 811",
+          "image": "imgs/stones/neomarm/granitnaya-n/N-811.jpg",
+          "href": "palette.html#neomarm-granitnaya-n",
+          "new": false
+        },
+        {
+          "name": "Золотая Галька / Cobble Gold",
+          "code": "N 840",
+          "image": "imgs/stones/neomarm/granitnaya-n/N-840.jpg",
+          "href": "palette.html#neomarm-granitnaya-n",
+          "new": false
+        }
+      ]
+    },
+    {
+      "id": "formax",
+      "name": "Formax",
+      "type": "Акриловый камень",
+      "href": "palette.html#formax",
+      "candidateCount": 54,
+      "items": [
+        {
+          "name": "Молочный Флёр / Milky Haze",
+          "code": "J-1102",
+          "image": "imgs/stones/formax/clear-collection/J-1102.jpg",
+          "href": "palette.html#formax-clear-collection",
+          "new": false
+        },
+        {
+          "name": "Белый / White",
+          "code": "J-1104",
+          "image": "imgs/stones/formax/clear-collection/J-1104.jpg",
+          "href": "palette.html#formax-clear-collection",
+          "new": false
+        },
+        {
+          "name": "Черный / Black",
+          "code": "J-1105",
+          "image": "imgs/stones/formax/clear-collection/J-1105.jpg",
+          "href": "palette.html#formax-clear-collection",
+          "new": false
+        },
+        {
+          "name": "Серый / Grey",
+          "code": "J-1110",
+          "image": "imgs/stones/formax/clear-collection/J-1110.jpg",
+          "href": "palette.html#formax-clear-collection",
+          "new": false
+        },
+        {
+          "name": "Таинственный Белый / Ghostly White",
+          "code": "J-1119",
+          "image": "imgs/stones/formax/clear-collection/J-1119.jpg",
+          "href": "palette.html#formax-clear-collection",
+          "new": false
+        },
+        {
+          "name": "Золотая Равнина / Golden Plain",
+          "code": "F-2109",
+          "image": "imgs/stones/formax/granite-collection/F-2109.jpg",
+          "href": "palette.html#formax-granite-collection",
+          "new": false
+        },
+        {
+          "name": "Облачная Корона / Cloud Crown",
+          "code": "F-2110",
+          "image": "imgs/stones/formax/granite-collection/F-2110.jpg",
+          "href": "palette.html#formax-granite-collection",
+          "new": false
+        },
+        {
+          "name": "Сладкий Мокко / Soft Mocha",
+          "code": "F-2111",
+          "image": "imgs/stones/formax/granite-collection/F-2111.jpg",
+          "href": "palette.html#formax-granite-collection",
+          "new": false
+        },
+        {
+          "name": "Айсберг / Iceberg",
+          "code": "F-2113",
+          "image": "imgs/stones/formax/granite-collection/F-2113.jpg",
+          "href": "palette.html#formax-granite-collection",
+          "new": false
+        },
+        {
+          "name": "Каменная Сказка / Stone Tale",
+          "code": "F-2401",
+          "image": "imgs/stones/formax/granite-collection/F-2401.jpg",
+          "href": "palette.html#formax-granite-collection",
+          "new": false
+        },
+        {
+          "name": "Осколок Луны / Lunar Grain",
+          "code": "F-2422",
+          "image": "imgs/stones/formax/granite-collection/F-2422.jpg",
+          "href": "palette.html#formax-granite-collection",
+          "new": false
+        },
+        {
+          "name": "Снежная Буря / Snow Concrete",
+          "code": "F-2423",
+          "image": "imgs/stones/formax/granite-collection/F-2423.jpg",
+          "href": "palette.html#formax-granite-collection",
+          "new": false
+        },
+        {
+          "name": "Симфония Города / City Symphony",
+          "code": "F-2425",
+          "image": "imgs/stones/formax/granite-collection/F-2425.jpg",
+          "href": "palette.html#formax-granite-collection",
+          "new": false
+        },
+        {
+          "name": "Метеорит / Galactic Granite",
+          "code": "F-2811",
+          "image": "imgs/stones/formax/granite-collection/F-2811.jpg",
+          "href": "palette.html#formax-granite-collection",
+          "new": false
+        },
+        {
+          "name": "Белый Гранит / Starry Sand",
+          "code": "H-1001",
+          "image": "imgs/stones/formax/granite-collection/H-1001.jpg",
+          "href": "palette.html#formax-granite-collection",
+          "new": false
+        },
+        {
+          "name": "Маковое Поле / Poppy Seeds",
+          "code": "H-1002",
+          "image": "imgs/stones/formax/granite-collection/H-1002.jpg",
+          "href": "palette.html#formax-granite-collection",
+          "new": false
+        },
+        {
+          "name": "Каменный Вихрь / Stone Whirl",
+          "code": "H-1007",
+          "image": "imgs/stones/formax/granite-collection/H-1007.jpg",
+          "href": "palette.html#formax-granite-collection",
+          "new": false
+        },
+        {
+          "name": "Свет Звезды / Cream Star",
+          "code": "H-1101",
+          "image": "imgs/stones/formax/granite-collection/H-1101.jpg",
+          "href": "palette.html#formax-granite-collection",
+          "new": false
+        },
+        {
+          "name": "Шелковый Иней / Polar Silk",
+          "code": "H-1108",
+          "image": "imgs/stones/formax/granite-collection/H-1108.jpg",
+          "href": "palette.html#formax-granite-collection",
+          "new": false
+        },
+        {
+          "name": "Безмятежный Океан / Soft Ocean",
+          "code": "H-1194",
+          "image": "imgs/stones/formax/granite-collection/H-1194.jpg",
+          "href": "palette.html#formax-granite-collection",
+          "new": false
+        },
+        {
+          "name": "Звездный Песок / Starry Sand",
+          "code": "H-1203",
+          "image": "imgs/stones/formax/granite-collection/H-1203.jpg",
+          "href": "palette.html#formax-granite-collection",
+          "new": false
+        },
+        {
+          "name": "Кашемир / Cream Velvet",
+          "code": "H-1204",
+          "image": "imgs/stones/formax/granite-collection/H-1204.jpg",
+          "href": "palette.html#formax-granite-collection",
+          "new": false
+        },
+        {
+          "name": "Летний Бриз / Summer Breeze",
+          "code": "H-1205",
+          "image": "imgs/stones/formax/granite-collection/H-1205.jpg",
+          "href": "palette.html#formax-granite-collection",
+          "new": false
+        },
+        {
+          "name": "Арктическое Дыхание / Arctic Breath",
+          "code": "H-1207",
+          "image": "imgs/stones/formax/granite-collection/H-1207.jpg",
+          "href": "palette.html#formax-granite-collection",
+          "new": false
+        },
+        {
+          "name": "Дюна / Dune",
+          "code": "H-1209",
+          "image": "imgs/stones/formax/granite-collection/H-1209.jpg",
+          "href": "palette.html#formax-granite-collection",
+          "new": false
+        },
+        {
+          "name": "Космическая Бездна / Cosmic Darkness",
+          "code": "H-1211",
+          "image": "imgs/stones/formax/granite-collection/H-1211.jpg",
+          "href": "palette.html#formax-granite-collection",
+          "new": false
+        },
+        {
+          "name": "Песчаная Буря / Stone Wind",
+          "code": "H-1215",
+          "image": "imgs/stones/formax/granite-collection/H-1215.jpg",
+          "href": "palette.html#formax-granite-collection",
+          "new": false
+        },
+        {
+          "name": "Лунный Свет / Moon Sand",
+          "code": "H-1218",
+          "image": "imgs/stones/formax/granite-collection/H-1218.jpg",
+          "href": "palette.html#formax-granite-collection",
+          "new": false
+        },
+        {
+          "name": "Морозный Узор / Winter Grain",
+          "code": "H-1301",
+          "image": "imgs/stones/formax/granite-collection/H-1301.jpg",
+          "href": "palette.html#formax-granite-collection",
+          "new": false
+        },
+        {
+          "name": "Полуночный Камень / Ghostly Stone",
+          "code": "H-1312",
+          "image": "imgs/stones/formax/granite-collection/H-1312.jpg",
+          "href": "palette.html#formax-granite-collection",
+          "new": false
+        },
+        {
+          "name": "Хрустальное Небо / Crystal Sky",
+          "code": "H-1313",
+          "image": "imgs/stones/formax/granite-collection/H-1313.jpg",
+          "href": "palette.html#formax-granite-collection",
+          "new": false
+        },
+        {
+          "name": "Карамельный Сироп / Grainy Caramel",
+          "code": "H-1632",
+          "image": "imgs/stones/formax/granite-collection/H-1632.jpg",
+          "href": "palette.html#formax-granite-collection",
+          "new": false
+        },
+        {
+          "name": "Янтарный Свет / Ivory Glow",
+          "code": "V-8008",
+          "image": "imgs/stones/formax/natural-collection/V-8008.jpg",
+          "href": "palette.html#formax-natural-collection",
+          "new": false
+        },
+        {
+          "name": "Молочная Река / White Stream",
+          "code": "V-8016",
+          "image": "imgs/stones/formax/natural-collection/V-8016.jpg",
+          "href": "palette.html#formax-natural-collection",
+          "new": false
+        },
+        {
+          "name": "Первые Лучи / Morning Dust",
+          "code": "V-8021",
+          "image": "imgs/stones/formax/natural-collection/V-8021.jpg",
+          "href": "palette.html#formax-natural-collection",
+          "new": false
+        },
+        {
+          "name": "Морозное Утро / Ghostly white",
+          "code": "V-8034",
+          "image": "imgs/stones/formax/natural-collection/V-8034.jpg",
+          "href": "palette.html#formax-natural-collection",
+          "new": false
+        },
+        {
+          "name": "Терракота / Terracotta",
+          "code": "V-8062",
+          "image": "imgs/stones/formax/natural-collection/V-8062.jpg",
+          "href": "palette.html#formax-natural-collection",
+          "new": false
+        },
+        {
+          "name": "Горный Воздух / Mountain Air",
+          "code": "V-8063",
+          "image": "imgs/stones/formax/natural-collection/V-8063.jpg",
+          "href": "palette.html#formax-natural-collection",
+          "new": false
+        },
+        {
+          "name": "Сливочный Крем / Creamy Serenity",
+          "code": "V-8065",
+          "image": "imgs/stones/formax/natural-collection/V-8065.jpg",
+          "href": "palette.html#formax-natural-collection",
+          "new": false
+        },
+        {
+          "name": "Лунная Симфония / Moon Symphony",
+          "code": "V-8066",
+          "image": "imgs/stones/formax/natural-collection/V-8066.jpg",
+          "href": "palette.html#formax-natural-collection",
+          "new": false
+        },
+        {
+          "name": "Ангельский Пух / Heavenly Feather",
+          "code": "V-8067",
+          "image": "imgs/stones/formax/natural-collection/V-8067.jpg",
+          "href": "palette.html#formax-natural-collection",
+          "new": false
+        },
+        {
+          "name": "Северный Рассвет / Northern Dawn",
+          "code": "V-8068",
+          "image": "imgs/stones/formax/natural-collection/V-8068.jpg",
+          "href": "palette.html#formax-natural-collection",
+          "new": false
+        },
+        {
+          "name": "Морозное Сияние / Frost Light",
+          "code": "K-110",
+          "image": "imgs/stones/formax/aesthetic-collection/K-110.jpg",
+          "href": "palette.html#formax-aesthetic-collection",
+          "new": false
+        },
+        {
+          "name": "Дыхание Ветра / Eternal Breath",
+          "code": "K-172",
+          "image": "imgs/stones/formax/aesthetic-collection/K-172.jpg",
+          "href": "palette.html#formax-aesthetic-collection",
+          "new": false
+        },
+        {
+          "name": "Ночная Молния / Night Lightning",
+          "code": "K-527",
+          "image": "imgs/stones/formax/aesthetic-collection/K-527.jpg",
+          "href": "palette.html#formax-aesthetic-collection",
+          "new": false
+        },
+        {
+          "name": "Золотой Бриз / Golden Breeze",
+          "code": "K-537",
+          "image": "imgs/stones/formax/aesthetic-collection/K-537.jpg",
+          "href": "palette.html#formax-aesthetic-collection",
+          "new": false
+        },
+        {
+          "name": "Шепот Ветра / Silent Wind",
+          "code": "K-614",
+          "image": "imgs/stones/formax/aesthetic-collection/K-614.jpg",
+          "href": "palette.html#formax-aesthetic-collection",
+          "new": false
+        },
+        {
+          "name": "Тихая Волна / Silent Wave",
+          "code": "K-615",
+          "image": "imgs/stones/formax/aesthetic-collection/K-615.jpg",
+          "href": "palette.html#formax-aesthetic-collection",
+          "new": false
+        },
+        {
+          "name": "Каррарский Шарм / Carrara Charm",
+          "code": "O-901",
+          "image": "imgs/stones/formax/aesthetic-collection/O-901.jpg",
+          "href": "palette.html#formax-aesthetic-collection",
+          "new": false
+        },
+        {
+          "name": "Мраморный Водопад / White Cascade",
+          "code": "O-902",
+          "image": "imgs/stones/formax/aesthetic-collection/O-902.jpg",
+          "href": "palette.html#formax-aesthetic-collection",
+          "new": false
+        },
+        {
+          "name": "Следы Ветра / Misty Lines",
+          "code": "O-903",
+          "image": "imgs/stones/formax/aesthetic-collection/O-903.jpg",
+          "href": "palette.html#formax-aesthetic-collection",
+          "new": false
+        },
+        {
+          "name": "Теплый Берег / Warm Shore",
+          "code": "O-906",
+          "image": "imgs/stones/formax/aesthetic-collection/O-906.jpg",
+          "href": "palette.html#formax-aesthetic-collection",
+          "new": false
+        },
+        {
+          "name": "Песчаный Прибой / Sandy Surf",
+          "code": "O-907",
+          "image": "imgs/stones/formax/aesthetic-collection/O-907.jpg",
+          "href": "palette.html#formax-aesthetic-collection",
+          "new": false
+        },
+        {
+          "name": "Ночная Мгла / Dark Fog",
+          "code": "O-912",
+          "image": "imgs/stones/formax/aesthetic-collection/O-912.jpg",
+          "href": "palette.html#formax-aesthetic-collection",
+          "new": false
+        }
+      ]
+    },
+    {
+      "id": "techgres",
+      "name": "TechGres",
+      "type": "Керамические широкоформатные плиты",
+      "href": "palette.html#techgres",
+      "candidateCount": 36,
+      "items": [
+        {
+          "name": "Абсолют Белый / Absolute White",
+          "code": "TG1010",
+          "image": "imgs/stones/techgres/loft/TG1010.jpg",
+          "href": "palette.html#techgres-loft",
+          "new": true
+        },
+        {
+          "name": "Абсолют Вулканик Белый / Absolute Volcanic White",
+          "code": "TG1111",
+          "image": "imgs/stones/techgres/loft/TG1111.jpg",
+          "href": "palette.html#techgres-loft",
+          "new": true
+        },
+        {
+          "name": "Абсолют Вулканик Серый / Absolute Volcanic Grey",
+          "code": "TG2121",
+          "image": "imgs/stones/techgres/loft/TG2121.jpg",
+          "href": "palette.html#techgres-loft",
+          "new": true
+        },
+        {
+          "name": "Абсолют Вулканик Темный / Absolute Volcanic Space",
+          "code": "TG2222",
+          "image": "imgs/stones/techgres/loft/TG2222.jpg",
+          "href": "palette.html#techgres-loft",
+          "new": true
+        },
+        {
+          "name": "Aбсолют Черный / Absolute Black",
+          "code": "TG3030",
+          "image": "imgs/stones/techgres/loft/TG3030.jpg",
+          "href": "palette.html#techgres-loft",
+          "new": true
+        },
+        {
+          "name": "Абсолют Вулканик Черный / Absolute Volcanic Black",
+          "code": "TG3333",
+          "image": "imgs/stones/techgres/loft/TG3333.jpg",
+          "href": "palette.html#techgres-loft",
+          "new": true
+        },
+        {
+          "name": "Галактика / Galaxy",
+          "code": "TG4040",
+          "image": "imgs/stones/techgres/loft/TG4040.jpg",
+          "href": "palette.html#techgres-loft",
+          "new": true
+        },
+        {
+          "name": "Оксид Белый / Berry White",
+          "code": "TG4141",
+          "image": "imgs/stones/techgres/loft/TG4141.jpg",
+          "href": "palette.html#techgres-loft",
+          "new": true
+        },
+        {
+          "name": "Песочный Беж / Lime Stone Beige",
+          "code": "TG4242",
+          "image": "imgs/stones/techgres/loft/TG4242.jpg",
+          "href": "palette.html#techgres-loft",
+          "new": true
+        },
+        {
+          "name": "Сити / City Grey",
+          "code": "TG4343",
+          "image": "imgs/stones/techgres/loft/TG4343.jpg",
+          "href": "palette.html#techgres-loft",
+          "new": true
+        },
+        {
+          "name": "Энерджи Серый / Ley Lines Grey",
+          "code": "TG4444",
+          "image": "imgs/stones/techgres/loft/TG4444.jpg",
+          "href": "palette.html#techgres-loft",
+          "new": true
+        },
+        {
+          "name": "Темный Порт / Portland Grey",
+          "code": "TG4545",
+          "image": "imgs/stones/techgres/loft/TG4545.jpg",
+          "href": "palette.html#techgres-loft",
+          "new": true
+        },
+        {
+          "name": "Ночная Сахара / Sahara Noir",
+          "code": "TG5050",
+          "image": "imgs/stones/techgres/marble/TG5050.jpg",
+          "href": "palette.html#techgres-marble",
+          "new": true
+        },
+        {
+          "name": "Черная Маркина / Nero Marquina",
+          "code": "TG5151",
+          "image": "imgs/stones/techgres/marble/TG5151.jpg",
+          "href": "palette.html#techgres-marble",
+          "new": true
+        },
+        {
+          "name": "Каменный серый / Pietra Grey",
+          "code": "TG5353",
+          "image": "imgs/stones/techgres/marble/TG5353.jpg",
+          "href": "palette.html#techgres-marble",
+          "new": true
+        },
+        {
+          "name": "Имперский черный / Empire Black",
+          "code": "TG5555",
+          "image": "imgs/stones/techgres/marble/TG5555.jpg",
+          "href": "palette.html#techgres-marble",
+          "new": true
+        },
+        {
+          "name": "Темный Лавр / Noir Laurent",
+          "code": "TG5858",
+          "image": "imgs/stones/techgres/marble/TG5858.jpg",
+          "href": "palette.html#techgres-marble",
+          "new": true
+        },
+        {
+          "name": "Спокойный Черный / Pacific Black",
+          "code": "TG5959",
+          "image": "imgs/stones/techgres/marble/TG5959.jpg",
+          "href": "palette.html#techgres-marble",
+          "new": true
+        },
+        {
+          "name": "Калакатта Роза / Calacatta Rose Gold",
+          "code": "TG7070",
+          "image": "imgs/stones/techgres/marble/TG7070.jpg",
+          "href": "palette.html#techgres-marble",
+          "new": true
+        },
+        {
+          "name": "Статуарио Супер / Statuario Superior",
+          "code": "TG7272",
+          "image": "imgs/stones/techgres/marble/TG7272.jpg",
+          "href": "palette.html#techgres-marble",
+          "new": true
+        },
+        {
+          "name": "Калакатта Kлассик / Calacatta Сlassic",
+          "code": "TG7474",
+          "image": "imgs/stones/techgres/marble/TG7474.jpg",
+          "href": "palette.html#techgres-marble",
+          "new": true
+        },
+        {
+          "name": "Калакатта Элегант / Calacatta Elegance",
+          "code": "TG7575",
+          "image": "imgs/stones/techgres/marble/TG7575.jpg",
+          "href": "palette.html#techgres-marble",
+          "new": true
+        },
+        {
+          "name": "Калакатта Корчиа / Corchia",
+          "code": "TG7676",
+          "image": "imgs/stones/techgres/marble/TG7676.jpg",
+          "href": "palette.html#techgres-marble",
+          "new": true
+        },
+        {
+          "name": "Абу-Даби Мрамор / Abu Dhabi",
+          "code": "TG7777",
+          "image": "imgs/stones/techgres/marble/TG7777.jpg",
+          "href": "palette.html#techgres-marble",
+          "new": true
+        },
+        {
+          "name": "Калакатта Верховная / Calacatta Supreme",
+          "code": "TG7878",
+          "image": "imgs/stones/techgres/marble/TG7878.jpg",
+          "href": "palette.html#techgres-marble",
+          "new": true
+        },
+        {
+          "name": "Калакатта Тоскано / Calacatta Toscano",
+          "code": "TG7979",
+          "image": "imgs/stones/techgres/marble/TG7979.jpg",
+          "href": "palette.html#techgres-marble",
+          "new": true
+        },
+        {
+          "name": "Тадж Махал / Taj Mahal",
+          "code": "TG8080",
+          "image": "imgs/stones/techgres/marble/TG8080.jpg",
+          "href": "palette.html#techgres-marble",
+          "new": true
+        },
+        {
+          "name": "Мистическая Река / Mystic River",
+          "code": "TG8181",
+          "image": "imgs/stones/techgres/marble/TG8181.jpg",
+          "href": "palette.html#techgres-marble",
+          "new": true
+        },
+        {
+          "name": "Травертин Светлый / Travertine Lite",
+          "code": "TG8282",
+          "image": "imgs/stones/techgres/marble/TG8282.jpg",
+          "href": "palette.html#techgres-marble",
+          "new": true
+        },
+        {
+          "name": "Травертин Королевский / Royal Taj",
+          "code": "TG8383",
+          "image": "imgs/stones/techgres/marble/TG8383.jpg",
+          "href": "palette.html#techgres-marble",
+          "new": true
+        },
+        {
+          "name": "Арабескато белый / Balgri White",
+          "code": "TG8585",
+          "image": "imgs/stones/techgres/marble/TG8585.jpg",
+          "href": "palette.html#techgres-marble",
+          "new": true
+        },
+        {
+          "name": "Арабескато Виола / Arabescato Viola",
+          "code": "TG8686",
+          "image": "imgs/stones/techgres/marble/TG8686.jpg",
+          "href": "palette.html#techgres-marble",
+          "new": true
+        },
+        {
+          "name": "Антик серый / Cyprus Grey",
+          "code": "TG8787",
+          "image": "imgs/stones/techgres/marble/TG8787.jpg",
+          "href": "palette.html#techgres-marble",
+          "new": true
+        },
+        {
+          "name": "Тераццо серый / Terazzo grey",
+          "code": "TG8888",
+          "image": "imgs/stones/techgres/marble/TG8888.jpg",
+          "href": "palette.html#techgres-marble",
+          "new": true
+        },
+        {
+          "name": "Оникс Белый / Onix White",
+          "code": "TG9090",
+          "image": "imgs/stones/techgres/marble/TG9090.jpg",
+          "href": "palette.html#techgres-marble",
+          "new": true
+        },
+        {
+          "name": "Патагония / Patagonia",
+          "code": "TG9595",
+          "image": "imgs/stones/techgres/marble/TG9595.jpg",
+          "href": "palette.html#techgres-marble",
+          "new": true
+        }
+      ]
+    },
+    {
+      "id": "kerama-marazzi",
+      "name": "Kerama Marazzi",
+      "type": "Керамические широкоформатные плиты",
+      "href": "palette.html#kerama-marazzi",
+      "candidateCount": 22,
+      "items": [
+        {
+          "name": "Монте Тиберио лаппатированный",
+          "code": "SG59002R",
+          "image": "imgs/stones/kerama-marazzi/SG59002R.jpg",
+          "href": "palette.html#kerama-marazzi",
+          "new": false
+        },
+        {
+          "name": "Сити бежевый",
+          "code": "SG070100R",
+          "image": "imgs/stones/kerama-marazzi/SG070100R.jpg",
+          "href": "palette.html#kerama-marazzi",
+          "new": false
+        },
+        {
+          "name": "Сити серый",
+          "code": "SG070300R",
+          "image": "imgs/stones/kerama-marazzi/SG070300R.jpg",
+          "href": "palette.html#kerama-marazzi",
+          "new": false
+        },
+        {
+          "name": "Сити серый темный",
+          "code": "SG070400R",
+          "image": "imgs/stones/kerama-marazzi/SG070400R.jpg",
+          "href": "palette.html#kerama-marazzi",
+          "new": false
+        },
+        {
+          "name": "Сити черный",
+          "code": "SG070600R",
+          "image": "imgs/stones/kerama-marazzi/SG070600R.jpg",
+          "href": "palette.html#kerama-marazzi",
+          "new": false
+        },
+        {
+          "name": "Ардезия белый",
+          "code": "SG070700R",
+          "image": "imgs/stones/kerama-marazzi/SG070700R.jpg",
+          "href": "palette.html#kerama-marazzi",
+          "new": false
+        },
+        {
+          "name": "Ардезия черный",
+          "code": "SG070900R",
+          "image": "imgs/stones/kerama-marazzi/SG070900R.jpg",
+          "href": "palette.html#kerama-marazzi",
+          "new": false
+        },
+        {
+          "name": "Кобальт синий",
+          "code": "SG071000R",
+          "image": "imgs/stones/kerama-marazzi/SG071000R.jpg",
+          "href": "palette.html#kerama-marazzi",
+          "new": false
+        },
+        {
+          "name": "Кортен коричневый",
+          "code": "SG071100R",
+          "image": "imgs/stones/kerama-marazzi/SG071100R.jpg",
+          "href": "palette.html#kerama-marazzi",
+          "new": false
+        },
+        {
+          "name": "Бардилио серый",
+          "code": "SG071500R",
+          "image": "imgs/stones/kerama-marazzi/SG071500R.jpg",
+          "href": "palette.html#kerama-marazzi",
+          "new": false
+        },
+        {
+          "name": "Бардилио серый лаппатированный",
+          "code": "SG071502R",
+          "image": "imgs/stones/kerama-marazzi/SG071502R.jpg",
+          "href": "palette.html#kerama-marazzi",
+          "new": false
+        },
+        {
+          "name": "Капрая белый",
+          "code": "SG071600R",
+          "image": "imgs/stones/kerama-marazzi/SG071600R.jpg",
+          "href": "palette.html#kerama-marazzi",
+          "new": false
+        },
+        {
+          "name": "Капрая белый лаппатированный",
+          "code": "SG071602R",
+          "image": "imgs/stones/kerama-marazzi/SG071602R.jpg",
+          "href": "palette.html#kerama-marazzi",
+          "new": false
+        },
+        {
+          "name": "Гемма черно-белый лаппатированный",
+          "code": "SG071802R",
+          "image": "imgs/stones/kerama-marazzi/SG071802R.jpg",
+          "href": "palette.html#kerama-marazzi",
+          "new": false
+        },
+        {
+          "name": "Сити белый",
+          "code": "SG072100R",
+          "image": "imgs/stones/kerama-marazzi/SG072100R.jpg",
+          "href": "palette.html#kerama-marazzi",
+          "new": false
+        },
+        {
+          "name": "Радуга белая",
+          "code": "SG072502R",
+          "image": "imgs/stones/kerama-marazzi/SG072502R.jpg",
+          "href": "palette.html#kerama-marazzi",
+          "new": false
+        },
+        {
+          "name": "Монте Тиберио натуральный",
+          "code": "SG590000R",
+          "image": "imgs/stones/kerama-marazzi/SG590000R.jpg",
+          "href": "palette.html#kerama-marazzi",
+          "new": false
+        },
+        {
+          "name": "Риальто серый",
+          "code": "SG590200R",
+          "image": "imgs/stones/kerama-marazzi/SG590200R.jpg",
+          "href": "palette.html#kerama-marazzi",
+          "new": false
+        },
+        {
+          "name": "Монте Тиберио бежевый лаппатированный",
+          "code": "SG592002R",
+          "image": "imgs/stones/kerama-marazzi/SG592002R.jpg",
+          "href": "palette.html#kerama-marazzi",
+          "new": false
+        },
+        {
+          "name": "Риальто светлый лаппатированный",
+          "code": "SG592202R",
+          "image": "imgs/stones/kerama-marazzi/SG592202R.jpg",
+          "href": "palette.html#kerama-marazzi",
+          "new": false
+        },
+        {
+          "name": "Риальто серый темный лаппатированный",
+          "code": "SG592502R",
+          "image": "imgs/stones/kerama-marazzi/SG592502R.jpg",
+          "href": "palette.html#kerama-marazzi",
+          "new": false
+        },
+        {
+          "name": "Ониче зеленый светлый лаппатированный",
+          "code": "SG595202R",
+          "image": "imgs/stones/kerama-marazzi/SG595202R.jpg",
+          "href": "palette.html#kerama-marazzi",
+          "new": false
+        }
+      ]
+    },
+    {
+      "id": "staron",
+      "name": "Staron",
+      "type": "Акриловый камень",
+      "href": "palette.html#staron",
+      "candidateCount": 110,
+      "items": [
+        {
+          "name": "Breeze",
+          "code": "VB325",
+          "image": "imgs/stones/staron/aria/VB325.jpg",
+          "href": "palette.html#staron-aria",
+          "new": false
+        },
+        {
+          "name": "Soft",
+          "code": "VS351",
+          "image": "imgs/stones/staron/aria/VS351.jpg",
+          "href": "palette.html#staron-aria",
+          "new": false
+        },
+        {
+          "name": "Slate",
+          "code": "VS385",
+          "image": "imgs/stones/staron/aria/VS385.jpg",
+          "href": "palette.html#staron-aria",
+          "new": false
+        },
+        {
+          "name": "Veil",
+          "code": "VV351",
+          "image": "imgs/stones/staron/aria/VV351.jpg",
+          "href": "palette.html#staron-aria",
+          "new": false
+        },
+        {
+          "name": "Venezia",
+          "code": "NT150",
+          "image": "imgs/stones/staron/terrazzo/NT150.jpg",
+          "href": "palette.html#staron-terrazzo",
+          "new": false
+        },
+        {
+          "name": "PREMIERE Gravita",
+          "code": "VG392",
+          "image": "imgs/stones/staron/premiere/VG392.jpg",
+          "href": "palette.html#staron-premiere",
+          "new": false
+        },
+        {
+          "name": "PREMIERE Largo",
+          "code": "VL312",
+          "image": "imgs/stones/staron/premiere/VL312.png",
+          "href": "palette.html#staron-premiere",
+          "new": false
+        },
+        {
+          "name": "PREMIERE Legato",
+          "code": "VL322",
+          "image": "imgs/stones/staron/premiere/VL322.png",
+          "href": "palette.html#staron-premiere",
+          "new": false
+        },
+        {
+          "name": "Arctic White",
+          "code": "VA311",
+          "image": "imgs/stones/staron/supreme/VA311.png",
+          "href": "palette.html#staron-supreme",
+          "new": false
+        },
+        {
+          "name": "Beige Granite",
+          "code": "VB172",
+          "image": "imgs/stones/staron/supreme/VB172.png",
+          "href": "palette.html#staron-supreme",
+          "new": false
+        },
+        {
+          "name": "Cotton White",
+          "code": "VC110",
+          "image": "imgs/stones/staron/supreme/VC110.png",
+          "href": "palette.html#staron-supreme",
+          "new": false
+        },
+        {
+          "name": "Cloudbank",
+          "code": "VC118",
+          "image": "imgs/stones/staron/supreme/VC118.png",
+          "href": "palette.html#staron-supreme",
+          "new": false
+        },
+        {
+          "name": "Concerto",
+          "code": "VC157",
+          "image": "imgs/stones/staron/supreme/VC157.jpg",
+          "href": "palette.html#staron-supreme",
+          "new": false
+        },
+        {
+          "name": "Dawn",
+          "code": "VD126",
+          "image": "imgs/stones/staron/supreme/VD126.jpg",
+          "href": "palette.html#staron-supreme",
+          "new": false
+        },
+        {
+          "name": "Desert Wind",
+          "code": "VD173",
+          "image": "imgs/stones/staron/supreme/VD173.jpg",
+          "href": "palette.html#staron-supreme",
+          "new": false
+        },
+        {
+          "name": "Dandelion",
+          "code": "VD175",
+          "image": "imgs/stones/staron/supreme/VD175.jpg",
+          "href": "palette.html#staron-supreme",
+          "new": false
+        },
+        {
+          "name": "Loam",
+          "code": "VL155",
+          "image": "imgs/stones/staron/supreme/VL155.jpg",
+          "href": "palette.html#staron-supreme",
+          "new": false
+        },
+        {
+          "name": "Latte Cream",
+          "code": "VL343",
+          "image": "imgs/stones/staron/supreme/VL343.png",
+          "href": "palette.html#staron-supreme",
+          "new": false
+        },
+        {
+          "name": "Magnolia",
+          "code": "VM143",
+          "image": "imgs/stones/staron/supreme/VM143.jpg",
+          "href": "palette.html#staron-supreme",
+          "new": false
+        },
+        {
+          "name": "Natural Bridge",
+          "code": "VN144",
+          "image": "imgs/stones/staron/supreme/VN144.jpg",
+          "href": "palette.html#staron-supreme",
+          "new": false
+        },
+        {
+          "name": "Ocean View",
+          "code": "VO171",
+          "image": "imgs/stones/staron/supreme/VO171.jpg",
+          "href": "palette.html#staron-supreme",
+          "new": false
+        },
+        {
+          "name": "Odyssey",
+          "code": "VO173",
+          "image": "imgs/stones/staron/supreme/VO173.jpg",
+          "href": "palette.html#staron-supreme",
+          "new": false
+        },
+        {
+          "name": "Rainier",
+          "code": "VR173",
+          "image": "imgs/stones/staron/supreme/VR173.jpg",
+          "href": "palette.html#staron-supreme",
+          "new": false
+        },
+        {
+          "name": "Rotor Cloud",
+          "code": "VR322",
+          "image": "imgs/stones/staron/supreme/VR322.png",
+          "href": "palette.html#staron-supreme",
+          "new": false
+        },
+        {
+          "name": "Tranquil",
+          "code": "VT115",
+          "image": "imgs/stones/staron/supreme/VT115.jpg",
+          "href": "palette.html#staron-supreme",
+          "new": false
+        },
+        {
+          "name": "Urban Grey",
+          "code": "VU127",
+          "image": "imgs/stones/staron/supreme/VU127.png",
+          "href": "palette.html#staron-supreme",
+          "new": false
+        },
+        {
+          "name": "Coffee Bean",
+          "code": "FC158",
+          "image": "imgs/stones/staron/tempest/FC158.jpg",
+          "href": "palette.html#staron-tempest",
+          "new": false
+        },
+        {
+          "name": "Caviar",
+          "code": "FC188",
+          "image": "imgs/stones/staron/tempest/FC188.jpg",
+          "href": "palette.html#staron-tempest",
+          "new": false
+        },
+        {
+          "name": "Glimmer",
+          "code": "FG144",
+          "image": "imgs/stones/staron/tempest/FG144.jpg",
+          "href": "palette.html#staron-tempest",
+          "new": false
+        },
+        {
+          "name": "Horizon",
+          "code": "FH114",
+          "image": "imgs/stones/staron/tempest/FH114.jpg",
+          "href": "palette.html#staron-tempest",
+          "new": false
+        },
+        {
+          "name": "Meteor",
+          "code": "FM111",
+          "image": "imgs/stones/staron/tempest/FM111.png",
+          "href": "palette.html#staron-tempest",
+          "new": false
+        },
+        {
+          "name": "Peak",
+          "code": "FP100",
+          "image": "imgs/stones/staron/tempest/FP100.png",
+          "href": "palette.html#staron-tempest",
+          "new": false
+        },
+        {
+          "name": "Shimmer",
+          "code": "FR148",
+          "image": "imgs/stones/staron/tempest/FR148.jpg",
+          "href": "palette.html#staron-tempest",
+          "new": false
+        },
+        {
+          "name": "Shell",
+          "code": "FS115",
+          "image": "imgs/stones/staron/tempest/FS115.jpg",
+          "href": "palette.html#staron-tempest",
+          "new": false
+        },
+        {
+          "name": "Zenith",
+          "code": "FZ184",
+          "image": "imgs/stones/staron/tempest/FZ184.jpg",
+          "href": "palette.html#staron-tempest",
+          "new": false
+        },
+        {
+          "name": "Brown",
+          "code": "AB632",
+          "image": "imgs/stones/staron/aspen/AB632.png",
+          "href": "palette.html#staron-aspen",
+          "new": false
+        },
+        {
+          "name": "Glacier",
+          "code": "AG612",
+          "image": "imgs/stones/staron/aspen/AG612.png",
+          "href": "palette.html#staron-aspen",
+          "new": false
+        },
+        {
+          "name": "Mine",
+          "code": "AM633",
+          "image": "imgs/stones/staron/aspen/AM633.png",
+          "href": "palette.html#staron-aspen",
+          "new": false
+        },
+        {
+          "name": "Misto",
+          "code": "AM681",
+          "image": "imgs/stones/staron/aspen/AM681.png",
+          "href": "palette.html#staron-aspen",
+          "new": false
+        },
+        {
+          "name": "Pepper",
+          "code": "AP640",
+          "image": "imgs/stones/staron/aspen/AP640.png",
+          "href": "palette.html#staron-aspen",
+          "new": false
+        },
+        {
+          "name": "Snow",
+          "code": "AS610",
+          "image": "imgs/stones/staron/aspen/AS610.png",
+          "href": "palette.html#staron-aspen",
+          "new": false
+        },
+        {
+          "name": "Seashell",
+          "code": "AS642",
+          "image": "imgs/stones/staron/aspen/AS642.png",
+          "href": "palette.html#staron-aspen",
+          "new": false
+        },
+        {
+          "name": "Galaxy",
+          "code": "EG595",
+          "image": "imgs/stones/staron/metallic/EG595.jpg",
+          "href": "palette.html#staron-metallic",
+          "new": false
+        },
+        {
+          "name": "Sleeksilver",
+          "code": "ES582",
+          "image": "imgs/stones/staron/metallic/ES582.jpg",
+          "href": "palette.html#staron-metallic",
+          "new": false
+        },
+        {
+          "name": "Yukon",
+          "code": "EY510",
+          "image": "imgs/stones/staron/metallic/EY510.png",
+          "href": "palette.html#staron-metallic",
+          "new": false
+        },
+        {
+          "name": "Dalmatian",
+          "code": "QD212",
+          "image": "imgs/stones/staron/mosaic/QD212.jpg",
+          "href": "palette.html#staron-mosaic",
+          "new": false
+        },
+        {
+          "name": "Nimbus",
+          "code": "QN287",
+          "image": "imgs/stones/staron/mosaic/QN287.jpg",
+          "href": "palette.html#staron-mosaic",
+          "new": false
+        },
+        {
+          "name": "Aqua",
+          "code": "PA860",
+          "image": "imgs/stones/staron/pebble/PA860.png",
+          "href": "palette.html#staron-pebble",
+          "new": false
+        },
+        {
+          "name": "Blue",
+          "code": "PB870",
+          "image": "imgs/stones/staron/pebble/PB870.png",
+          "href": "palette.html#staron-pebble",
+          "new": false
+        },
+        {
+          "name": "Ebony",
+          "code": "PE814",
+          "image": "imgs/stones/staron/pebble/PE814.png",
+          "href": "palette.html#staron-pebble",
+          "new": false
+        },
+        {
+          "name": "Grey",
+          "code": "PG810",
+          "image": "imgs/stones/staron/pebble/PG810.jpg",
+          "href": "palette.html#staron-pebble",
+          "new": false
+        },
+        {
+          "name": "Gold",
+          "code": "PG840",
+          "image": "imgs/stones/staron/pebble/PG840.jpg",
+          "href": "palette.html#staron-pebble",
+          "new": false
+        },
+        {
+          "name": "Ice",
+          "code": "PI811",
+          "image": "imgs/stones/staron/pebble/PI811.jpg",
+          "href": "palette.html#staron-pebble",
+          "new": false
+        },
+        {
+          "name": "Kernel",
+          "code": "PK843",
+          "image": "imgs/stones/staron/pebble/PK843.jpg",
+          "href": "palette.html#staron-pebble",
+          "new": false
+        },
+        {
+          "name": "Ponderosa",
+          "code": "PP868",
+          "image": "imgs/stones/staron/pebble/PP868.jpg",
+          "href": "palette.html#staron-pebble",
+          "new": false
+        },
+        {
+          "name": "Swan",
+          "code": "PS813",
+          "image": "imgs/stones/staron/pebble/PS813.jpg",
+          "href": "palette.html#staron-pebble",
+          "new": false
+        },
+        {
+          "name": "Saratoga",
+          "code": "PS820",
+          "image": "imgs/stones/staron/pebble/PS820.jpg",
+          "href": "palette.html#staron-pebble",
+          "new": false
+        },
+        {
+          "name": "Terrain",
+          "code": "PT857",
+          "image": "imgs/stones/staron/pebble/PT857.jpg",
+          "href": "palette.html#staron-pebble",
+          "new": false
+        },
+        {
+          "name": "Starred",
+          "code": "QS288",
+          "image": "imgs/stones/staron/quarry/QS288.jpg",
+          "href": "palette.html#staron-quarry",
+          "new": false
+        },
+        {
+          "name": "Oyster",
+          "code": "TO310",
+          "image": "imgs/stones/staron/quarry/TO310.jpg",
+          "href": "palette.html#staron-quarry",
+          "new": false
+        },
+        {
+          "name": "Dark Nebula",
+          "code": "DN421",
+          "image": "imgs/stones/staron/sanded/DN421.png",
+          "href": "palette.html#staron-sanded",
+          "new": false
+        },
+        {
+          "name": "Birch",
+          "code": "SB412",
+          "image": "imgs/stones/staron/sanded/SB412.png",
+          "href": "palette.html#staron-sanded",
+          "new": false
+        },
+        {
+          "name": "Cornmeal",
+          "code": "SC433",
+          "image": "imgs/stones/staron/sanded/SC433.png",
+          "href": "palette.html#staron-sanded",
+          "new": false
+        },
+        {
+          "name": "Chestnut",
+          "code": "SC457",
+          "image": "imgs/stones/staron/sanded/SC457.png",
+          "href": "palette.html#staron-sanded",
+          "new": false
+        },
+        {
+          "name": "Grey",
+          "code": "SG420",
+          "image": "imgs/stones/staron/sanded/SG420.png",
+          "href": "palette.html#staron-sanded",
+          "new": false
+        },
+        {
+          "name": "Goose",
+          "code": "SG428",
+          "image": "imgs/stones/staron/sanded/SG428.png",
+          "href": "palette.html#staron-sanded",
+          "new": false
+        },
+        {
+          "name": "Gold Dust",
+          "code": "SG441",
+          "image": "imgs/stones/staron/sanded/SG441.png",
+          "href": "palette.html#staron-sanded",
+          "new": false
+        },
+        {
+          "name": "Icicle",
+          "code": "SI414",
+          "image": "imgs/stones/staron/sanded/SI414.png",
+          "href": "palette.html#staron-sanded",
+          "new": false
+        },
+        {
+          "name": "Cream",
+          "code": "SM421",
+          "image": "imgs/stones/staron/sanded/SM421.png",
+          "href": "palette.html#staron-sanded",
+          "new": false
+        },
+        {
+          "name": "Mocha",
+          "code": "SM453",
+          "image": "imgs/stones/staron/sanded/SM453.png",
+          "href": "palette.html#staron-sanded",
+          "new": false
+        },
+        {
+          "name": "Onyx",
+          "code": "SO423",
+          "image": "imgs/stones/staron/sanded/SO423.png",
+          "href": "palette.html#staron-sanded",
+          "new": false
+        },
+        {
+          "name": "Oatmeal",
+          "code": "SO446",
+          "image": "imgs/stones/staron/sanded/SO446.png",
+          "href": "palette.html#staron-sanded",
+          "new": false
+        },
+        {
+          "name": "Stratus",
+          "code": "SS418",
+          "image": "imgs/stones/staron/sanded/SS418.png",
+          "href": "palette.html#staron-sanded",
+          "new": false
+        },
+        {
+          "name": "Sahara",
+          "code": "SS440",
+          "image": "imgs/stones/staron/sanded/SS440.png",
+          "href": "palette.html#staron-sanded",
+          "new": false
+        },
+        {
+          "name": "Tundra",
+          "code": "ST482",
+          "image": "imgs/stones/staron/sanded/ST482.png",
+          "href": "palette.html#staron-sanded",
+          "new": false
+        },
+        {
+          "name": "Vermillion",
+          "code": "SV430",
+          "image": "imgs/stones/staron/sanded/SV430.png",
+          "href": "palette.html#staron-sanded",
+          "new": false
+        },
+        {
+          "name": "White Pepper",
+          "code": "WP410",
+          "image": "imgs/stones/staron/sanded/WP410.png",
+          "href": "palette.html#staron-sanded",
+          "new": false
+        },
+        {
+          "name": "Onyx",
+          "code": "ON095",
+          "image": "imgs/stones/staron/solid/ON095.png",
+          "href": "palette.html#staron-solid",
+          "new": false
+        },
+        {
+          "name": "Bliss",
+          "code": "SB022",
+          "image": "imgs/stones/staron/solid/SB022.png",
+          "href": "palette.html#staron-solid",
+          "new": false
+        },
+        {
+          "name": "California Poppy",
+          "code": "SC052",
+          "image": "imgs/stones/staron/solid/SC052.jpg",
+          "href": "palette.html#staron-solid",
+          "new": false
+        },
+        {
+          "name": "Dazzling White",
+          "code": "SD001",
+          "image": "imgs/stones/staron/solid/SD001.png",
+          "href": "palette.html#staron-solid",
+          "new": false
+        },
+        {
+          "name": "Fog",
+          "code": "SF020",
+          "image": "imgs/stones/staron/solid/SF020.png",
+          "href": "palette.html#staron-solid",
+          "new": false
+        },
+        {
+          "name": "Ivory",
+          "code": "SI040",
+          "image": "imgs/stones/staron/solid/SI040.png",
+          "href": "palette.html#staron-solid",
+          "new": false
+        },
+        {
+          "name": "Pearl",
+          "code": "SP011",
+          "image": "imgs/stones/staron/solid/SP011.png",
+          "href": "palette.html#staron-solid",
+          "new": false
+        },
+        {
+          "name": "Steel",
+          "code": "ST023",
+          "image": "imgs/stones/staron/solid/ST023.png",
+          "href": "palette.html#staron-solid",
+          "new": false
+        },
+        {
+          "name": "Natural",
+          "code": "SV041",
+          "image": "imgs/stones/staron/solid/SV041.png",
+          "href": "palette.html#staron-solid",
+          "new": false
+        },
+        {
+          "name": "Infinity",
+          "code": "IF188",
+          "image": "imgs/stones/staron/super-flex/IF188.jpg",
+          "href": "palette.html#staron-super-flex",
+          "new": false
+        },
+        {
+          "name": "Bright White",
+          "code": "BW010",
+          "image": "imgs/stones/staron/project/BW010.png",
+          "href": "palette.html#staron-project",
+          "new": false
+        },
+        {
+          "name": "Quasar White",
+          "code": "SQ019",
+          "image": "imgs/stones/staron/project/SQ019.png",
+          "href": "palette.html#staron-project",
+          "new": false
+        },
+        {
+          "name": "Gold Rush",
+          "code": "AG614",
+          "image": "imgs/stones/staron/out/AG614.webp",
+          "href": "palette.html#staron-out",
+          "new": false
+        },
+        {
+          "name": "Sky",
+          "code": "AS670",
+          "image": "imgs/stones/staron/out/AS670.webp",
+          "href": "palette.html#staron-out",
+          "new": false
+        },
+        {
+          "name": "Beach",
+          "code": "EB545",
+          "image": "imgs/stones/staron/out/EB545.webp",
+          "href": "palette.html#staron-out",
+          "new": false
+        },
+        {
+          "name": "Cosmos",
+          "code": "EC596",
+          "image": "imgs/stones/staron/out/EC596.webp",
+          "href": "palette.html#staron-out",
+          "new": false
+        },
+        {
+          "name": "Adamantine",
+          "code": "FA159",
+          "image": "imgs/stones/staron/out/FA159.jpg",
+          "href": "palette.html#staron-out",
+          "new": false
+        },
+        {
+          "name": "Blaze",
+          "code": "FB147",
+          "image": "imgs/stones/staron/out/FB147.webp",
+          "href": "palette.html#staron-out",
+          "new": false
+        },
+        {
+          "name": "Bronzestar",
+          "code": "FB154",
+          "image": "imgs/stones/staron/out/FB154.webp",
+          "href": "palette.html#staron-out",
+          "new": false
+        },
+        {
+          "name": "Dazzle",
+          "code": "FD191",
+          "image": "imgs/stones/staron/out/FD191.webp",
+          "href": "palette.html#staron-out",
+          "new": false
+        },
+        {
+          "name": "Genesis",
+          "code": "FG174",
+          "image": "imgs/stones/staron/out/FG174.jpg",
+          "href": "palette.html#staron-out",
+          "new": false
+        },
+        {
+          "name": "Gold Leaf",
+          "code": "FG196",
+          "image": "imgs/stones/staron/out/FG196.jpg",
+          "href": "palette.html#staron-out",
+          "new": false
+        },
+        {
+          "name": "Praire",
+          "code": "FP142",
+          "image": "imgs/stones/staron/out/FP142.jpg",
+          "href": "palette.html#staron-out",
+          "new": false
+        },
+        {
+          "name": "Rose",
+          "code": "PR850",
+          "image": "imgs/stones/staron/out/PR850.webp",
+          "href": "palette.html#staron-out",
+          "new": false
+        },
+        {
+          "name": "Pastoral",
+          "code": "VP177",
+          "image": "imgs/stones/staron/out/VP177.webp",
+          "href": "palette.html#staron-out",
+          "new": false
+        },
+        {
+          "name": "Bright White",
+          "code": "BW010",
+          "image": "imgs/stones/staron/project/BW010.png",
+          "href": "palette.html#staron-action",
+          "new": false
+        },
+        {
+          "name": "Genesis",
+          "code": "FG174",
+          "image": "imgs/stones/staron/out/FG174.jpg",
+          "href": "palette.html#staron-action",
+          "new": false
+        },
+        {
+          "name": "Gold Leaf",
+          "code": "FG196",
+          "image": "imgs/stones/staron/out/FG196.jpg",
+          "href": "palette.html#staron-action",
+          "new": false
+        },
+        {
+          "name": "Solid Piano Black",
+          "code": "GP790",
+          "image": "imgs/stones/staron/action/GP790.webp",
+          "href": "palette.html#staron-action",
+          "new": false
+        },
+        {
+          "name": "Onyx",
+          "code": "ON095",
+          "image": "imgs/stones/staron/solid/ON095.png",
+          "href": "palette.html#staron-action",
+          "new": false
+        },
+        {
+          "name": "Solid Green Tea",
+          "code": "SG065",
+          "image": "imgs/stones/staron/action/SG065.webp",
+          "href": "palette.html#staron-action",
+          "new": false
+        },
+        {
+          "name": "Pastoral",
+          "code": "VP177",
+          "image": "imgs/stones/staron/out/VP177.webp",
+          "href": "palette.html#staron-action",
+          "new": false
+        },
+        {
+          "name": "Tranquil",
+          "code": "VT115",
+          "image": "imgs/stones/staron/supreme/VT115.jpg",
+          "href": "palette.html#staron-action",
+          "new": false
+        }
+      ]
+    },
+    {
+      "id": "himacs",
+      "name": "HI-MACS",
+      "type": "Акриловый камень",
+      "href": "palette.html#himacs",
+      "candidateCount": 97,
+      "items": [
+        {
+          "name": "Терраццо Олива",
+          "code": "Q102",
+          "image": "imgs/stones/himacs/terratstso/Q102.jpg",
+          "href": "palette.html#himacs-terratstso",
+          "new": false
+        },
+        {
+          "name": "Терраццо Нувола",
+          "code": "Q103",
+          "image": "imgs/stones/himacs/terratstso/Q103.jpg",
+          "href": "palette.html#himacs-terratstso",
+          "new": false
+        },
+        {
+          "name": "Терраццо Альба",
+          "code": "Q104",
+          "image": "imgs/stones/himacs/terratstso/Q104.jpg",
+          "href": "palette.html#himacs-terratstso",
+          "new": false
+        },
+        {
+          "name": "Терраццо Марсала",
+          "code": "Q106",
+          "image": "imgs/stones/himacs/terratstso/Q106.jpg",
+          "href": "palette.html#himacs-terratstso",
+          "new": false
+        },
+        {
+          "name": "Аврора Торано",
+          "code": "M601",
+          "image": "imgs/stones/himacs/marmo-avrora/M601.jpg",
+          "href": "palette.html#himacs-marmo-avrora",
+          "new": false
+        },
+        {
+          "name": "Аврора Павия",
+          "code": "M603",
+          "image": "imgs/stones/himacs/marmo-avrora/M603.jpg",
+          "href": "palette.html#himacs-marmo-avrora",
+          "new": false
+        },
+        {
+          "name": "Аврора Санремо",
+          "code": "M605",
+          "image": "imgs/stones/himacs/marmo-avrora/M605.jpg",
+          "href": "palette.html#himacs-marmo-avrora",
+          "new": false
+        },
+        {
+          "name": "Аврора Крем",
+          "code": "M607",
+          "image": "imgs/stones/himacs/marmo-avrora/M607.jpg",
+          "href": "palette.html#himacs-marmo-avrora",
+          "new": false
+        },
+        {
+          "name": "Аврора Биск",
+          "code": "M612",
+          "image": "imgs/stones/himacs/marmo-avrora/M612.jpg",
+          "href": "palette.html#himacs-marmo-avrora",
+          "new": false
+        },
+        {
+          "name": "Аврора Грейдж",
+          "code": "M613",
+          "image": "imgs/stones/himacs/marmo-avrora/M613.jpg",
+          "href": "palette.html#himacs-marmo-avrora",
+          "new": false
+        },
+        {
+          "name": "Аврора Янтарь",
+          "code": "M614",
+          "image": "imgs/stones/himacs/marmo-avrora/M614.jpg",
+          "href": "palette.html#himacs-marmo-avrora",
+          "new": false
+        },
+        {
+          "name": "Аврора Хлопок",
+          "code": "M615",
+          "image": "imgs/stones/himacs/marmo-avrora/M615.jpg",
+          "href": "palette.html#himacs-marmo-avrora",
+          "new": false
+        },
+        {
+          "name": "Аврора Бланк",
+          "code": "M617",
+          "image": "imgs/stones/himacs/marmo-avrora/M617.jpg",
+          "href": "palette.html#himacs-marmo-avrora",
+          "new": false
+        },
+        {
+          "name": "Аврора Льняной Крем",
+          "code": "M623",
+          "image": "imgs/stones/himacs/marmo-avrora/M623.jpg",
+          "href": "palette.html#himacs-marmo-avrora",
+          "new": false
+        },
+        {
+          "name": "Аврора Земля",
+          "code": "M625",
+          "image": "imgs/stones/himacs/marmo-avrora/M625.jpg",
+          "href": "palette.html#himacs-marmo-avrora",
+          "new": false
+        },
+        {
+          "name": "Современный серый",
+          "code": "M626",
+          "image": "imgs/stones/himacs/marmo-avrora/M626.jpg",
+          "href": "palette.html#himacs-marmo-avrora",
+          "new": false
+        },
+        {
+          "name": "Аврора Масло и Крем",
+          "code": "M627",
+          "image": "imgs/stones/himacs/marmo-avrora/M627.jpg",
+          "href": "palette.html#himacs-marmo-avrora",
+          "new": false
+        },
+        {
+          "name": "Аврора Шалфей",
+          "code": "M633",
+          "image": "imgs/stones/himacs/marmo-avrora/M633.jpg",
+          "href": "palette.html#himacs-marmo-avrora",
+          "new": false
+        },
+        {
+          "name": "Аврора Экрю",
+          "code": "M701",
+          "image": "imgs/stones/himacs/marmo-avrora/M701.jpg",
+          "href": "palette.html#himacs-marmo-avrora",
+          "new": false
+        },
+        {
+          "name": "Аврора Лёд",
+          "code": "M702",
+          "image": "imgs/stones/himacs/marmo-avrora/M702.jpg",
+          "href": "palette.html#himacs-marmo-avrora",
+          "new": false
+        },
+        {
+          "name": "Аврора Полночь",
+          "code": "M703",
+          "image": "imgs/stones/himacs/marmo-avrora/M703.jpg",
+          "href": "palette.html#himacs-marmo-avrora",
+          "new": false
+        },
+        {
+          "name": "Серый Камень",
+          "code": "M704",
+          "image": "imgs/stones/himacs/marmo-avrora/M704.jpg",
+          "href": "palette.html#himacs-marmo-avrora",
+          "new": false
+        },
+        {
+          "name": "Аврора Каньон",
+          "code": "M705",
+          "image": "imgs/stones/himacs/marmo-avrora/M705.jpg",
+          "href": "palette.html#himacs-marmo-avrora",
+          "new": false
+        },
+        {
+          "name": "Аврора Ангора",
+          "code": "M706",
+          "image": "imgs/stones/himacs/marmo-avrora/M706.jpg",
+          "href": "palette.html#himacs-marmo-avrora",
+          "new": false
+        },
+        {
+          "name": "Аврора Магнолия",
+          "code": "M707",
+          "image": "imgs/stones/himacs/marmo-avrora/M707.jpg",
+          "href": "palette.html#himacs-marmo-avrora",
+          "new": false
+        },
+        {
+          "name": "Калакатта Полная луна",
+          "code": "M812",
+          "image": "imgs/stones/himacs/marmo-avrora/M812.jpg",
+          "href": "palette.html#himacs-marmo-avrora",
+          "new": false
+        },
+        {
+          "name": "Калакатта Снежная луна",
+          "code": "M813",
+          "image": "imgs/stones/himacs/marmo-avrora/M813.jpg",
+          "href": "palette.html#himacs-marmo-avrora",
+          "new": false
+        },
+        {
+          "name": "Калакатта Луна на озере",
+          "code": "M815",
+          "image": "imgs/stones/himacs/marmo-avrora/M815.jpg",
+          "href": "palette.html#himacs-marmo-avrora",
+          "new": false
+        },
+        {
+          "name": "Калакатта Луна в пустыне",
+          "code": "M816",
+          "image": "imgs/stones/himacs/marmo-avrora/M816.jpg",
+          "href": "palette.html#himacs-marmo-avrora",
+          "new": false
+        },
+        {
+          "name": "Калакатта Виста",
+          "code": "M831",
+          "image": "imgs/stones/himacs/marmo-avrora/M831.jpg",
+          "href": "palette.html#himacs-marmo-avrora",
+          "new": false
+        },
+        {
+          "name": "Милан",
+          "code": "M351",
+          "image": "imgs/stones/himacs/marmo/M351.jpg",
+          "href": "palette.html#himacs-marmo",
+          "new": false
+        },
+        {
+          "name": "Тенистый Бетон",
+          "code": "M552",
+          "image": "imgs/stones/himacs/marmo/M552.jpg",
+          "href": "palette.html#himacs-marmo",
+          "new": false
+        },
+        {
+          "name": "Эбонитовый Бетон",
+          "code": "M553",
+          "image": "imgs/stones/himacs/marmo/M553.jpg",
+          "href": "palette.html#himacs-marmo",
+          "new": false
+        },
+        {
+          "name": "Неаполь",
+          "code": "M904",
+          "image": "imgs/stones/himacs/marmo/M904.jpg",
+          "href": "palette.html#himacs-marmo",
+          "new": false
+        },
+        {
+          "name": "Арктический Гранит",
+          "code": "G034",
+          "image": "imgs/stones/himacs/granit/G034.jpg",
+          "href": "palette.html#himacs-granit",
+          "new": false
+        },
+        {
+          "name": "Ювелирный Гранит",
+          "code": "G077",
+          "image": "imgs/stones/himacs/granit/G077.jpg",
+          "href": "palette.html#himacs-granit",
+          "new": false
+        },
+        {
+          "name": "Серый Оникс",
+          "code": "G103",
+          "image": "imgs/stones/himacs/granit/G103.jpg",
+          "href": "palette.html#himacs-granit",
+          "new": false
+        },
+        {
+          "name": "Жемчужная Галька",
+          "code": "G107",
+          "image": "imgs/stones/himacs/granit/G107.jpg",
+          "href": "palette.html#himacs-granit",
+          "new": false
+        },
+        {
+          "name": "Бежевый Остров",
+          "code": "G109",
+          "image": "imgs/stones/himacs/granit/G109.jpg",
+          "href": "palette.html#himacs-granit",
+          "new": false
+        },
+        {
+          "name": "Корона",
+          "code": "G110",
+          "image": "imgs/stones/himacs/granit/G110.jpg",
+          "href": "palette.html#himacs-granit",
+          "new": false
+        },
+        {
+          "name": "Маккиато",
+          "code": "G111",
+          "image": "imgs/stones/himacs/granit/G111.jpg",
+          "href": "palette.html#himacs-granit",
+          "new": false
+        },
+        {
+          "name": "Карамель",
+          "code": "G112",
+          "image": "imgs/stones/himacs/granit/G112.jpg",
+          "href": "palette.html#himacs-granit",
+          "new": false
+        },
+        {
+          "name": "Айсберг",
+          "code": "G113",
+          "image": "imgs/stones/himacs/granit/G113.jpg",
+          "href": "palette.html#himacs-granit",
+          "new": false
+        },
+        {
+          "name": "Глина",
+          "code": "G114",
+          "image": "imgs/stones/himacs/granit/G114.jpg",
+          "href": "palette.html#himacs-granit",
+          "new": false
+        },
+        {
+          "name": "Цельное Зерно",
+          "code": "G134",
+          "image": "imgs/stones/himacs/granit/G134.jpg",
+          "href": "palette.html#himacs-granit",
+          "new": false
+        },
+        {
+          "name": "Ромашка",
+          "code": "G135",
+          "image": "imgs/stones/himacs/granit/G135.jpg",
+          "href": "palette.html#himacs-granit",
+          "new": false
+        },
+        {
+          "name": "Дарджилинг",
+          "code": "G136",
+          "image": "imgs/stones/himacs/granit/G136.jpg",
+          "href": "palette.html#himacs-granit",
+          "new": false
+        },
+        {
+          "name": "Холодный серый",
+          "code": "G137",
+          "image": "imgs/stones/himacs/granit/G137.jpg",
+          "href": "palette.html#himacs-granit",
+          "new": false
+        },
+        {
+          "name": "Ройбуш",
+          "code": "G139",
+          "image": "imgs/stones/himacs/granit/G139.jpg",
+          "href": "palette.html#himacs-granit",
+          "new": false
+        },
+        {
+          "name": "Гранит цвета Мокко",
+          "code": "G174",
+          "image": "imgs/stones/himacs/granit/G174.jpg",
+          "href": "palette.html#himacs-granit",
+          "new": false
+        },
+        {
+          "name": "Нежно-Белый",
+          "code": "G185",
+          "image": "imgs/stones/himacs/granit/G185.jpg",
+          "href": "palette.html#himacs-granit",
+          "new": false
+        },
+        {
+          "name": "Нежно-Серый",
+          "code": "G186",
+          "image": "imgs/stones/himacs/granit/G186.jpg",
+          "href": "palette.html#himacs-granit",
+          "new": false
+        },
+        {
+          "name": "Лебяжий пух",
+          "code": "G193",
+          "image": "imgs/stones/himacs/granit/G193.jpg",
+          "href": "palette.html#himacs-granit",
+          "new": false
+        },
+        {
+          "name": "Карамельно-Белый",
+          "code": "G235",
+          "image": "imgs/stones/himacs/granit/G235.jpg",
+          "href": "palette.html#himacs-granit",
+          "new": false
+        },
+        {
+          "name": "Байкал",
+          "code": "G295",
+          "image": "imgs/stones/himacs/granit/G295.jpg",
+          "href": "palette.html#himacs-granit",
+          "new": false
+        },
+        {
+          "name": "Белая Стелла",
+          "code": "G501",
+          "image": "imgs/stones/himacs/granit/G501.jpg",
+          "href": "palette.html#himacs-granit",
+          "new": false
+        },
+        {
+          "name": "Ночная Стелла",
+          "code": "G503",
+          "image": "imgs/stones/himacs/granit/G503.jpg",
+          "href": "palette.html#himacs-granit",
+          "new": false
+        },
+        {
+          "name": "Городской Бетон",
+          "code": "G554",
+          "image": "imgs/stones/himacs/granit/G554.jpg",
+          "href": "palette.html#himacs-granit",
+          "new": false
+        },
+        {
+          "name": "Стальной Бетон",
+          "code": "G555",
+          "image": "imgs/stones/himacs/granit/G555.jpg",
+          "href": "palette.html#himacs-granit",
+          "new": false
+        },
+        {
+          "name": "Снежный Бетон",
+          "code": "G556",
+          "image": "imgs/stones/himacs/granit/G556.jpg",
+          "href": "palette.html#himacs-granit",
+          "new": false
+        },
+        {
+          "name": "Воздушный Бетон",
+          "code": "G557",
+          "image": "imgs/stones/himacs/granit/G557.jpg",
+          "href": "palette.html#himacs-granit",
+          "new": false
+        },
+        {
+          "name": "Белый Кварц",
+          "code": "G004",
+          "image": "imgs/stones/himacs/kvarts/G004.jpg",
+          "href": "palette.html#himacs-kvarts",
+          "new": false
+        },
+        {
+          "name": "Морской Кварц",
+          "code": "G038",
+          "image": "imgs/stones/himacs/kvarts/G038.jpg",
+          "href": "palette.html#himacs-kvarts",
+          "new": false
+        },
+        {
+          "name": "Кристально-Бежевый",
+          "code": "G101",
+          "image": "imgs/stones/himacs/kvarts/G101.jpg",
+          "href": "palette.html#himacs-kvarts",
+          "new": false
+        },
+        {
+          "name": "Черный Жемчуг",
+          "code": "G010",
+          "image": "imgs/stones/himacs/pesok-i-zhemchug/G010.gif",
+          "href": "palette.html#himacs-pesok-i-zhemchug",
+          "new": false
+        },
+        {
+          "name": "Пляжный Песок",
+          "code": "G048",
+          "image": "imgs/stones/himacs/pesok-i-zhemchug/G048.gif",
+          "href": "palette.html#himacs-pesok-i-zhemchug",
+          "new": false
+        },
+        {
+          "name": "Лунный Песок",
+          "code": "G108",
+          "image": "imgs/stones/himacs/pesok-i-zhemchug/G108.jpg",
+          "href": "palette.html#himacs-pesok-i-zhemchug",
+          "new": false
+        },
+        {
+          "name": "Белый Песок",
+          "code": "G194",
+          "image": "imgs/stones/himacs/pesok-i-zhemchug/G194.jpg",
+          "href": "palette.html#himacs-pesok-i-zhemchug",
+          "new": false
+        },
+        {
+          "name": "Бежевый Песок",
+          "code": "G195",
+          "image": "imgs/stones/himacs/pesok-i-zhemchug/G195.jpg",
+          "href": "palette.html#himacs-pesok-i-zhemchug",
+          "new": false
+        },
+        {
+          "name": "Серый Песок",
+          "code": "G196",
+          "image": "imgs/stones/himacs/pesok-i-zhemchug/G196.jpg",
+          "href": "palette.html#himacs-pesok-i-zhemchug",
+          "new": false
+        },
+        {
+          "name": "Белый Перламутр",
+          "code": "P001",
+          "image": "imgs/stones/himacs/pesok-i-zhemchug/P001.jpg",
+          "href": "palette.html#himacs-pesok-i-zhemchug",
+          "new": false
+        },
+        {
+          "name": "Белый Перламутр",
+          "code": "P004",
+          "image": "imgs/stones/himacs/pesok-i-zhemchug/P004.jpg",
+          "href": "palette.html#himacs-pesok-i-zhemchug",
+          "new": false
+        },
+        {
+          "name": "Санта Анна",
+          "code": "VA01",
+          "image": "imgs/stones/himacs/volkaniks/VA01.jpg",
+          "href": "palette.html#himacs-volkaniks",
+          "new": false
+        },
+        {
+          "name": "Тамбора",
+          "code": "VE01",
+          "image": "imgs/stones/himacs/volkaniks/VE01.jpg",
+          "href": "palette.html#himacs-volkaniks",
+          "new": false
+        },
+        {
+          "name": "Джемини",
+          "code": "VW01",
+          "image": "imgs/stones/himacs/volkaniks/VW01.jpg",
+          "href": "palette.html#himacs-volkaniks",
+          "new": false
+        },
+        {
+          "name": "Серый",
+          "code": "S005",
+          "image": "imgs/stones/himacs/solid/S005.jpg",
+          "href": "palette.html#himacs-solid",
+          "new": false
+        },
+        {
+          "name": "Арктический Белый",
+          "code": "S006",
+          "image": "imgs/stones/himacs/solid/S006.jpg",
+          "href": "palette.html#himacs-solid",
+          "new": false
+        },
+        {
+          "name": "Кремовый",
+          "code": "S009",
+          "image": "imgs/stones/himacs/solid/S009.jpg",
+          "href": "palette.html#himacs-solid",
+          "new": false
+        },
+        {
+          "name": "Черный",
+          "code": "S022",
+          "image": "imgs/stones/himacs/solid/S022.jpg",
+          "href": "palette.html#himacs-solid",
+          "new": false
+        },
+        {
+          "name": "Огненно-Красный",
+          "code": "S025",
+          "image": "imgs/stones/himacs/solid/S025.jpg",
+          "href": "palette.html#himacs-solid",
+          "new": false
+        },
+        {
+          "name": "Банана",
+          "code": "S026",
+          "image": "imgs/stones/himacs/solid/S026.jpg",
+          "href": "palette.html#himacs-solid",
+          "new": false
+        },
+        {
+          "name": "Оранж",
+          "code": "S027",
+          "image": "imgs/stones/himacs/solid/S027.jpg",
+          "href": "palette.html#himacs-solid",
+          "new": false
+        },
+        {
+          "name": "Альпийский Белый",
+          "code": "S028",
+          "image": "imgs/stones/himacs/solid/S028.jpg",
+          "href": "palette.html#himacs-solid",
+          "new": false
+        },
+        {
+          "name": "Бриллиантовый Белый",
+          "code": "S034",
+          "image": "imgs/stones/himacs/solid/S034.jpg",
+          "href": "palette.html#himacs-solid",
+          "new": false
+        },
+        {
+          "name": "Кофейно-Коричневый",
+          "code": "S100",
+          "image": "imgs/stones/himacs/solid/S100.jpg",
+          "href": "palette.html#himacs-solid",
+          "new": false
+        },
+        {
+          "name": "Серый Бетон",
+          "code": "S103",
+          "image": "imgs/stones/himacs/solid/S103.jpg",
+          "href": "palette.html#himacs-solid",
+          "new": false
+        },
+        {
+          "name": "Темная Ночь",
+          "code": "S111",
+          "image": "imgs/stones/himacs/solid/S111.jpg",
+          "href": "palette.html#himacs-solid",
+          "new": false
+        },
+        {
+          "name": "Кремовая Нуга",
+          "code": "S201",
+          "image": "imgs/stones/himacs/solid/S201.jpg",
+          "href": "palette.html#himacs-solid",
+          "new": false
+        },
+        {
+          "name": "Нежно-Розовый",
+          "code": "S233",
+          "image": "imgs/stones/himacs/solid/S233.jpg",
+          "href": "palette.html#himacs-solid",
+          "new": false
+        },
+        {
+          "name": "Городской Шалфей",
+          "code": "S235",
+          "image": "imgs/stones/himacs/solid/S235.jpg",
+          "href": "palette.html#himacs-solid",
+          "new": false
+        },
+        {
+          "name": "Опал",
+          "code": "S302",
+          "image": "imgs/stones/himacs/lyusent/S302.jpg",
+          "href": "palette.html#himacs-lyusent",
+          "new": false
+        },
+        {
+          "name": "Сапфир",
+          "code": "S303",
+          "image": "imgs/stones/himacs/lyusent/S303.jpg",
+          "href": "palette.html#himacs-lyusent",
+          "new": false
+        },
+        {
+          "name": "Ледяная Королева",
+          "code": "W001",
+          "image": "imgs/stones/himacs/lyuchiya/W001.jpg",
+          "href": "palette.html#himacs-lyuchiya",
+          "new": false
+        },
+        {
+          "name": "Облако",
+          "code": "W002",
+          "image": "imgs/stones/himacs/lyuchiya/W002.jpg",
+          "href": "palette.html#himacs-lyuchiya",
+          "new": false
+        },
+        {
+          "name": "Королева Теней",
+          "code": "W003",
+          "image": "imgs/stones/himacs/lyuchiya/W003.jpg",
+          "href": "palette.html#himacs-lyuchiya",
+          "new": false
+        },
+        {
+          "name": "Утреннее Спокойствие",
+          "code": "W021",
+          "image": "imgs/stones/himacs/lyuchiya/W021.jpg",
+          "href": "palette.html#himacs-lyuchiya",
+          "new": false
+        },
+        {
+          "name": "Лунные Сумерки",
+          "code": "W022",
+          "image": "imgs/stones/himacs/lyuchiya/W022.jpg",
+          "href": "palette.html#himacs-lyuchiya",
+          "new": false
+        }
+      ]
+    }
+  ]
+}

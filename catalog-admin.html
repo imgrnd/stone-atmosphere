@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Мини-каталог — админка</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Onest:wght@300;500&display=swap">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="catalog-admin-page">
+  <main class="stones-export catalog-admin">
+    <header class="stones-export__head">
+      <p class="stones-export__eyebrow"><a href="admin.html">Админка</a> / Мини-каталог</p>
+      <h1 class="stones-export__title">Мини-каталог на главной</h1>
+      <p class="stones-export__lead">Вкладки брендов и состав слайдера. Когда закончите правки, нажмите «Применить на главной» — настройки сохранятся и блок каталога на сайте обновится.</p>
+    </header>
+
+    <p class="stones-export__note catalog-admin__alert" id="catalog-admin-server" hidden></p>
+
+    <div class="catalog-admin__layout">
+      <section class="catalog-admin__panel" aria-labelledby="catalog-admin-brands-title">
+        <div class="catalog-admin__panel-head">
+          <h2 class="catalog-admin__panel-title" id="catalog-admin-brands-title">Бренды</h2>
+          <p class="catalog-admin__panel-hint">Вкладки на главной: видимость и порядок</p>
+        </div>
+        <ul class="catalog-admin__brand-list" id="catalog-admin-brand-list"></ul>
+      </section>
+
+      <section class="catalog-admin__panel catalog-admin__panel--editor" aria-labelledby="catalog-admin-editor-title">
+        <div class="catalog-admin__panel-head">
+          <h2 class="catalog-admin__panel-title" id="catalog-admin-editor-title">Настройки бренда</h2>
+          <p class="catalog-admin__panel-hint">Режим слайдов и ручной набор образцов</p>
+        </div>
+        <div class="catalog-admin__placeholder" id="catalog-admin-empty" hidden>
+          <p class="catalog-admin__placeholder-title">Выберите бренд</p>
+          <p class="catalog-admin__placeholder-text">Нажмите на название в списке слева, чтобы настроить слайды.</p>
+        </div>
+        <div class="catalog-admin__editor" id="catalog-admin-editor" hidden>
+          <div class="catalog-admin__brand-card" id="catalog-admin-brand-meta"></div>
+
+          <div class="catalog-admin__field">
+            <span class="catalog-admin__field-label">Режим слайдов</span>
+            <p class="catalog-admin__field-hint">Авто подтягивает образцы из палитры; вручную — фиксированный набор от 8 до 16.</p>
+            <div class="catalog-admin__choices" role="group" aria-label="Режим слайдов">
+              <label class="catalog-admin__choice">
+                <input type="radio" name="catalog-mode" value="auto" checked>
+                Авто
+              </label>
+              <label class="catalog-admin__choice">
+                <input type="radio" name="catalog-mode" value="manual">
+                Вручную
+              </label>
+            </div>
+          </div>
+
+          <div class="catalog-admin__manual" id="catalog-admin-manual" hidden>
+            <div class="catalog-admin__manual-head">
+              <p class="catalog-admin__counter" id="catalog-admin-counter"></p>
+              <label class="catalog-admin__search">
+                <span class="catalog-admin__field-label" for="catalog-admin-search">Поиск</span>
+                <input class="catalog-admin__search-input" type="search" id="catalog-admin-search" placeholder="Имя или код образца" autocomplete="off">
+              </label>
+            </div>
+
+            <div class="catalog-admin__columns">
+              <div class="catalog-admin__column">
+                <div class="catalog-admin__column-head">
+                  <h3 class="catalog-admin__subtitle">Кандидаты</h3>
+                  <span class="catalog-admin__column-meta">доступные в палитре</span>
+                </div>
+                <ul class="catalog-admin__candidates" id="catalog-admin-candidates"></ul>
+              </div>
+              <div class="catalog-admin__column catalog-admin__column--picked">
+                <div class="catalog-admin__column-head">
+                  <h3 class="catalog-admin__subtitle">В слайдере</h3>
+                  <span class="catalog-admin__column-meta">порядок на главной</span>
+                </div>
+                <ul class="catalog-admin__picked" id="catalog-admin-picked"></ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <footer class="catalog-admin__toolbar">
+      <p class="catalog-admin__status" id="catalog-admin-status" aria-live="polite" hidden></p>
+      <div class="catalog-admin__actions">
+        <button class="catalog-admin__btn catalog-admin__btn--primary" type="button" id="catalog-admin-apply">Применить на главной</button>
+        <a class="catalog-admin__btn catalog-admin__btn--link" href="index.html#catalog">Открыть главную</a>
+      </div>
+    </footer>
+  </main>
+  <script src="catalog-admin.js" defer></script>
+</body>
+</html>

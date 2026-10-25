@@ -6,16 +6,17 @@
   <title>Атмосфера камня</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600;700&family=Onest:wght@200;300;500;600&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Onest:wght@200;300;500;600&display=swap">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
-  <link rel="stylesheet" href="styles.css?v=80">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.6.0/fonts/remixicon.css">
+  <link rel="stylesheet" href="styles.css?v=137">
 </head>
 <body>
   <div class="contacts">
-    <p class="contacts__place">География ЮФО + новые регионы</p>
+    <p class="contacts__place"><i class="glyph ri-map-pin-fill" aria-hidden="true"></i>География ЮФО + новые регионы</p>
     <ul class="contacts__list">
-      <li><a href="mailto:email@example.com">email@example.com</a></li>
-      <li><a href="tel:+70000000000">+7 000 000-00-00</a></li>
+      <li><a href="mailto:email@example.com"><i class="glyph ri-mail-fill" aria-hidden="true"></i>email@example.com</a></li>
+      <li><a href="tel:+70000000000"><i class="glyph ri-phone-fill" aria-hidden="true"></i>+7 000 000-00-00</a></li>
     </ul>
   </div>
   <div class="page">
@@ -42,7 +43,7 @@
           <nav class="header__nav" aria-label="Разделы">
             <ul class="header__menu">
               <li>
-                <a href="materials.html">
+                <a href="#materials">
                   <svg class="header__icon" viewBox="0 0 32 32" width="28" height="28" aria-hidden="true">
                     <path d="M6 12.5 16 8l10 4.5L16 17 6 12.5Z" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/>
                     <path d="m6 17.5 10 4.5 10-4.5" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/>
@@ -51,7 +52,7 @@
                 </a>
               </li>
               <li>
-                <a href="#">
+                <a href="404.html">
                   <svg class="header__icon" viewBox="0 0 32 32" width="28" height="28" aria-hidden="true">
                     <rect x="7" y="8" width="18" height="16" fill="none" stroke="currentColor" stroke-width="1.4"/>
                     <path d="M7 14h18" fill="none" stroke="currentColor" stroke-width="1.4"/>
@@ -60,7 +61,7 @@
                 </a>
               </li>
               <li>
-                <a href="#">
+                <a href="404.html">
                   <svg class="header__icon" viewBox="0 0 32 32" width="28" height="28" aria-hidden="true">
                     <path d="M6 25V14l6 4V14l6 4V9h8v16" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/>
                   </svg>
@@ -68,7 +69,7 @@
                 </a>
               </li>
               <li>
-                <a href="#">
+                <a href="#spaces">
                   <svg class="header__icon" viewBox="0 0 32 32" width="28" height="28" aria-hidden="true">
                     <rect x="6" y="6" width="8" height="8" fill="none" stroke="currentColor" stroke-width="1.4"/>
                     <rect x="18" y="6" width="8" height="8" fill="none" stroke="currentColor" stroke-width="1.4"/>
@@ -80,12 +81,12 @@
               </li>
             </ul>
           </nav>
-          <a class="header__discuss" href="#">Обсудить проект<span aria-hidden="true">→</span></a>
+          <a class="header__discuss" href="#brief">Обсудить проект<i class="glyph ri-external-link-fill" aria-hidden="true"></i></a>
           </div>
           <div class="menu__contacts">
-            <p class="menu__place">География ЮФО + новые регионы</p>
-            <a href="mailto:email@example.com">email@example.com</a>
-            <a href="tel:+70000000000">+7 000 000-00-00</a>
+            <p class="menu__place"><i class="glyph ri-map-pin-fill" aria-hidden="true"></i>География ЮФО + новые регионы</p>
+            <a href="mailto:email@example.com"><i class="glyph ri-mail-fill" aria-hidden="true"></i>email@example.com</a>
+            <a href="tel:+70000000000"><i class="glyph ri-phone-fill" aria-hidden="true"></i>+7 000 000-00-00</a>
           </div>
         </div>
       </div>
@@ -127,8 +128,8 @@
         <button class="hero__caption" id="hero-tab-3" type="button" role="tab" aria-selected="false" aria-controls="hero-panel" tabindex="-1">04 Коммерческие объекты</button>
       </div>
       <div class="hero__actions">
-        <a class="hero__calc" href="#">Рассчитать мой проект<span aria-hidden="true">→</span></a>
-        <a class="hero__catalog" href="materials.html">Каталог<span aria-hidden="true">→</span></a>
+        <a class="hero__calc" href="#brief">Рассчитать мой проект<i class="glyph ri-external-link-fill" aria-hidden="true"></i></a>
+        <a class="hero__catalog" href="materials.html">Каталог<i class="glyph ri-list-indefinite" aria-hidden="true"></i></a>
       </div>
     </section>
     <section class="catalog" id="catalog" aria-labelledby="catalog-title">
@@ -150,7 +151,7 @@
           <p class="catalog__empty" hidden>Образцы этой коллекции ещё не опубликованы.</p>
         </div>
         <div class="catalog__controls">
-          <a class="catalog__more" href="palette.html#avarus-nash-kvarc">Перейти в каталог<span aria-hidden="true">↗</span></a>
+          <a class="catalog__more" href="palette.html#avarus-nash-kvarc">Перейти в каталог<i class="glyph ri-external-link-fill" aria-hidden="true"></i></a>
           <p class="catalog__count"></p>
           <button class="catalog__prev" type="button">
             <span aria-hidden="true">←</span>
@@ -165,7 +166,7 @@
     <section class="materials" id="materials" aria-labelledby="materials-title">
       <header class="materials__intro">
         <div class="materials__heading">
-          <p class="materials__eyebrow">Материалы / 03</p>
+          <p class="materials__eyebrow">03 / Материалы</p>
           <h2 class="materials__title" id="materials-title">Два материала. Разные возможности.</h2>
         </div>
         <p class="materials__lead">Подбираем материал под задачу, эстетику и особенности будущего изделия.</p>
@@ -222,7 +223,7 @@
             <li>Подоконники</li>
             <li>Интерьерные изделия</li>
           </ul>
-          <p class="materials__link">Об изделиях из акрилового камня<span aria-hidden="true">↗</span></p>
+          <p class="materials__link">Об изделиях из акрилового камня<i class="glyph ri-external-link-fill" aria-hidden="true"></i></p>
         </article>
         <article class="materials__item">
           <h3 class="materials__name"><span class="materials__index">02</span>Кварцевый агломерат</h3>
@@ -275,15 +276,104 @@
             <li>Острова</li>
             <li>Барные поверхности</li>
           </ul>
-          <p class="materials__link">Об изделиях из кварцевого агломерата<span aria-hidden="true">↗</span></p>
+          <p class="materials__link">Об изделиях из кварцевого агломерата<i class="glyph ri-external-link-fill" aria-hidden="true"></i></p>
         </article>
       </div>
       <p class="materials__note">Кадры показывают характер материала и не являются фотографиями выполненных проектов.</p>
     </section>
+    <section class="spaces" id="spaces" aria-labelledby="spaces-title">
+      <header class="spaces__intro">
+        <div class="spaces__heading">
+          <p class="spaces__eyebrow">04 / Портфолио</p>
+          <h2 class="spaces__title" id="spaces-title">Наши работы</h2>
+        </div>
+        <p class="spaces__lead">Изделия из камня в жилых и общественных интерьерах.</p>
+      </header>
+      <ul class="spaces__list">
+        <li class="spaces__item spaces__item--feature">
+          <a class="spaces__card" href="case.html?slug=integrirovannaya-moyka">
+            <div class="spaces__frame">
+              <div class="spaces__shot">
+                <img src="imgs/cases/integrirovannaya-moyka/01.jpg" alt="Кухня с интегрированной мойкой из камня" width="1600" height="1200" decoding="async">
+                <span class="spaces__badge">
+                  <i class="glyph ri-camera-fill" aria-hidden="true"></i>
+                  Фото и видео
+                </span>
+              </div>
+              <div class="spaces__body">
+                <h3 class="spaces__name">Интегрированная мойка</h3>
+                <ul class="spaces__tags">
+                  <li>Акриловый камень</li>
+                  <li>интегрированная мойка</li>
+                </ul>
+              </div>
+              <span class="spaces__action">
+                <span class="spaces__action-text">Смотреть кейс</span>
+                <span class="spaces__mark" aria-hidden="true"><i class="glyph ri-external-link-fill spaces__mark-icon" aria-hidden="true"></i></span>
+              </span>
+            </div>
+          </a>
+        </li>
+        <li class="spaces__item">
+          <a class="spaces__card" href="404.html">
+            <div class="spaces__frame">
+              <div class="spaces__shot">
+                <picture>
+                  <source media="(min-width: 1024px)" srcset="imgs/02%20Ванная%20—%20ПК%2016_9.png">
+                  <img src="imgs/02%20Ванная%20—%20Мобильный%204_5.png" alt="Ванная с интегрированной раковиной из камня" width="1600" height="2000" decoding="async">
+                </picture>
+                <span class="spaces__badge">
+                  <i class="glyph ri-camera-fill" aria-hidden="true"></i>
+                  Фото и видео
+                </span>
+              </div>
+              <div class="spaces__body">
+                <h3 class="spaces__name">Тишина линий</h3>
+                <ul class="spaces__tags">
+                  <li>Акриловый камень</li>
+                  <li>интегрированная раковина</li>
+                </ul>
+              </div>
+              <span class="spaces__action">
+                <span class="spaces__action-text">Смотреть кейс</span>
+                <span class="spaces__mark" aria-hidden="true"><i class="glyph ri-external-link-fill spaces__mark-icon" aria-hidden="true"></i></span>
+              </span>
+            </div>
+          </a>
+        </li>
+        <li class="spaces__item">
+          <a class="spaces__card" href="404.html">
+            <div class="spaces__frame">
+              <div class="spaces__shot">
+                <picture>
+                  <source media="(min-width: 1024px)" srcset="imgs/04%20Коммерческие%20объекты%20—%20ПК%2016_9.png">
+                  <img src="imgs/04%20Коммерческие%20объекты%20—%20Мобильный%204_5.png" alt="Стойка ресепшн из камня в коммерческом интерьере" width="1600" height="2000" decoding="async">
+                </picture>
+                <span class="spaces__badge">
+                  <i class="glyph ri-camera-fill" aria-hidden="true"></i>
+                  Фото и видео
+                </span>
+              </div>
+              <div class="spaces__body">
+                <h3 class="spaces__name">Плавная геометрия</h3>
+                <ul class="spaces__tags">
+                  <li>Акриловый камень</li>
+                  <li>стойка ресепшн</li>
+                </ul>
+              </div>
+              <span class="spaces__action">
+                <span class="spaces__action-text">Смотреть кейс</span>
+                <span class="spaces__mark" aria-hidden="true"><i class="glyph ri-external-link-fill spaces__mark-icon" aria-hidden="true"></i></span>
+              </span>
+            </div>
+          </a>
+        </li>
+      </ul>
+    </section>
     <section class="process" id="process" aria-labelledby="process-title">
       <header class="process__intro">
         <div class="process__heading">
-          <p class="process__eyebrow">05 / от эскиза до последнего стыка</p>
+          <p class="process__eyebrow">05 / От эскиза до последнего стыка</p>
           <h2 class="process__title" id="process-title">Ваша идея.<br>Наше внимание к каждому этапу.</h2>
         </div>
         <p class="process__lead">Индивидуальное изготовление начинается с понимания пространства. Последовательно проходим путь от первой беседы до готового изделия.</p>
@@ -339,8 +429,10 @@
     </section>
     <section class="faq" id="faq" aria-labelledby="faq-title">
       <header class="faq__intro">
-        <p class="faq__eyebrow">08 / Перед началом проекта</p>
-        <h2 class="faq__title" id="faq-title">Важные вопросы</h2>
+        <div class="faq__heading">
+          <p class="faq__eyebrow">06 / Перед началом проекта</p>
+          <h2 class="faq__title" id="faq-title">Важные вопросы</h2>
+        </div>
         <p class="faq__lead">Хорошее решение начинается с ясности. Вот что стоит знать о заказе.</p>
       </header>
       <div class="faq__list">
@@ -375,19 +467,20 @@
       </div>
     </section>
     <section class="brief" id="brief" aria-labelledby="brief-title">
-      <header class="brief__intro">
-        <div class="brief__heading">
-          <p class="brief__eyebrow">09 / Начнём с вашей идеи</p>
-          <h2 class="brief__title" id="brief-title">Каким будет ваш камень?</h2>
+      <div class="brief__layout">
+        <div class="brief__media">
+          <header class="brief__intro">
+            <p class="brief__eyebrow">07 / Начнём с вашей идеи</p>
+            <h2 class="brief__title" id="brief-title">Каким будет ваш камень?</h2>
+            <p class="brief__lead">Расскажите о&nbsp;задаче&nbsp;— подберём материал и&nbsp;подготовим предварительный&nbsp;расчёт. Если&nbsp;есть план&nbsp;или&nbsp;эскиз, приложите&nbsp;его&nbsp;к&nbsp;заявке.</p>
+          </header>
+          <figure class="brief__figure">
+            <img class="brief__photo" src="imgs/%D0%9E%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D1%84%D0%B0%D0%BA%D1%82%D1%83%D1%80%D1%8B.png" alt="Образец светлого камня на постаменте в мастерской" width="720" height="420">
+            <figcaption class="brief__caption">Стоимость зависит от материала, размеров, сложности обработки и монтажа. Итоговый расчёт — после уточнения деталей.</figcaption>
+          </figure>
         </div>
-        <p class="brief__lead">Расскажите о задаче — подберём материал и подготовим предварительный расчёт. Если есть план или эскиз, приложите его к заявке.</p>
-      </header>
-      <figure class="brief__figure">
-        <img class="brief__photo" src="imgs/%D0%9E%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D1%84%D0%B0%D0%BA%D1%82%D1%83%D1%80%D1%8B.png" alt="Образец светлого камня на постаменте в мастерской" width="720" height="420">
-        <figcaption class="brief__caption">Стоимость зависит от материала, размеров, сложности обработки и монтажа. Итоговый расчёт — после уточнения деталей.</figcaption>
-      </figure>
-      <form class="brief__form" method="post" action="#brief">
-        <div class="brief__row">
+        <form class="brief__form" method="post" action="#brief">
+          <div class="brief__row">
           <label class="brief__field">
             <span class="brief__label">Ваше имя</span>
             <input class="brief__control" type="text" name="name" autocomplete="name" placeholder="Как к вам обращаться">
@@ -428,44 +521,112 @@
         </label>
         <div class="brief__agree">
           <input class="brief__check" id="brief-consent" type="checkbox" name="consent" value="yes">
-          <label class="brief__consent" for="brief-consent">Соглашаюсь на обработку персональных данных и принимаю <a class="brief__policy" href="#">политику конфиденциальности</a>.</label>
+          <label class="brief__consent" for="brief-consent">Соглашаюсь на обработку персональных данных и принимаю <a class="brief__policy" href="404.html">политику конфиденциальности</a>.</label>
         </div>
-        <div class="brief__send">
-          <button class="brief__submit" type="submit">Получить предварительный расчёт<span aria-hidden="true">↗</span></button>
-          <p class="brief__required" id="brief-required">* Обязательное поле</p>
-        </div>
-      </form>
+          <div class="brief__send">
+            <button class="brief__submit" type="submit">Получить предварительный расчёт<i class="glyph ri-external-link-fill" aria-hidden="true"></i></button>
+            <p class="brief__required" id="brief-required">* Обязательное поле</p>
+          </div>
+        </form>
+      </div>
     </section>
   </main>
 
   <footer class="footer">
-    <div class="footer__main">
-      <div class="footer__brand">
-        <p class="footer__identity">
-          <span class="footer__mark" aria-hidden="true"></span>
-          <span>
-            <span class="footer__name">Атмосфера камня</span>
-            <span class="footer__tagline">Изделия для вашего интерьера</span>
-          </span>
-        </p>
-        <p class="footer__about">Изготавливаем столешницы и интерьерные изделия из акрилового камня и кварцевого агломерата.</p>
+    <div class="footer__panel">
+      <div class="footer__main">
+        <div class="footer__brand">
+          <a class="footer__identity" href="index.html">
+            <span class="footer__mark" aria-hidden="true"></span>
+            <span class="footer__id">
+              <span class="footer__name">Атмосфера камня</span>
+              <span class="footer__tagline">Изделия для вашего интерьера</span>
+            </span>
+          </a>
+          <ul class="footer__tiles">
+            <li>
+              <a class="footer__tile" href="mailto:email@example.com">
+                <svg class="footer__tile-icon" viewBox="0 0 24 24" width="20" height="20" aria-hidden="true">
+                  <rect x="3.5" y="5.5" width="17" height="13" fill="none" stroke="currentColor" stroke-width="1.3"/>
+                  <path d="m4 7 8 5.5L20 7" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linejoin="round"/>
+                </svg>
+                <span class="footer__tile-text">
+                  <span class="footer__tile-label">Почта</span>
+                  <span class="footer__tile-value">email@example.com</span>
+                </span>
+              </a>
+            </li>
+            <li>
+              <a class="footer__tile" href="tel:+70000000000">
+                <svg class="footer__tile-icon" viewBox="0 0 24 24" width="20" height="20" aria-hidden="true">
+                  <path d="M8.2 4.8c.4-.9 1.4-1.2 2.2-.8l1.6.8c.7.4 1 1.2.7 1.9l-.6 1.4c-.2.5 0 1.1.5 1.4 1.5 1.1 3.4 2.9 4.5 4.4.3.5.9.7 1.4.5l1.4-.6c.7-.3 1.5 0 1.9.7l.8 1.6c.4.8.1 1.8-.8 2.2-1.2.5-2.6.6-4 .2-2.4-.8-5.2-3.1-7.3-5.2-2.1-2.1-4.4-4.9-5.2-7.3-.4-1.4-.3-2.8.2-4Z" fill="none" stroke="currentColor" stroke-width="1.2" stroke-linejoin="round"/>
+                </svg>
+                <span class="footer__tile-text">
+                  <span class="footer__tile-label">Телефон</span>
+                  <span class="footer__tile-value">+7 000 000-00-00</span>
+                </span>
+              </a>
+            </li>
+            <li>
+              <a class="footer__tile" href="#brief">
+                <svg class="footer__tile-icon" viewBox="0 0 24 24" width="20" height="20" aria-hidden="true">
+                  <path d="M5 12h12" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"/>
+                  <path d="m13 7 5 5-5 5" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+                <span class="footer__tile-text">
+                  <span class="footer__tile-label">Проект</span>
+                  <span class="footer__tile-value">Получить расчёт</span>
+                </span>
+              </a>
+            </li>
+            <li>
+              <a class="footer__tile" href="materials.html">
+                <svg class="footer__tile-icon" viewBox="0 0 24 24" width="20" height="20" aria-hidden="true">
+                  <path d="M6 12.5 12 9l6 3.5L12 16 6 12.5Z" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linejoin="round"/>
+                  <path d="m6 16.5 6 3.5 6-3.5" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linejoin="round"/>
+                </svg>
+                <span class="footer__tile-text">
+                  <span class="footer__tile-label">Каталог</span>
+                  <span class="footer__tile-value">Материалы и фактуры</span>
+                </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="footer__navs">
+          <nav class="footer__nav" aria-labelledby="footer-nav-materials">
+            <p class="footer__nav-title" id="footer-nav-materials">Материалы</p>
+            <ul class="footer__nav-list">
+              <li><a href="materials.html">Кварцевый агломерат</a></li>
+              <li><a href="materials.html">Акриловый камень</a></li>
+              <li><a href="palette.html">Каталог фактур</a></li>
+            </ul>
+          </nav>
+          <nav class="footer__nav" aria-labelledby="footer-nav-products">
+            <p class="footer__nav-title" id="footer-nav-products">Изделия</p>
+            <ul class="footer__nav-list">
+              <li><a href="404.html">Столешницы и острова</a></li>
+              <li><a href="404.html">Ванные и раковины</a></li>
+              <li><a href="#spaces">Коммерческие объекты</a></li>
+            </ul>
+          </nav>
+          <nav class="footer__nav" aria-labelledby="footer-nav-clients">
+            <p class="footer__nav-title" id="footer-nav-clients">Клиентам</p>
+            <ul class="footer__nav-list">
+              <li><a href="#process">Как мы работаем</a></li>
+              <li><a href="#faq">Вопросы перед заказом</a></li>
+              <li><a href="#brief">Обсудить проект</a></li>
+              <li><a href="404.html">Дизайнерам</a></li>
+            </ul>
+          </nav>
+        </div>
       </div>
-      <nav class="footer__links" aria-label="Материалы">
-        <a href="materials.html">Кварцевый агломерат</a>
-        <a href="materials.html">Акриловый камень</a>
-        <a href="#">Изделия для интерьера</a>
-      </nav>
-      <nav class="footer__links" aria-label="Подбор">
-        <a href="#">Подбор и заказ</a>
-        <a href="#">Срок для проекта</a>
-        <a href="#">Дизайнерам</a>
-      </nav>
-      <a class="footer__discuss" href="#">Обсудить проект<span aria-hidden="true"> →</span></a>
-    </div>
-    <div class="footer__bar">
-      <p>© Атмосфера камня, 2026</p>
-      <a href="#">Политика конфиденциальности</a>
-      <p>География ЮФО + новые регионы</p>
+      <div class="footer__legal">
+        <p class="footer__legal-line">Согласие на обработку персональных данных оформляется при отправке заявки на сайте.</p>
+        <a class="footer__legal-line" href="404.html">Политика конфиденциальности</a>
+        <p class="footer__legal-line">Информация на сайте не является публичной офертой.</p>
+        <p class="footer__meta">© Атмосфера камня, 2026 · География ЮФО + новые регионы</p>
+      </div>
     </div>
   </footer>
   </div>

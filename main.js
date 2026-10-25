@@ -245,7 +245,7 @@ function renderCatalogSlide(item) {
   return `<li class="swiper-slide">
     <a class="material" href="${escapeHtml(item.href)}">
       <div class="material__frame">
-        <img src="${escapeHtml(item.image)}" alt="${alt}" width="221" height="154" loading="lazy" decoding="async">
+        <img src="${escapeHtml(item.image)}" alt="${alt}" loading="lazy" decoding="async">
       </div>
       <div class="material__info">
         <h3 class="material__name">${escapeHtml(item.name)}</h3>
@@ -438,14 +438,25 @@ async function initCatalog() {
   }
 
   function watchCatalogImages() {
-    grid.querySelectorAll(".material__frame img").forEach((img) => {
+    const images = [...grid.querySelectorAll(".material__frame img")];
+    let pending = images.filter((img) => !img.complete).length;
+
+    if (!pending) {
+      return;
+    }
+
+    images.forEach((img) => {
       if (img.complete) {
         return;
       }
 
       img.addEventListener("load", () => {
-        equalizeCatalogSlides();
-        catalogSwiper.update();
+        pending -= 1;
+
+        if (pending === 0) {
+          equalizeCatalogSlides();
+          catalogSwiper.update();
+        }
       }, { once: true });
     });
   }

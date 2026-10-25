@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "name": "Монте Тиберио лаппатированный",
+      "code": "SG59002R",
+      "image": "imgs/stones/kerama-marazzi/SG59002R.jpg",
+      "href": "palette.html#kerama-marazzi",
+      "new": false
+    },
+    {
+      "name": "Сити бежевый",
+      "code": "SG070100R",
+      "image": "imgs/stones/kerama-marazzi/SG070100R.jpg",
+      "href": "palette.html#kerama-marazzi",
+      "new": false
+    },
+    {
+      "name": "Сити серый",
+      "code": "SG070300R",
+      "image": "imgs/stones/kerama-marazzi/SG070300R.jpg",
+      "href": "palette.html#kerama-marazzi",
+      "new": false
+    },
+    {
+      "name": "Сити серый темный",
+      "code": "SG070400R",
+      "image": "imgs/stones/kerama-marazzi/SG070400R.jpg",
+      "href": "palette.html#kerama-marazzi",
+      "new": false
+    },
+    {
+      "name": "Сити черный",
+      "code": "SG070600R",
+      "image": "imgs/stones/kerama-marazzi/SG070600R.jpg",
+      "href": "palette.html#kerama-marazzi",
+      "new": false
+    },
+    {
+      "name": "Ардезия белый",
+      "code": "SG070700R",
+      "image": "imgs/stones/kerama-marazzi/SG070700R.jpg",
+      "href": "palette.html#kerama-marazzi",
+      "new": false
+    },
+    {
+      "name": "Ардезия черный",
+      "code": "SG070900R",
+      "image": "imgs/stones/kerama-marazzi/SG070900R.jpg",
+      "href": "palette.html#kerama-marazzi",
+      "new": false
+    },
+    {
+      "name": "Кобальт синий",
+      "code": "SG071000R",
+      "image": "imgs/stones/kerama-marazzi/SG071000R.jpg",
+      "href": "palette.html#kerama-marazzi",
+      "new": false
+    },
+    {
+      "name": "Кортен коричневый",
+      "code": "SG071100R",
+      "image": "imgs/stones/kerama-marazzi/SG071100R.jpg",
+      "href": "palette.html#kerama-marazzi",
+      "new": false
+    },
+    {
+      "name": "Бардилио серый",
+      "code": "SG071500R",
+      "image": "imgs/stones/kerama-marazzi/SG071500R.jpg",
+      "href": "palette.html#kerama-marazzi",
+      "new": false
+    },
+    {
+      "name": "Бардилио серый лаппатированный",
+      "code": "SG071502R",
+      "image": "imgs/stones/kerama-marazzi/SG071502R.jpg",
+      "href": "palette.html#kerama-marazzi",
+      "new": false
+    },
+    {
+      "name": "Капрая белый",
+      "code": "SG071600R",
+      "image": "imgs/stones/kerama-marazzi/SG071600R.jpg",
+      "href": "palette.html#kerama-marazzi",
+      "new": false
+    }
+  ]
+}

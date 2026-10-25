@@ -7,6 +7,12 @@ window.CATALOG_MINI = {
       "href": "palette.html#avarus-nash-kvarc"
     },
     {
+      "id": "himacs",
+      "name": "HI-MACS",
+      "type": "Акриловый камень",
+      "href": "palette.html#himacs"
+    },
+    {
       "id": "avant-quartz",
       "name": "Avant Quartz",
       "type": "Кварцевый агломерат",

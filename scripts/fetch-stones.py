@@ -288,7 +288,7 @@ def swatch(shade, path, collection_name):
     return f"""          <li class="swatch">
             <article>
               <div class="swatch__frame">
-                <img src="{escape(path, quote=True)}" alt="{escape(shade['name'], quote=True)}" width="540" height="304" loading="lazy" decoding="async">{badge}
+                <img src="{escape(path, quote=True)}" alt="{escape(shade['name'], quote=True)}" loading="lazy" decoding="async">{badge}
               </div>
               <h2 class="swatch__name">{escape(shade['name'])}</h2>
               <p class="swatch__meta">
@@ -323,7 +323,7 @@ def render_materials(data, saved):
             <h2 class="brand__name">{escape(collection['name'])}</h2>
             <p class="brand__type">{escape(service)}</p>
           </div>{text}
-          <a class="brand__more" href="{href}">Смотреть коллекцию<span aria-hidden="true">→</span></a>
+          <a class="brand__more" href="{href}">Смотреть коллекцию<i class="glyph ri-external-link-fill" aria-hidden="true"></i></a>
         </li>""")
 
     return "<ul class=\"brands__grid\">\n" + "\n".join(cards) + "\n      </ul>"

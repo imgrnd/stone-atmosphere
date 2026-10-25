@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Админка — служебная</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Onest:wght@300;500&display=swap">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="catalog-admin-page">
+  <main class="stones-export catalog-admin">
+    <header class="stones-export__head">
+      <p class="stones-export__eyebrow">Служебная страница</p>
+      <h1 class="stones-export__title">Админка AcrylicGoose</h1>
+      <p class="stones-export__lead">Локальные инструменты для каталога. Запустите <code>python3 scripts/export_stones_server.py</code> и откройте страницы с этого хоста.</p>
+    </header>
+
+    <ul class="catalog-admin__hub">
+      <li>
+        <a class="catalog-admin__hub-link" href="catalog-admin.html">
+          <span class="catalog-admin__hub-title">Мини-каталог на главной</span>
+          <span class="catalog-admin__hub-text">Бренды, порядок вкладок и состав слайдов</span>
+        </a>
+      </li>
+      <li>
+        <a class="catalog-admin__hub-link" href="stones-export.html">
+          <span class="catalog-admin__hub-title">Экспорт партнёров</span>
+          <span class="catalog-admin__hub-text">Interstone, Staron, HI-MACS → stones.json</span>
+        </a>
+      </li>
+      <li>
+        <a class="catalog-admin__hub-link" href="index.html#catalog">
+          <span class="catalog-admin__hub-title">Главная, блок каталога</span>
+          <span class="catalog-admin__hub-text">Проверить результат на сайте</span>
+        </a>
+      </li>
+    </ul>
+  </main>
+</body>
+</html>

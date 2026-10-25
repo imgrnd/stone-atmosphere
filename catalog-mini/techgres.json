@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "name": "Абсолют Белый / Absolute White",
+      "code": "TG1010",
+      "image": "imgs/stones/techgres/loft/TG1010.jpg",
+      "href": "palette.html#techgres-loft",
+      "new": true
+    },
+    {
+      "name": "Ночная Сахара / Sahara Noir",
+      "code": "TG5050",
+      "image": "imgs/stones/techgres/marble/TG5050.jpg",
+      "href": "palette.html#techgres-marble",
+      "new": true
+    },
+    {
+      "name": "Абсолют Вулканик Белый / Absolute Volcanic White",
+      "code": "TG1111",
+      "image": "imgs/stones/techgres/loft/TG1111.jpg",
+      "href": "palette.html#techgres-loft",
+      "new": true
+    },
+    {
+      "name": "Черная Маркина / Nero Marquina",
+      "code": "TG5151",
+      "image": "imgs/stones/techgres/marble/TG5151.jpg",
+      "href": "palette.html#techgres-marble",
+      "new": true
+    },
+    {
+      "name": "Абсолют Вулканик Серый / Absolute Volcanic Grey",
+      "code": "TG2121",
+      "image": "imgs/stones/techgres/loft/TG2121.jpg",
+      "href": "palette.html#techgres-loft",
+      "new": true
+    },
+    {
+      "name": "Каменный серый / Pietra Grey",
+      "code": "TG5353",
+      "image": "imgs/stones/techgres/marble/TG5353.jpg",
+      "href": "palette.html#techgres-marble",
+      "new": true
+    },
+    {
+      "name": "Абсолют Вулканик Темный / Absolute Volcanic Space",
+      "code": "TG2222",
+      "image": "imgs/stones/techgres/loft/TG2222.jpg",
+      "href": "palette.html#techgres-loft",
+      "new": true
+    },
+    {
+      "name": "Имперский черный / Empire Black",
+      "code": "TG5555",
+      "image": "imgs/stones/techgres/marble/TG5555.jpg",
+      "href": "palette.html#techgres-marble",
+      "new": true
+    },
+    {
+      "name": "Aбсолют Черный / Absolute Black",
+      "code": "TG3030",
+      "image": "imgs/stones/techgres/loft/TG3030.jpg",
+      "href": "palette.html#techgres-loft",
+      "new": true
+    },
+    {
+      "name": "Темный Лавр / Noir Laurent",
+      "code": "TG5858",
+      "image": "imgs/stones/techgres/marble/TG5858.jpg",
+      "href": "palette.html#techgres-marble",
+      "new": true
+    },
+    {
+      "name": "Абсолют Вулканик Черный / Absolute Volcanic Black",
+      "code": "TG3333",
+      "image": "imgs/stones/techgres/loft/TG3333.jpg",
+      "href": "palette.html#techgres-loft",
+      "new": true
+    },
+    {
+      "name": "Спокойный Черный / Pacific Black",
+      "code": "TG5959",
+      "image": "imgs/stones/techgres/marble/TG5959.jpg",
+      "href": "palette.html#techgres-marble",
+      "new": true
+    }
+  ]
+}

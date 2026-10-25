@@ -1,0 +1,145 @@
+{
+  "brands": {
+    "himacs": {
+      "visible": true,
+      "order": 1,
+      "mode": "auto"
+    },
+    "avarus-nash-kvarc": {
+      "visible": true,
+      "order": 0,
+      "mode": "manual",
+      "items": [
+        {
+          "name": "Белая Тайга",
+          "code": "R104 / RM104",
+          "image": "imgs/stones/avarus-nash-kvarc/monokolor/R104-RM104.jpg",
+          "href": "palette.html#avarus-nash-kvarc-monokolor",
+          "new": false
+        },
+        {
+          "name": "Соль Каспия",
+          "code": "R112",
+          "image": "imgs/stones/avarus-nash-kvarc/granitnaya/R112.jpg",
+          "href": "palette.html#avarus-nash-kvarc-granitnaya",
+          "new": false
+        },
+        {
+          "name": "Белое Море",
+          "code": "R711 / RM711",
+          "image": "imgs/stones/avarus-nash-kvarc/kalakatta/R711-RM711.jpg",
+          "href": "palette.html#avarus-nash-kvarc-kalakatta",
+          "new": true
+        },
+        {
+          "name": "Скалы Карелии",
+          "code": "R403 / RM403",
+          "image": "imgs/stones/avarus-nash-kvarc/mramornaya-kollekciya/R403-RM403.jpg",
+          "href": "palette.html#avarus-nash-kvarc-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "Алмазы Якутии",
+          "code": "R122",
+          "image": "imgs/stones/avarus-nash-kvarc/granitnaya/R122.jpg",
+          "href": "palette.html#avarus-nash-kvarc-granitnaya",
+          "new": false
+        },
+        {
+          "name": "Жемчужина Казани",
+          "code": "R716",
+          "image": "imgs/stones/avarus-nash-kvarc/kalakatta/R716.jpg",
+          "href": "palette.html#avarus-nash-kvarc-kalakatta",
+          "new": true
+        },
+        {
+          "name": "Ай-Петри",
+          "code": "R444 / RM444",
+          "image": "imgs/stones/avarus-nash-kvarc/mramornaya-kollekciya/R444-RM444.jpg",
+          "href": "palette.html#avarus-nash-kvarc-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "Солнечный Сочи",
+          "code": "R723",
+          "image": "imgs/stones/avarus-nash-kvarc/kalakatta/R723.jpg",
+          "href": "palette.html#avarus-nash-kvarc-kalakatta",
+          "new": true
+        },
+        {
+          "name": "Жемчуг Приморья",
+          "code": "R500",
+          "image": "imgs/stones/avarus-nash-kvarc/mramornaya-kollekciya/R500.jpg",
+          "href": "palette.html#avarus-nash-kvarc-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "Амурские волны",
+          "code": "R727 / RM727",
+          "image": "imgs/stones/avarus-nash-kvarc/kalakatta/R727-RM727.jpg",
+          "href": "palette.html#avarus-nash-kvarc-kalakatta",
+          "new": true
+        },
+        {
+          "name": "Уральские горы",
+          "code": "R503",
+          "image": "imgs/stones/avarus-nash-kvarc/mramornaya-kollekciya/R503.jpg",
+          "href": "palette.html#avarus-nash-kvarc-mramornaya-kollekciya",
+          "new": false
+        },
+        {
+          "name": "Крымские грозы",
+          "code": "R760 / RM760",
+          "image": "imgs/stones/avarus-nash-kvarc/kalakatta/R760-RM760.jpg",
+          "href": "palette.html#avarus-nash-kvarc-kalakatta",
+          "new": true
+        }
+      ]
+    },
+    "avant-quartz": {
+      "visible": true,
+      "order": 2,
+      "mode": "auto"
+    },
+    "noblle": {
+      "visible": true,
+      "order": 3,
+      "mode": "auto"
+    },
+    "caesarstone": {
+      "visible": true,
+      "order": 4,
+      "mode": "auto"
+    },
+    "grandex": {
+      "visible": true,
+      "order": 5,
+      "mode": "auto"
+    },
+    "neomarm": {
+      "visible": true,
+      "order": 6,
+      "mode": "auto"
+    },
+    "formax": {
+      "visible": true,
+      "order": 7,
+      "mode": "auto"
+    },
+    "techgres": {
+      "visible": false,
+      "order": 8,
+      "mode": "auto"
+    },
+    "kerama-marazzi": {
+      "visible": false,
+      "order": 9,
+      "mode": "auto"
+    },
+    "staron": {
+      "visible": true,
+      "order": 10,
+      "mode": "auto"
+    }
+  }
+}

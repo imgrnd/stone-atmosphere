@@ -1,0 +1,80 @@
+{
+  "slug": "integrirovannaya-moyka",
+  "title": "Интегрированная мойка",
+  "eyebrow": "Акриловый камень · кухня",
+  "lead": "Заглушка. Столешница и мойка из одного материала.",
+  "tags": ["Акриловый камень", "интегрированная мойка"],
+  "cover": {
+    "mobile": "imgs/cases/integrirovannaya-moyka/01.jpg",
+    "alt": "Кухня с интегрированной мойкой из камня"
+  },
+  "blocks": [
+    {
+      "type": "lead",
+      "eyebrow": "Акриловый камень · кухня",
+      "title": "Интегрированная мойка",
+      "text": "Заглушка. Столешница и мойка из одного материала, без отдельной чаши."
+    },
+    {
+      "type": "media",
+      "mobile": "imgs/cases/integrirovannaya-moyka/01.jpg",
+      "alt": "Угловая кухня с белой столешницей и интегрированной мойкой",
+      "caption": "Общий вид"
+    },
+    {
+      "type": "duo",
+      "items": [
+        {
+          "mobile": "imgs/cases/integrirovannaya-moyka/05.jpg",
+          "alt": "Интегрированная мойка с крылом для посуды",
+          "caption": "Мойка"
+        },
+        {
+          "mobile": "imgs/cases/integrirovannaya-moyka/03.jpg",
+          "alt": "Варочная панель в столешнице",
+          "caption": "Варочная панель"
+        }
+      ]
+    },
+    {
+      "type": "split",
+      "side": "start",
+      "mobile": "imgs/cases/integrirovannaya-moyka/06.jpg",
+      "alt": "Мойка в одной плоскости со столешницей",
+      "eyebrow": "Изделие",
+      "title": "Одна поверхность",
+      "text": "Заглушка. Мойка продолжается в столешницу, кромка идёт по периметру.",
+      "note": "Текст черновой, кадры с объекта."
+    },
+    {
+      "type": "videos",
+      "items": [
+        {
+          "src": "imgs/cases/integrirovannaya-moyka/video-01.mp4",
+          "poster": "imgs/cases/integrirovannaya-moyka/video-01.jpg",
+          "caption": "Кромка столешницы"
+        },
+        {
+          "src": "imgs/cases/integrirovannaya-moyka/video-02.mp4",
+          "poster": "imgs/cases/integrirovannaya-moyka/video-02.jpg",
+          "caption": "Примыкание к технике"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "title": "Линия мойки",
+      "mobile": "imgs/cases/integrirovannaya-moyka/04.jpg",
+      "alt": "Мойка, смеситель и варочная панель на одной столешнице",
+      "caption": "Мойка в линии столешницы"
+    },
+    {
+      "type": "next",
+      "slug": "teplyy-minimalizm",
+      "title": "Тёплый минимализм",
+      "mobile": "imgs/01 Кухня — Мобильный 4_5.png",
+      "desktop": "imgs/01 Кухня — ПК 16_9.png",
+      "alt": "Кухня с островом и каменной столешницей"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "name": "Терраццо Олива",
+      "code": "Q102",
+      "image": "imgs/stones/himacs/terratstso/Q102.jpg",
+      "href": "palette.html#himacs-terratstso",
+      "new": false
+    },
+    {
+      "name": "Аврора Торано",
+      "code": "M601",
+      "image": "imgs/stones/himacs/marmo-avrora/M601.jpg",
+      "href": "palette.html#himacs-marmo-avrora",
+      "new": false
+    },
+    {
+      "name": "Милан",
+      "code": "M351",
+      "image": "imgs/stones/himacs/marmo/M351.jpg",
+      "href": "palette.html#himacs-marmo",
+      "new": false
+    },
+    {
+      "name": "Арктический Гранит",
+      "code": "G034",
+      "image": "imgs/stones/himacs/granit/G034.jpg",
+      "href": "palette.html#himacs-granit",
+      "new": false
+    },
+    {
+      "name": "Белый Кварц",
+      "code": "G004",
+      "image": "imgs/stones/himacs/kvarts/G004.jpg",
+      "href": "palette.html#himacs-kvarts",
+      "new": false
+    },
+    {
+      "name": "Черный Жемчуг",
+      "code": "G010",
+      "image": "imgs/stones/himacs/pesok-i-zhemchug/G010.gif",
+      "href": "palette.html#himacs-pesok-i-zhemchug",
+      "new": false
+    },
+    {
+      "name": "Санта Анна",
+      "code": "VA01",
+      "image": "imgs/stones/himacs/volkaniks/VA01.jpg",
+      "href": "palette.html#himacs-volkaniks",
+      "new": false
+    },
+    {
+      "name": "Серый",
+      "code": "S005",
+      "image": "imgs/stones/himacs/solid/S005.jpg",
+      "href": "palette.html#himacs-solid",
+      "new": false
+    },
+    {
+      "name": "Опал",
+      "code": "S302",
+      "image": "imgs/stones/himacs/lyusent/S302.jpg",
+      "href": "palette.html#himacs-lyusent",
+      "new": false
+    },
+    {
+      "name": "Ледяная Королева",
+      "code": "W001",
+      "image": "imgs/stones/himacs/lyuchiya/W001.jpg",
+      "href": "palette.html#himacs-lyuchiya",
+      "new": false
+    },
+    {
+      "name": "Терраццо Нувола",
+      "code": "Q103",
+      "image": "imgs/stones/himacs/terratstso/Q103.jpg",
+      "href": "palette.html#himacs-terratstso",
+      "new": false
+    },
+    {
+      "name": "Аврора Павия",
+      "code": "M603",
+      "image": "imgs/stones/himacs/marmo-avrora/M603.jpg",
+      "href": "palette.html#himacs-marmo-avrora",
+      "new": false
+    }
+  ]
+}

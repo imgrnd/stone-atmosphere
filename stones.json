@@ -59,6 +59,12 @@
       "name": "Staron",
       "type": "akrilovyy-kamen",
       "typeName": "Акриловый камень"
+    },
+    {
+      "id": "himacs",
+      "name": "HI-MACS",
+      "type": "akrilovyy-kamen",
+      "typeName": "Акриловый камень"
     }
   ],
   "collections": [
@@ -361,6 +367,66 @@
       "id": "action",
       "brand": "staron",
       "name": "АКЦИЯ",
+      "lead": ""
+    },
+    {
+      "id": "terratstso",
+      "brand": "himacs",
+      "name": "Терраццо",
+      "lead": ""
+    },
+    {
+      "id": "marmo-avrora",
+      "brand": "himacs",
+      "name": "Мармо Аврора",
+      "lead": ""
+    },
+    {
+      "id": "marmo",
+      "brand": "himacs",
+      "name": "Мармо",
+      "lead": ""
+    },
+    {
+      "id": "granit",
+      "brand": "himacs",
+      "name": "Гранит",
+      "lead": ""
+    },
+    {
+      "id": "kvarts",
+      "brand": "himacs",
+      "name": "Кварц",
+      "lead": ""
+    },
+    {
+      "id": "pesok-i-zhemchug",
+      "brand": "himacs",
+      "name": "Песок и жемчуг",
+      "lead": ""
+    },
+    {
+      "id": "volkaniks",
+      "brand": "himacs",
+      "name": "Волканикс",
+      "lead": ""
+    },
+    {
+      "id": "solid",
+      "brand": "himacs",
+      "name": "Солид",
+      "lead": ""
+    },
+    {
+      "id": "lyusent",
+      "brand": "himacs",
+      "name": "Люсент",
+      "lead": ""
+    },
+    {
+      "id": "lyuchiya",
+      "brand": "himacs",
+      "name": "Лючия",
       "lead": ""
     }
   ],
@@ -5426,6 +5492,976 @@
       "url": "https://staron.ru/upload/iblock/da1/pbcstth2mr7o9137g2yveuyh7og0d0es.webp",
       "collections": [
         "action"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Терраццо Олива",
+      "code": "Q102",
+      "url": "https://hi-macs.ru/img/colors/280/full_123ib2h1ksai.png",
+      "collections": [
+        "terratstso"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Терраццо Нувола",
+      "code": "Q103",
+      "url": "https://hi-macs.ru/img/colors/279/full_4dh4ns07h5id.jpg",
+      "collections": [
+        "terratstso"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Терраццо Альба",
+      "code": "Q104",
+      "url": "https://hi-macs.ru/img/colors/278/full_9hnyy64ty979.jpg",
+      "collections": [
+        "terratstso"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Терраццо Марсала",
+      "code": "Q106",
+      "url": "https://hi-macs.ru/img/colors/275/full_9t73y716sh56.jpg",
+      "collections": [
+        "terratstso"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Аврора Торано",
+      "code": "M601",
+      "url": "https://hi-macs.ru/img/colors/202/full_0sdf719erk86.jpg",
+      "collections": [
+        "marmo-avrora"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Аврора Павия",
+      "code": "M603",
+      "url": "https://hi-macs.ru/img/colors/203/full_sa735kt97f86.jpg",
+      "collections": [
+        "marmo-avrora"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Аврора Санремо",
+      "code": "M605",
+      "url": "https://hi-macs.ru/img/colors/204/full_38ae31k732y3.jpg",
+      "collections": [
+        "marmo-avrora"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Аврора Крем",
+      "code": "M607",
+      "url": "https://hi-macs.ru/img/colors/206/full_0freea1ritht.jpg",
+      "collections": [
+        "marmo-avrora"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Аврора Биск",
+      "code": "M612",
+      "url": "https://hi-macs.ru/img/colors/208/full_r36h61s1tzrb.png",
+      "collections": [
+        "marmo-avrora"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Аврора Грейдж",
+      "code": "M613",
+      "url": "https://hi-macs.ru/img/colors/209/full_ynbtd3sk2iid.png",
+      "collections": [
+        "marmo-avrora"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Аврора Янтарь",
+      "code": "M614",
+      "url": "https://hi-macs.ru/img/colors/210/full_a7etzretdeif.png",
+      "collections": [
+        "marmo-avrora"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Аврора Хлопок",
+      "code": "M615",
+      "url": "https://hi-macs.ru/img/colors/211/full_ba48z29kda20.png",
+      "collections": [
+        "marmo-avrora"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Аврора Бланк",
+      "code": "M617",
+      "url": "https://hi-macs.ru/img/colors/213/full_ien773e2k957.png",
+      "collections": [
+        "marmo-avrora"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Аврора Льняной Крем",
+      "code": "M623",
+      "url": "https://hi-macs.ru/img/colors/244/full_bf2esndrhrss.png",
+      "collections": [
+        "marmo-avrora"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Аврора Земля",
+      "code": "M625",
+      "url": "https://hi-macs.ru/img/colors/246/full_h0ihas2912zh.png",
+      "collections": [
+        "marmo-avrora"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Современный серый",
+      "code": "M626",
+      "url": "https://hi-macs.ru/img/colors/259/full_2hy30yeed0rh.png",
+      "collections": [
+        "marmo-avrora"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Аврора Масло и Крем",
+      "code": "M627",
+      "url": "https://hi-macs.ru/img/colors/247/full_74k4360h4e65.png",
+      "collections": [
+        "marmo-avrora"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Аврора Шалфей",
+      "code": "M633",
+      "url": "https://hi-macs.ru/img/colors/268/full_45e75576t1k6.png",
+      "collections": [
+        "marmo-avrora"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Аврора Экрю",
+      "code": "M701",
+      "url": "https://hi-macs.ru/img/colors/248/full_5ee13rrer2df.png",
+      "collections": [
+        "marmo-avrora"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Аврора Лёд",
+      "code": "M702",
+      "url": "https://hi-macs.ru/img/colors/249/full_73ih6fk8n9yr.png",
+      "collections": [
+        "marmo-avrora"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Аврора Полночь",
+      "code": "M703",
+      "url": "https://hi-macs.ru/img/colors/250/full_etnnhssne1aa.png",
+      "collections": [
+        "marmo-avrora"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Серый Камень",
+      "code": "M704",
+      "url": "https://hi-macs.ru/img/colors/260/full_by83i6s8ik63.png",
+      "collections": [
+        "marmo-avrora"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Аврора Каньон",
+      "code": "M705",
+      "url": "https://hi-macs.ru/img/colors/251/full_7r6skkfbt21z.png",
+      "collections": [
+        "marmo-avrora"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Аврора Ангора",
+      "code": "M706",
+      "url": "https://hi-macs.ru/img/colors/252/full_500d6f0rkb2z.png",
+      "collections": [
+        "marmo-avrora"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Аврора Магнолия",
+      "code": "M707",
+      "url": "https://hi-macs.ru/img/colors/253/full_ryyfrtbbzh54.png",
+      "collections": [
+        "marmo-avrora"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Калакатта Полная луна",
+      "code": "M812",
+      "url": "https://hi-macs.ru/img/colors/267/full_idftt136ksh7.png",
+      "collections": [
+        "marmo-avrora"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Калакатта Снежная луна",
+      "code": "M813",
+      "url": "https://hi-macs.ru/img/colors/266/full_45k57bhk0s64.jpg",
+      "collections": [
+        "marmo-avrora"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Калакатта Луна на озере",
+      "code": "M815",
+      "url": "https://hi-macs.ru/img/colors/264/full_z26bfbyh0875.jpg",
+      "collections": [
+        "marmo-avrora"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Калакатта Луна в пустыне",
+      "code": "M816",
+      "url": "https://hi-macs.ru/img/colors/270/full_n258nn6r12f9.jpg",
+      "collections": [
+        "marmo-avrora"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Калакатта Виста",
+      "code": "M831",
+      "url": "https://hi-macs.ru/img/colors/269/full_z48nn4d6yb66.jpg",
+      "collections": [
+        "marmo-avrora"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Милан",
+      "code": "M351",
+      "url": "https://hi-macs.ru/img/colors/130/full_08h4bb1ife21.jpg",
+      "collections": [
+        "marmo"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Тенистый Бетон",
+      "code": "M552",
+      "url": "https://hi-macs.ru/img/colors/225/full_89f82y7fysth.jpg",
+      "collections": [
+        "marmo"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Эбонитовый Бетон",
+      "code": "M553",
+      "url": "https://hi-macs.ru/img/colors/226/full_1s7b6943876e.jpg",
+      "collections": [
+        "marmo"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Неаполь",
+      "code": "M904",
+      "url": "https://hi-macs.ru/img/colors/136/full_r5hkadd3kn65.png",
+      "collections": [
+        "marmo"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Арктический Гранит",
+      "code": "G034",
+      "url": "https://hi-macs.ru/img/colors/16/full_096ey4hz75a1.jpg",
+      "collections": [
+        "granit"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Ювелирный Гранит",
+      "code": "G077",
+      "url": "https://hi-macs.ru/img/colors/276/full_i0hsbz3f9y2k.jpg",
+      "collections": [
+        "granit"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Серый Оникс",
+      "code": "G103",
+      "url": "https://hi-macs.ru/img/colors/20/full_r5s4iabi8yrd.jpg",
+      "collections": [
+        "granit"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Жемчужная Галька",
+      "code": "G107",
+      "url": "https://hi-macs.ru/img/colors/272/full_n3zdb2dzz7i1.jpg",
+      "collections": [
+        "granit"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Бежевый Остров",
+      "code": "G109",
+      "url": "https://hi-macs.ru/img/colors/21/full_df22rsiazn9t.jpg",
+      "collections": [
+        "granit"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Корона",
+      "code": "G110",
+      "url": "https://hi-macs.ru/img/colors/22/full_hyyr7n6h9k3s.jpg",
+      "collections": [
+        "granit"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Маккиато",
+      "code": "G111",
+      "url": "https://hi-macs.ru/img/colors/175/full_iy6y9ht8han7.jpg",
+      "collections": [
+        "granit"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Карамель",
+      "code": "G112",
+      "url": "https://hi-macs.ru/img/colors/23/full_kd2izk76k6ta.jpg",
+      "collections": [
+        "granit"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Айсберг",
+      "code": "G113",
+      "url": "https://hi-macs.ru/img/colors/24/full_k314sy898bk0.jpg",
+      "collections": [
+        "granit"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Глина",
+      "code": "G114",
+      "url": "https://hi-macs.ru/img/colors/176/full_4t4hff2kfazf.jpg",
+      "collections": [
+        "granit"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Цельное Зерно",
+      "code": "G134",
+      "url": "https://hi-macs.ru/img/colors/277/full_ztbh1s9843tz.jpg",
+      "collections": [
+        "granit"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Ромашка",
+      "code": "G135",
+      "url": "https://hi-macs.ru/img/colors/143/full_eh13h27idatd.png",
+      "collections": [
+        "granit"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Дарджилинг",
+      "code": "G136",
+      "url": "https://hi-macs.ru/img/colors/144/full_dks91bsy0hy6.png",
+      "collections": [
+        "granit"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Холодный серый",
+      "code": "G137",
+      "url": "https://hi-macs.ru/img/colors/145/full_e11052fa082a.png",
+      "collections": [
+        "granit"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Ройбуш",
+      "code": "G139",
+      "url": "https://hi-macs.ru/img/colors/196/full_rkn1dsr30ktd.jpg",
+      "collections": [
+        "granit"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Гранит цвета Мокко",
+      "code": "G174",
+      "url": "https://hi-macs.ru/img/colors/18/full_yb92e9nbhfdi.jpg",
+      "collections": [
+        "granit"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Нежно-Белый",
+      "code": "G185",
+      "url": "https://hi-macs.ru/img/colors/274/full_n7eizi0b5r6h.png",
+      "collections": [
+        "granit"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Нежно-Серый",
+      "code": "G186",
+      "url": "https://hi-macs.ru/img/colors/273/full_trk4sa11958n.png",
+      "collections": [
+        "granit"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Лебяжий пух",
+      "code": "G193",
+      "url": "https://hi-macs.ru/img/colors/177/full_be8ahne33kd4.jpg",
+      "collections": [
+        "granit"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Карамельно-Белый",
+      "code": "G235",
+      "url": "https://hi-macs.ru/img/colors/271/full_95715nss0att.png",
+      "collections": [
+        "granit"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Байкал",
+      "code": "G295",
+      "url": "https://hi-macs.ru/img/colors/217/full_81fdkyy6taz2.jpg",
+      "collections": [
+        "granit"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Белая Стелла",
+      "code": "G501",
+      "url": "https://hi-macs.ru/img/colors/182/full_bd62f1765523.jpg",
+      "collections": [
+        "granit"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Ночная Стелла",
+      "code": "G503",
+      "url": "https://hi-macs.ru/img/colors/184/full_yk23de29s9z3.jpg",
+      "collections": [
+        "granit"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Городской Бетон",
+      "code": "G554",
+      "url": "https://hi-macs.ru/img/colors/218/full_0bb80i1932zy.jpg",
+      "collections": [
+        "granit"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Стальной Бетон",
+      "code": "G555",
+      "url": "https://hi-macs.ru/img/colors/219/full_88n71zzr3nz0.jpg",
+      "collections": [
+        "granit"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Снежный Бетон",
+      "code": "G556",
+      "url": "https://hi-macs.ru/img/colors/220/full_a6ii1irab41z.jpg",
+      "collections": [
+        "granit"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Воздушный Бетон",
+      "code": "G557",
+      "url": "https://hi-macs.ru/img/colors/221/full_tz860f3r5h80.jpg",
+      "collections": [
+        "granit"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Белый Кварц",
+      "code": "G004",
+      "url": "https://hi-macs.ru/img/colors/29/full_7s1nkye0beie.jpg",
+      "collections": [
+        "kvarts"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Морской Кварц",
+      "code": "G038",
+      "url": "https://hi-macs.ru/img/colors/32/full_tky4rek01kh0.jpg",
+      "collections": [
+        "kvarts"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Кристально-Бежевый",
+      "code": "G101",
+      "url": "https://hi-macs.ru/img/colors/36/full_36hyh3n5izz0.jpg",
+      "collections": [
+        "kvarts"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Белый Перламутр",
+      "code": "P001",
+      "url": "https://hi-macs.ru/img/colors/13/full_zzh8kfd05hs3.jpg",
+      "collections": [
+        "pesok-i-zhemchug"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Белый Перламутр",
+      "code": "P004",
+      "url": "https://hi-macs.ru/img/colors/14/full_y6snk15ek0k3.jpg",
+      "collections": [
+        "pesok-i-zhemchug"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Черный Жемчуг",
+      "code": "G010",
+      "url": "https://hi-macs.ru/img/colors/8/full_6sb3y07rdte5.jpg",
+      "collections": [
+        "pesok-i-zhemchug"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Пляжный Песок",
+      "code": "G048",
+      "url": "https://hi-macs.ru/img/colors/11/full_ysayi7k7t5yf.jpg",
+      "collections": [
+        "pesok-i-zhemchug"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Лунный Песок",
+      "code": "G108",
+      "url": "https://hi-macs.ru/img/colors/194/full_tnk21nzyaeak.jpg",
+      "collections": [
+        "pesok-i-zhemchug"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Белый Песок",
+      "code": "G194",
+      "url": "https://hi-macs.ru/img/colors/214/full_f5d0hb8a8d1n.jpg",
+      "collections": [
+        "pesok-i-zhemchug"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Бежевый Песок",
+      "code": "G195",
+      "url": "https://hi-macs.ru/img/colors/215/full_nr15hnk4er4r.jpg",
+      "collections": [
+        "pesok-i-zhemchug"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Серый Песок",
+      "code": "G196",
+      "url": "https://hi-macs.ru/img/colors/216/full_9ezzaksse61n.jpg",
+      "collections": [
+        "pesok-i-zhemchug"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Санта Анна",
+      "code": "VA01",
+      "url": "https://hi-macs.ru/img/colors/168/full_eteaae0n5d83.jpg",
+      "collections": [
+        "volkaniks"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Тамбора",
+      "code": "VE01",
+      "url": "https://hi-macs.ru/img/colors/170/full_a8t5dbyd47rr.jpg",
+      "collections": [
+        "volkaniks"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Джемини",
+      "code": "VW01",
+      "url": "https://hi-macs.ru/img/colors/174/full_4zfy8dd9shyh.jpg",
+      "collections": [
+        "volkaniks"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Серый",
+      "code": "S005",
+      "url": "https://hi-macs.ru/img/colors/44/full_an87ta3bt2h6.jpg",
+      "collections": [
+        "solid"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Арктический Белый",
+      "code": "S006",
+      "url": "https://hi-macs.ru/img/colors/45/full_sdazzfrsn7d5.jpg",
+      "collections": [
+        "solid"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Кремовый",
+      "code": "S009",
+      "url": "https://hi-macs.ru/img/colors/46/full_t5e8ksi7ak1t.jpg",
+      "collections": [
+        "solid"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Черный",
+      "code": "S022",
+      "url": "https://hi-macs.ru/img/colors/47/full_zy96f551fdkt.jpg",
+      "collections": [
+        "solid"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Огненно-Красный",
+      "code": "S025",
+      "url": "https://hi-macs.ru/img/colors/48/full_z4fy7azn6rrf.jpg",
+      "collections": [
+        "solid"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Банана",
+      "code": "S026",
+      "url": "https://hi-macs.ru/img/colors/49/full_8554dyfzrf4k.jpg",
+      "collections": [
+        "solid"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Оранж",
+      "code": "S027",
+      "url": "https://hi-macs.ru/img/colors/195/full_0ya4t10f42ke.jpg",
+      "collections": [
+        "solid"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Альпийский Белый",
+      "code": "S028",
+      "url": "https://hi-macs.ru/img/colors/50/full_zrztr3t9b9ti.jpg",
+      "collections": [
+        "solid"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Бриллиантовый Белый",
+      "code": "S034",
+      "url": "https://hi-macs.ru/img/colors/51/full_ff5fnd62af5i.jpg",
+      "collections": [
+        "solid"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Кофейно-Коричневый",
+      "code": "S100",
+      "url": "https://hi-macs.ru/img/colors/138/full_f8b3rhdhatzr.png",
+      "collections": [
+        "solid"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Серый Бетон",
+      "code": "S103",
+      "url": "https://hi-macs.ru/img/colors/240/full_sta5fy344h20.png",
+      "collections": [
+        "solid"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Темная Ночь",
+      "code": "S111",
+      "url": "https://hi-macs.ru/img/colors/262/full_h7b81se19409.jpg",
+      "collections": [
+        "solid"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Кремовая Нуга",
+      "code": "S201",
+      "url": "https://hi-macs.ru/img/colors/55/full_is9nt3ts95a5.jpg",
+      "collections": [
+        "solid"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Нежно-Розовый",
+      "code": "S233",
+      "url": "https://hi-macs.ru/img/colors/261/full_if21rt764kfb.jpg",
+      "collections": [
+        "solid"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Городской Шалфей",
+      "code": "S235",
+      "url": "https://hi-macs.ru/img/colors/263/full_597t31zd3say.jpg",
+      "collections": [
+        "solid"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Опал",
+      "code": "S302",
+      "url": "https://hi-macs.ru/img/colors/57/full_n1znnsnz39te.jpg",
+      "collections": [
+        "lyusent"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Сапфир",
+      "code": "S303",
+      "url": "https://hi-macs.ru/img/colors/58/full_270s45baaed6.jpg",
+      "collections": [
+        "lyusent"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Ледяная Королева",
+      "code": "W001",
+      "url": "https://hi-macs.ru/img/colors/120/full_7ed9fkeha6ae.jpg",
+      "collections": [
+        "lyuchiya"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Облако",
+      "code": "W002",
+      "url": "https://hi-macs.ru/img/colors/121/full_3bkn25ya2as1.jpg",
+      "collections": [
+        "lyuchiya"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Королева Теней",
+      "code": "W003",
+      "url": "https://hi-macs.ru/img/colors/122/full_d1d0rhy1s2z5.jpg",
+      "collections": [
+        "lyuchiya"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Утреннее Спокойствие",
+      "code": "W021",
+      "url": "https://hi-macs.ru/img/colors/227/full_nsin196hsd62.jpg",
+      "collections": [
+        "lyuchiya"
+      ],
+      "isNew": false
+    },
+    {
+      "brand": "himacs",
+      "name": "Лунные Сумерки",
+      "code": "W022",
+      "url": "https://hi-macs.ru/img/colors/228/full_yk3edtdza53i.jpg",
+      "collections": [
+        "lyuchiya"
       ],
       "isNew": false
     }

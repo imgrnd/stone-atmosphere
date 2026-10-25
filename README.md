@@ -6,6 +6,14 @@ A plain HTML and JavaScript folder. No build step.
 
 Публичный сайт: после push в `github` → `main` обновляется автоматически (Settings → Pages: ветка `main`, папка `/`).
 
+Первый раз (нужен `gh auth login`):
+
+```bash
+./scripts/publish-github-pages.sh
+```
+
+Дальше после правок:
+
 ```bash
 git push github main
 ```

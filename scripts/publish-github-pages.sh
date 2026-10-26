@@ -2,7 +2,7 @@
 set -euo pipefail
 
 REPO_NAME="${GITHUB_PAGES_REPO:-stone-atmosphere}"
-OWNER="${GITHUB_OWNER:-mahira-tahir}"
+OWNER="${GITHUB_OWNER:-imgrnd}"
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 
 cd "$ROOT"

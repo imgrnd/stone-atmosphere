@@ -4,7 +4,7 @@ A plain HTML and JavaScript folder. No build step.
 
 ### GitHub Pages
 
-Публичный сайт: после push в `github` → `main` обновляется автоматически (Settings → Pages: ветка `main`, папка `/`).
+Публичный сайт: https://imgrnd.github.io/stone-atmosphere/ — после `git push github main` обновляется автоматически (ветка `main`, папка `/`).
 
 Первый раз (нужен `gh auth login`):
 

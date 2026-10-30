@@ -686,9 +686,23 @@ function initBrief() {
   }
 
   const phone = form.querySelector('input[name="phone"]');
+  const consent = form.querySelector('input[name="consent"]');
   const file = form.querySelector('input[type="file"]');
   const fileName = form.querySelector(".brief__file-name");
   const fileLabel = fileName ? fileName.textContent : "";
+  const notice = document.getElementById("brief-notice");
+
+  const briefStatus = new URLSearchParams(window.location.search).get("brief");
+
+  if (notice) {
+    if (briefStatus === "sent") {
+      notice.hidden = false;
+      notice.textContent = "Заявка отправлена. Мы свяжемся с вами в ближайшее время.";
+    } else if (briefStatus === "error") {
+      notice.hidden = false;
+      notice.textContent = "Не удалось отправить заявку. Проверьте телефон, согласие и файл (PDF, JPG, PNG до 8 МБ).";
+    }
+  }
 
   phone.addEventListener("focus", () => {
     if (!phone.value) {
@@ -715,6 +729,18 @@ function initBrief() {
       event.preventDefault();
       phone.setCustomValidity("Введите телефон полностью");
       phone.reportValidity();
+      return;
+    }
+
+    if (consent && !consent.checked) {
+      event.preventDefault();
+      consent.setCustomValidity("Нужно согласие на обработку данных");
+      consent.reportValidity();
+      return;
+    }
+
+    if (consent) {
+      consent.setCustomValidity("");
     }
   });
 

@@ -481,7 +481,7 @@
             <figcaption class="brief__caption">Стоимость зависит от материала, размеров, сложности обработки и монтажа. Итоговый расчёт — после уточнения деталей.</figcaption>
           </figure>
         </div>
-        <form class="brief__form" method="post" action="#brief">
+        <form class="brief__form" method="post" action="/api/brief-submit.php" enctype="multipart/form-data">
           <div class="brief__row">
           <label class="brief__field">
             <span class="brief__label">Ваше имя</span>
@@ -522,10 +522,11 @@
           <span class="brief__file-hint">PDF, JPG, PNG</span>
         </label>
         <div class="brief__agree">
-          <input class="brief__check" id="brief-consent" type="checkbox" name="consent" value="yes">
+          <input class="brief__check" id="brief-consent" type="checkbox" name="consent" value="yes" required>
           <label class="brief__consent" for="brief-consent">Соглашаюсь на обработку персональных данных и принимаю <a class="brief__policy" href="404.html">политику конфиденциальности</a>.</label>
         </div>
           <div class="brief__send">
+            <p class="brief__notice" id="brief-notice" role="status" hidden></p>
             <button class="brief__submit" type="submit">Получить предварительный расчёт<i class="glyph ri-external-link-fill" aria-hidden="true"></i></button>
             <p class="brief__required" id="brief-required">* Обязательное поле</p>
           </div>

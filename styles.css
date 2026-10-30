@@ -2126,6 +2126,17 @@ main {
   line-height: 1.4;
 }
 
+.brief__notice {
+  margin: 0;
+  padding: var(--space-sm) var(--space-md);
+  border: 1px solid var(--brief-line);
+  background: var(--brief-bg);
+  color: var(--brief-ink);
+  font-size: var(--text-ui);
+  line-height: 1.45;
+  text-wrap: pretty;
+}
+
 .brief a:focus-visible,
 .brief button:focus-visible,
 .brief input:focus-visible,
@@ -4964,5 +4975,109 @@ html:has(.catalog-admin-page) {
 
   .case__collage--3 .case__cell:first-child .case__img {
     aspect-ratio: 16 / 9;
+  }
+}
+
+.brief-admin-page {
+  --adm-ink: var(--ink);
+  --adm-muted: var(--muted);
+  --adm-line: var(--line);
+  --adm-surface: var(--light);
+  min-height: 100vh;
+  background: var(--adm-surface);
+  color: var(--adm-ink);
+}
+
+.brief-admin {
+  max-width: 72rem;
+  margin: 0 auto;
+  padding: var(--space-xl) var(--pad) var(--space-2xl);
+}
+
+.brief-admin__eyebrow {
+  margin: 0 0 var(--space-xs);
+  color: var(--adm-muted);
+  font-size: 0.6875rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.brief-admin__title {
+  margin: 0 0 var(--space-sm);
+  font-family: var(--font-display);
+  font-size: clamp(1.75rem, 4vw, 2.25rem);
+  font-weight: 600;
+  line-height: 1.15;
+}
+
+.brief-admin__lead {
+  margin: 0 0 var(--space-xl);
+  color: var(--adm-muted);
+  font-size: 0.9375rem;
+  line-height: 1.5;
+}
+
+.brief-admin__empty {
+  margin: 0;
+  padding: var(--space-lg);
+  border: 1px solid var(--adm-line);
+  color: var(--adm-muted);
+}
+
+.brief-admin__table-wrap {
+  overflow-x: auto;
+  border: 1px solid var(--adm-line);
+}
+
+.brief-admin__table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.8125rem;
+  line-height: 1.45;
+}
+
+.brief-admin__table th,
+.brief-admin__table td {
+  padding: var(--space-sm) var(--space-md);
+  border-bottom: 1px solid var(--adm-line);
+  text-align: left;
+  vertical-align: top;
+}
+
+.brief-admin__table th {
+  color: var(--adm-muted);
+  font-size: 0.625rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.brief-admin__table tbody tr:last-child td {
+  border-bottom: 0;
+}
+
+.brief-admin__date {
+  white-space: nowrap;
+}
+
+.brief-admin__project {
+  max-width: 22rem;
+  overflow-wrap: anywhere;
+}
+
+.brief-admin__table a {
+  color: var(--adm-ink);
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+.brief-admin__table a:hover,
+.brief-admin__table a:focus-visible {
+  color: var(--olive);
+}
+
+@media (min-width: 1024px) {
+  .brief-admin {
+    padding-top: var(--space-2xl);
   }
 }

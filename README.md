@@ -64,6 +64,25 @@ node scripts/build-catalog-mini.mjs
 
 В git коммитьте `catalog-mini.config.json`, `catalog-mini.js` и `catalog-mini/*.json` (кроме служебного `_candidates.json`, его можно пересоздать).
 
+### Заявки с формы на главной (PHP)
+
+Приём заявок и просмотр в браузере на обычном PHP-хостинге (например `stone-vibe.ru`), без Python.
+
+**Один раз на сервере** (рядом с `public_html`, не в git):
+
+```bash
+mkdir -p ~/domains/stone-vibe.ru/private/briefs
+chmod 750 ~/domains/stone-vibe.ru/private ~/domains/stone-vibe.ru/private/briefs
+cp deploy/brief-config.example.php ~/domains/stone-vibe.ru/private/brief-config.php
+# задайте admin_password_hash: php -r "echo password_hash('ВАШ_ПАРОЛЬ', PASSWORD_DEFAULT), PHP_EOL;"
+chmod 600 ~/domains/stone-vibe.ru/private/brief-config.php
+```
+
+В `public_html` должны быть каталоги из репо: `api/`, `admin/`, `lib/` (вместе с остальной статикой). Папку `private/` **не** копировать в `public_html`. При `rsync` не затирайте `~/domains/…/private/`.
+
+- Форма на главной → `POST /api/brief-submit.php`
+- Список заявок: **https://ваш-домен.ru/admin/briefs.php** (HTTP Basic Auth, логин из `brief-config.php`)
+
 ### Экспорт коллекций с сайтов партнёров
 
 Служебная форма (Interstone, Staron, HI-MACS → фрагмент `stones.json`) — через тот же сервер выше.

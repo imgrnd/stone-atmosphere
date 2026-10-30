@@ -47,7 +47,6 @@ function openBriefDialog(dialog, dialogTitle, dialogText, dialogClose, mode) {
   const buttonLabel = isSuccess ? "Хорошо" : "Понятно";
 
   if (!dialog || !dialogTitle || !dialogText || typeof dialog.showModal !== "function") {
-    window.alert(`${title}\n\n${text}`);
     return;
   }
 
@@ -82,7 +81,11 @@ function initBriefForm() {
   const briefStatus = new URLSearchParams(window.location.search).get("brief");
 
   if (briefStatus === "sent" || briefStatus === "error") {
-    openBriefDialog(dialog, dialogTitle, dialogText, dialogClose, briefStatus);
+    const seenKey = `brief-notice-${briefStatus}`;
+    if (!sessionStorage.getItem(seenKey)) {
+      openBriefDialog(dialog, dialogTitle, dialogText, dialogClose, briefStatus);
+      sessionStorage.setItem(seenKey, "1");
+    }
     const cleanUrl = `${window.location.pathname}${window.location.hash || "#brief"}`;
     window.history.replaceState(null, "", cleanUrl);
   }
@@ -149,15 +152,18 @@ function initBriefForm() {
     }
 
     const action = form.getAttribute("action") || "api/brief-submit.php";
+    const body = new FormData(form);
+    body.append("_brief_ajax", "1");
 
     try {
       const response = await fetch(action, {
         method: "POST",
-        body: new FormData(form),
+        body,
         headers: {
           "X-Brief-Request": "1",
         },
         credentials: "same-origin",
+        redirect: "manual",
       });
 
       let payload = null;
@@ -168,7 +174,13 @@ function initBriefForm() {
         payload = null;
       }
 
-      if (response.ok && payload && payload.ok) {
+      const location = response.headers.get("Location") || "";
+      const redirectedToSent =
+        response.status >= 300 &&
+        response.status < 400 &&
+        /brief=sent/i.test(location);
+
+      if ((payload && payload.ok === true) || redirectedToSent) {
         form.reset();
         if (fileName) {
           fileName.textContent = fileLabel;

@@ -126,7 +126,11 @@ function brief_require_admin_auth(): void
 
 function brief_wants_json(): bool
 {
-    return ($_SERVER['HTTP_X_BRIEF_REQUEST'] ?? '') === '1';
+    if (($_SERVER['HTTP_X_BRIEF_REQUEST'] ?? '') === '1') {
+        return true;
+    }
+
+    return ($_POST['_brief_ajax'] ?? '') === '1';
 }
 
 function brief_json_response(array $payload, int $status = 200): never

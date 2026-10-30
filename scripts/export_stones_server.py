@@ -3,7 +3,10 @@
 
 from __future__ import annotations
 
+import base64
 import json
+import os
+import secrets
 import socket
 import subprocess
 import sys
@@ -19,7 +22,41 @@ try:
 except ImportError:  # pragma: no cover
     from scripts.partner_export import export_himacs, export_interstone_brand, export_staron_collection, load_catalog
 
-PORT = 43124
+DEFAULT_PORT = 43124
+AUTH_REALM = "AcrylicGoose Admin"
+MIN_PASSWORD_LEN = 20
+
+
+def server_config():
+    password = os.environ.get("ADMIN_PASSWORD", "")
+    user = os.environ.get("ADMIN_USER", "").strip()
+    auth_enabled = bool(password)
+
+    if auth_enabled and not user:
+        print("ADMIN_PASSWORD задан, но ADMIN_USER пуст.", file=sys.stderr)
+        sys.exit(1)
+
+    if auth_enabled and len(password) < MIN_PASSWORD_LEN:
+        print(
+            f"ADMIN_PASSWORD короче {MIN_PASSWORD_LEN} символов — задайте более длинный пароль.",
+            file=sys.stderr,
+        )
+        sys.exit(1)
+
+    port_raw = os.environ.get("ADMIN_PORT", "").strip()
+    port = int(port_raw) if port_raw else DEFAULT_PORT
+
+    bind = os.environ.get("ADMIN_BIND", "").strip()
+    if not bind:
+        bind = "127.0.0.1" if auth_enabled else "0.0.0.0"
+
+    return {
+        "auth_enabled": auth_enabled,
+        "user": user,
+        "password": password,
+        "bind": bind,
+        "port": port,
+    }
 
 
 def run_node_cli(command, payload=None):
@@ -48,8 +85,48 @@ def run_node_cli(command, payload=None):
 
 
 class ExportHandler(SimpleHTTPRequestHandler):
+    auth_enabled = False
+    auth_user = ""
+    auth_password = ""
+    server_port = DEFAULT_PORT
+
     def __init__(self, *args, **kwargs):
         super().__init__(*args, directory=str(ROOT), **kwargs)
+
+    def _send_unauthorized(self):
+        self.send_response(401)
+        self.send_header("WWW-Authenticate", f'Basic realm="{AUTH_REALM}"')
+        self.send_header("Content-Type", "text/plain; charset=utf-8")
+        self.end_headers()
+        self.wfile.write("Требуется авторизация".encode("utf-8"))
+
+    def _authorized(self):
+        if not self.auth_enabled:
+            return True
+
+        header = self.headers.get("Authorization")
+        if not header or not header.startswith("Basic "):
+            self._send_unauthorized()
+            return False
+
+        try:
+            decoded = base64.b64decode(header[6:].strip(), validate=True).decode("utf-8")
+        except (ValueError, UnicodeDecodeError):
+            self._send_unauthorized()
+            return False
+
+        user, separator, password = decoded.partition(":")
+        if not separator:
+            self._send_unauthorized()
+            return False
+
+        user_ok = secrets.compare_digest(user, self.auth_user)
+        pass_ok = secrets.compare_digest(password, self.auth_password)
+        if not (user_ok and pass_ok):
+            self._send_unauthorized()
+            return False
+
+        return True
 
     def log_message(self, format, *args):
         if args and str(args[0]).startswith("GET /api/"):
@@ -61,6 +138,9 @@ class ExportHandler(SimpleHTTPRequestHandler):
         super().end_headers()
 
     def do_GET(self):
+        if not self._authorized():
+            return
+
         path = urlparse(self.path).path
         if path == "/api/catalog":
             self._json_response(load_catalog())
@@ -68,8 +148,9 @@ class ExportHandler(SimpleHTTPRequestHandler):
         if path == "/api/health":
             self._json_response({
                 "ok": True,
-                "port": PORT,
+                "port": self.server_port,
                 "features": ["export", "catalog-mini"],
+                "auth": self.auth_enabled,
             })
             return
         if path == "/api/catalog-mini/state":
@@ -87,6 +168,9 @@ class ExportHandler(SimpleHTTPRequestHandler):
         super().do_GET()
 
     def do_PUT(self):
+        if not self._authorized():
+            return
+
         path = urlparse(self.path).path
         if path == "/api/catalog-mini/config":
             self._save_catalog_config()
@@ -94,6 +178,9 @@ class ExportHandler(SimpleHTTPRequestHandler):
         self.send_error(404)
 
     def do_POST(self):
+        if not self._authorized():
+            return
+
         path = urlparse(self.path).path
 
         if path == "/api/catalog-mini/config":
@@ -186,11 +273,26 @@ def lan_address():
 
 
 def run():
-    server = ThreadingHTTPServer(("0.0.0.0", PORT), ExportHandler)
-    print(f"На этом компьютере: http://127.0.0.1:{PORT}/", flush=True)
-    address = lan_address()
-    if address and not address.startswith("127."):
-        print(f"С телефона в той же сети: http://{address}:{PORT}/", flush=True)
+    config = server_config()
+
+    ExportHandler.auth_enabled = config["auth_enabled"]
+    ExportHandler.auth_user = config["user"]
+    ExportHandler.auth_password = config["password"]
+    ExportHandler.server_port = config["port"]
+
+    server = ThreadingHTTPServer((config["bind"], config["port"]), ExportHandler)
+
+    if config["auth_enabled"]:
+        print(
+            f"Auth включён, bind={config['bind']}:{config['port']} (откройте через HTTPS reverse proxy)",
+            flush=True,
+        )
+    else:
+        print(f"На этом компьютере: http://127.0.0.1:{config['port']}/", flush=True)
+        if config["bind"] == "0.0.0.0":
+            address = lan_address()
+            if address and not address.startswith("127."):
+                print(f"С телефона в той же сети: http://{address}:{config['port']}/", flush=True)
     try:
         server.serve_forever()
     except KeyboardInterrupt:

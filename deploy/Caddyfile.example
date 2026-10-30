@@ -1,0 +1,7 @@
+# Поддомен админки. Auth — в приложении (Basic); TLS — здесь.
+# Установите Caddy, положите файл как /etc/caddy/Caddyfile или include.
+
+admin.example.com {
+	encode gzip
+	reverse_proxy 127.0.0.1:43124
+}

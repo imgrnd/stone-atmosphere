@@ -18,7 +18,7 @@ A plain HTML and JavaScript folder. No build step.
 git push github main
 ```
 
-Админка (`admin.html`, `catalog-admin.html`, `stones-export.html`) только локально через `scripts/export_stones_server.py`.
+Админка (`admin.html`, `catalog-admin.html`, `stones-export.html`) **не работает на GitHub Pages** (нет API). Локально или на VPS — через `scripts/export_stones_server.py`.
 
 From the repo root:
 
@@ -34,11 +34,27 @@ Open http://127.0.0.1:43123
 python3 scripts/export_stones_server.py
 ```
 
+Без переменных `ADMIN_*` сервер открыт без пароля (только для разработки на своём компьютере).
+
 Если админка пустая: на 43124 не должен быть `python3 -m http.server` — только этот скрипт. Перезапустите его после обновления кода.
 
 - http://127.0.0.1:43124/admin.html — хаб
 - http://127.0.0.1:43124/catalog-admin.html — мини-каталог на главной (бренды, порядок, ручной набор слайдов)
 - http://127.0.0.1:43124/stones-export.html — экспорт партнёров в `stones.json`
+
+### Админка на VPS (прод)
+
+Публичный сайт остаётся на GitHub Pages (или FTP на `www`). Редактирование каталога — отдельный поддомен, например `https://admin.ваш-домен.ru/`, с **HTTPS** и **HTTP Basic Auth**.
+
+1. Клонировать репозиторий на сервер (нужны Python 3 и Node.js).
+2. Скопировать [deploy/admin.env.example](deploy/admin.env.example) в `/etc/acrylicgoose/admin.env`, задать `ADMIN_USER` и длинный `ADMIN_PASSWORD` (≥20 символов), `chmod 600`.
+3. Подключить [deploy/acrylicgoose-admin.service](deploy/acrylicgoose-admin.service): поправить `WorkingDirectory`, `systemctl enable --now acrylicgoose-admin`.
+4. Настроить TLS reverse proxy на `127.0.0.1:43124` — [deploy/Caddyfile.example](deploy/Caddyfile.example) или [deploy/nginx-admin.conf.example](deploy/nginx-admin.conf.example). Basic Auth запрашивает сам Python-сервер; без HTTPS пароль передаётся открытым текстом.
+5. Закрыть порт 43124 снаружи firewall (слушает только `127.0.0.1`, если `ADMIN_BIND` не меняли).
+
+Страницы `…/admin.html` на `github.io` — только статическая копия интерфейса, API там нет. Рабочий вход: URL вашего admin-хоста после шага 4.
+
+После правок на VPS закоммитьте изменённые `catalog-mini.config.json`, `catalog-mini/*.json` и при необходимости `stones.json`, затем `git push github main` или выгрузка на хостинг по FTP.
 
 Конфиг мини-каталога: `catalog-mini.config.json`. После правок в админке нажмите «Применить на главной» или:
 

@@ -1,0 +1,14 @@
+[Unit]
+Description=AcrylicGoose admin (export_stones_server.py)
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/var/www/acrylicgoose
+EnvironmentFile=/etc/acrylicgoose/admin.env
+ExecStart=/usr/bin/python3 scripts/export_stones_server.py
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

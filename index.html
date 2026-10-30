@@ -9,7 +9,7 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Onest:wght@200;300;500;600&display=swap">
   <link rel="stylesheet" href="vendor/swiper/swiper-bundle.min.css">
   <link rel="stylesheet" href="vendor/remixicon/remixicon.css">
-  <link rel="stylesheet" href="styles.css?v=137">
+  <link rel="stylesheet" href="styles.css?v=141">
 </head>
 <body>
   <div class="contacts">
@@ -481,7 +481,7 @@
             <figcaption class="brief__caption">Стоимость зависит от материала, размеров, сложности обработки и монтажа. Итоговый расчёт — после уточнения деталей.</figcaption>
           </figure>
         </div>
-        <form class="brief__form" method="post" action="/api/brief-submit.php" enctype="multipart/form-data">
+        <form class="brief__form" method="post" action="api/brief-submit.php" enctype="multipart/form-data">
           <div class="brief__row">
           <label class="brief__field">
             <span class="brief__label">Ваше имя</span>
@@ -526,7 +526,6 @@
           <label class="brief__consent" for="brief-consent">Соглашаюсь на обработку персональных данных и принимаю <a class="brief__policy" href="404.html">политику конфиденциальности</a>.</label>
         </div>
           <div class="brief__send">
-            <p class="brief__notice" id="brief-notice" role="status" hidden></p>
             <button class="brief__submit" type="submit">Получить предварительный расчёт<i class="glyph ri-external-link-fill" aria-hidden="true"></i></button>
             <p class="brief__required" id="brief-required">* Обязательное поле</p>
           </div>
@@ -633,8 +632,17 @@
     </div>
   </footer>
   </div>
+  <dialog class="brief-dialog" id="brief-dialog" aria-labelledby="brief-dialog-title">
+    <div class="brief-dialog__panel">
+      <p class="brief-dialog__eyebrow">Заявка</p>
+      <h2 class="brief-dialog__title" id="brief-dialog-title"></h2>
+      <p class="brief-dialog__text" id="brief-dialog-text"></p>
+      <button class="brief-dialog__close" type="button" id="brief-dialog-close">Хорошо</button>
+    </div>
+  </dialog>
   <script src="vendor/swiper/swiper-bundle.min.js"></script>
   <script src="catalog-mini.js"></script>
-  <script src="main.js?v=11"></script>
+  <script src="brief-form.js?v=1"></script>
+  <script src="main.js?v=13"></script>
 </body>
 </html>

@@ -2126,15 +2126,88 @@ main {
   line-height: 1.4;
 }
 
-.brief__notice {
-  margin: 0;
-  padding: var(--space-sm) var(--space-md);
+.brief-dialog {
+  --brief-bg: #30362c;
+  --brief-ink: #f4f1ea;
+  --brief-muted: #8a8f7c;
+  --brief-line: #6b7165;
+  width: min(22rem, calc(100% - var(--pad) * 2));
+  margin: auto;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: var(--brief-ink);
+}
+
+.brief-dialog::backdrop {
+  background: color-mix(in srgb, #1a1d18 55%, transparent);
+}
+
+.brief-dialog__panel {
+  display: grid;
+  gap: var(--space-md);
+  padding: var(--space-lg) var(--space-md);
   border: 1px solid var(--brief-line);
   background: var(--brief-bg);
-  color: var(--brief-ink);
-  font-size: var(--text-ui);
-  line-height: 1.45;
+}
+
+.brief-dialog__eyebrow {
+  margin: 0;
+  color: var(--brief-muted);
+  font-size: 0.6875rem;
+  letter-spacing: 0.12em;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+
+.brief-dialog__title {
+  margin: 0;
+  font-family: var(--font-display);
+  font-size: clamp(1.5rem, 4vw, 1.875rem);
+  font-weight: 600;
+  line-height: 1.15;
+}
+
+.brief-dialog__text {
+  margin: 0;
+  color: color-mix(in srgb, var(--brief-ink) 82%, var(--brief-muted));
+  font-size: 0.9375rem;
+  line-height: 1.5;
   text-wrap: pretty;
+}
+
+.brief-dialog__close {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  min-height: var(--control);
+  margin-top: var(--space-xs);
+  padding: 0 var(--space-md);
+  border: 0;
+  background: var(--olive);
+  color: var(--light);
+  font-size: var(--text-ui);
+  font-weight: var(--weight-button);
+  line-height: 1.2;
+  cursor: pointer;
+}
+
+.brief-dialog__close:hover,
+.brief-dialog__close:focus-visible {
+  background: color-mix(in srgb, var(--olive) 82%, var(--ink));
+  outline: 2px solid color-mix(in srgb, var(--brief-ink) 35%, transparent);
+  outline-offset: 2px;
+}
+
+@media (min-width: 1024px) {
+  .brief-dialog {
+    width: min(24rem, calc(100% - var(--pad) * 2));
+  }
+
+  .brief-dialog__panel {
+    padding: var(--space-xl) var(--space-lg);
+  }
 }
 
 .brief a:focus-visible,

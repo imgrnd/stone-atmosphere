@@ -62,6 +62,37 @@ function brief_material_label(string $value): string
     return $map[$value] ?? $value;
 }
 
+function brief_basic_credentials(): array
+{
+    $user = $_SERVER['PHP_AUTH_USER'] ?? '';
+    $pass = $_SERVER['PHP_AUTH_PW'] ?? '';
+
+    if ($user !== '' && $pass !== '') {
+        return [$user, $pass];
+    }
+
+    $header = $_SERVER['HTTP_AUTHORIZATION'] ?? $_SERVER['REDIRECT_HTTP_AUTHORIZATION'] ?? '';
+
+    if ($header === '' && function_exists('apache_request_headers')) {
+        $headers = apache_request_headers();
+        $header = $headers['Authorization'] ?? $headers['authorization'] ?? '';
+    }
+
+    if (!is_string($header) || !str_starts_with($header, 'Basic ')) {
+        return ['', ''];
+    }
+
+    $decoded = base64_decode(substr($header, 6), true);
+
+    if ($decoded === false || !str_contains($decoded, ':')) {
+        return ['', ''];
+    }
+
+    [$user, $pass] = explode(':', $decoded, 2);
+
+    return [$user, $pass];
+}
+
 function brief_require_admin_auth(): void
 {
     $config = brief_load_config();
@@ -75,22 +106,50 @@ function brief_require_admin_auth(): void
         exit;
     }
 
-    $givenUser = $_SERVER['PHP_AUTH_USER'] ?? '';
-    $givenPass = $_SERVER['PHP_AUTH_PW'] ?? '';
+    if (str_contains($hash, 'REPLACE_WITH')) {
+        http_response_code(503);
+        header('Content-Type: text/plain; charset=utf-8');
+        echo 'Задайте admin_password_hash в brief-config.php (php password_hash).';
+        exit;
+    }
+
+    [$givenUser, $givenPass] = brief_basic_credentials();
 
     if ($givenUser === '' || $givenPass === '' || $givenUser !== $user || !password_verify($givenPass, $hash)) {
         header('WWW-Authenticate: Basic realm="Stone Vibe Briefs"');
         header('HTTP/1.0 401 Unauthorized');
         header('Content-Type: text/plain; charset=utf-8');
-        echo 'Требуется авторизация';
+        echo 'Неверный логин или пароль';
         exit;
     }
+}
+
+function brief_wants_json(): bool
+{
+    return ($_SERVER['HTTP_X_BRIEF_REQUEST'] ?? '') === '1';
+}
+
+function brief_json_response(array $payload, int $status = 200): never
+{
+    http_response_code($status);
+    header('Content-Type: application/json; charset=utf-8');
+    echo json_encode($payload, JSON_UNESCAPED_UNICODE);
+    exit;
 }
 
 function brief_redirect_home(string $query): never
 {
     header('Location: /index.html?' . $query . '#brief', true, 303);
     exit;
+}
+
+function brief_fail(string $query, int $jsonStatus = 400): never
+{
+    if (brief_wants_json()) {
+        brief_json_response(['ok' => false, 'status' => 'error'], $jsonStatus);
+    }
+
+    brief_redirect_home($query);
 }
 
 function brief_normalize_phone(string $raw): ?string

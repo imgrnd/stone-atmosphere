@@ -1,0 +1,58 @@
+{
+  "slug": "fartuk-integrirovannaya-moyka",
+  "title": "Столешница с фартуком и интегрированной мойкой",
+  "eyebrow": "Акриловый камень · столешница и фартук",
+  "lead": "Столешница, фартук и интегрированная мойка из одного материала — без шва между чашей и рабочей поверхностью.",
+  "tags": ["Акриловый камень", "столешница и фартук", "интегрированная мойка"],
+  "cover": {
+    "mobile": "imgs/cases/fartuk-integrirovannaya-moyka/01.jpg",
+    "alt": "Кухня со столешницей, фартуком и интегрированной мойкой из акрилового камня"
+  },
+  "blocks": [
+    {
+      "type": "lead",
+      "eyebrow": "Акриловый камень · столешница и фартук",
+      "title": "Столешница с фартуком и интегрированной мойкой",
+      "text": "Столешница, фартук и интегрированная мойка из одного материала — без шва между чашей и рабочей поверхностью."
+    },
+    {
+      "type": "media",
+      "mobile": "imgs/cases/fartuk-integrirovannaya-moyka/01.jpg",
+      "alt": "Кухня с белой столешницей, фартуком и интегрированной мойкой",
+      "caption": "Общий вид"
+    },
+    {
+      "type": "duo",
+      "items": [
+        {
+          "mobile": "imgs/cases/fartuk-integrirovannaya-moyka/02.jpg",
+          "alt": "Столешница с варочной панелью и интегрированной мойкой",
+          "caption": "Рабочая зона"
+        },
+        {
+          "mobile": "imgs/cases/fartuk-integrirovannaya-moyka/03.jpg",
+          "alt": "Интегрированная мойка в столешнице из акрилового камня",
+          "caption": "Интегрированная мойка"
+        }
+      ]
+    },
+    {
+      "type": "split",
+      "side": "start",
+      "src": "imgs/cases/fartuk-integrirovannaya-moyka/video-01.mp4",
+      "poster": "imgs/cases/fartuk-integrirovannaya-moyka/video-01.jpg",
+      "caption": "Стык и кромка",
+      "eyebrow": "Изделие",
+      "title": "Фартук и мойка",
+      "text": "Фартук стыкуется со столешницей и мойкой без отдельной чаши: кромка и линия рабочей зоны идут непрерывно.",
+      "note": "Текст черновой, кадры с объекта."
+    },
+    {
+      "type": "next",
+      "slug": "integrirovannaya-moyka",
+      "title": "Интегрированная мойка",
+      "mobile": "imgs/cases/integrirovannaya-moyka/01.jpg",
+      "alt": "Кухня с интегрированной мойкой из камня"
+    }
+  ]
+}

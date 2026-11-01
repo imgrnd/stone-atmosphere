@@ -145,7 +145,8 @@ function renderSplit(block) {
     copy.append(note);
   }
 
-  section.append(figure(block, block.caption), copy);
+  const media = block.src ? renderVideo(block) : figure(block, block.caption);
+  section.append(media, copy);
   return section;
 }
 

@@ -70,11 +70,10 @@
     },
     {
       "type": "next",
-      "slug": "teplyy-minimalizm",
-      "title": "Тёплый минимализм",
-      "mobile": "imgs/01 Кухня — Мобильный 4_5.png",
-      "desktop": "imgs/01 Кухня — ПК 16_9.png",
-      "alt": "Кухня с островом и каменной столешницей"
+      "slug": "stoleshnitsa-fartuk-moyka",
+      "title": "Столешница с фартуком",
+      "mobile": "imgs/cases/stoleshnitsa-fartuk-moyka/01.jpg",
+      "alt": "Кухня со столешницей, фартуком и мойкой подстольного монтажа из акрилового камня"
     }
   ]
 }
